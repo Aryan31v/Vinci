@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 🧬 Tridosha Fundamentals\n\n**Definition:** The three bio-energies governing all functions.\n\n> वायुः पित्तं कफश्चेति त्रयो दोषाः समासतः।\n> *Vāyuḥ pittaṃ kaphaśceti trayo doṣāḥ samāsataḥ।* (AH Su 1/6)","x":0,"y":-120,"width":420,"height":320},
+		{"id":"vata","type":"text","text":"## 🌪️ Vata (Air/Ether)\n\n**Root:** वा गति गन्धनयोः (Va Gati Gandhanayoh)\n*That which moves.*\n\n**Locations (Sthana):**\n- **Pakvashaya (Colon)** 🎯\n- Waist, Ear, Bones, Skin\n\n**Functions:**\n- Movement (Gati)\n- Respiration\n- Nerve Impulse","x":-500,"y":300,"width":350,"height":400},
+		{"id":"pitta","type":"text","text":"## 🔥 Pitta (Fire/Water)\n\n**Root:** तप सन्तापे (Tapa Santape)\n*That which generates heat.*\n\n**Locations (Sthana):**\n- **Nabhi (Navel/Small Intestine)** 🎯\n- Stomach, Blood, Eyes, Skin\n\n**Functions:**\n- Digestion (Paka)\n- Metabolism\n- Intelligence","x":0,"y":300,"width":350,"height":400},
+		{"id":"kapha","type":"text","text":"## 💧 Kapha (Water/Earth)\n\n**Root:** श्लिष आलिंगने (Shlisha Alingane)\n*That which binds.*\n\n**Locations (Sthana):**\n- **Urah (Chest)** 🎯\n- Throat, Head, Joints, Stomach\n\n**Functions:**\n- Stability (Sthirata)\n- Lubrication\n- Immunity","x":500,"y":300,"width":350,"height":400},
+		{"id":"yukti","type":"text","text":"## 🔗 Interconnected Systems (Yukti)\n\n- **Sanskrit Grammar Link:**\n    - *Va* (Move), *Tap* (Heat), *Shlish* (Stick) -> Roots = Functions.\n- **Rachana Sharir Link:**\n    - *Sthana* map to Anatomy (Pakvashaya = Colon).","x":-500,"y":800,"width":600,"height":250},
+		{"id":"exam","type":"text","text":"## 📝 Exam Corner (Pariksha)\n\n- **LAQ (10M):** Locations, properties, functions of Vata.\n- **SAQ (5M):** Define Tridosha & Mahabhuta.\n- **MCQ:** Seat of Vata? (Ans: **Pakvashaya**).","x":250,"y":800,"width":600,"height":250}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"bottom","toNode":"vata","toSide":"top"},
+		{"id":"e2","fromNode":"center","fromSide":"bottom","toNode":"pitta","toSide":"top"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"kapha","toSide":"top"},
+		{"id":"e4","fromNode":"vata","fromSide":"bottom","toNode":"yukti","toSide":"top"},
+		{"id":"e5","fromNode":"kapha","fromSide":"bottom","toNode":"exam","toSide":"top"}
+	]
+}

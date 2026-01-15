@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"intro","type":"text","text":"# 🦴 Clavicle (The Collar Bone)\n\n## 1. Definition & Position\n- **Type:** Modified Long Bone.\n- **Location:** Horizontal, at the root of the neck.\n- **Link:** Connects Upper Limb ↔️ Axial Skeleton.\n\n## 2. Peculiarities (Special Features)\n> [!important] Exam Keypoints\n- **Ossification Start:** First to ossify (5-6th week I.U.L).\n- **Ossification End:** Last to complete (25 years).\n- **Mode:** Only long bone to ossify in **Membrane**.\n- **Cavity:** **NO** medullary cavity.\n- **Position:** Subcutaneous throughout.\n- **Function:** Transmits weight from Limb to Sternum.\n- **Piercing:** Occasionally pierced by Supraclavicular nerve.","x":0,"y":-100,"width":550,"height":600,"color":"1"},
+		{"id":"side","type":"text","text":"## 3. Side Determination (>3 Points)\n\n**Ends:**\n- **Lateral:** Flattened (Above downwards).\n- **Medial:** Large, Quadrangular (Prismatic).\n\n**Shaft Curvature:**\n- **Medial 2/3:** Convex Anteriorly (Rounded).\n- **Lateral 1/3:** Concave Anteriorly (Flattened).\n\n**Inferior Surface:**\n- Contains **Subclavian Groove** (Longitudinal) on middle 1/3.","x":-700,"y":-100,"width":450,"height":400,"color":"4"},
+		{"id":"shaft","type":"text","text":"## 4. Parts, Surfaces & Borders\n\n### A. Lateral 1/3 (Flattened)\n- **2 Surfaces:**\n    - **Superior:** Subcutaneous.\n    - **Inferior:** Conoid Tubercle + Trapezoid Ridge.\n- **2 Borders:**\n    - **Anterior:** Concave.\n    - **Posterior:** Convex.\n\n### B. Medial 2/3 (Rounded)\n- **4 Surfaces:**\n    - **Anterior:** Convex.\n    - **Posterior:** Smooth.\n    - **Superior:** Rough (Medially).\n    - **Inferior:** Subclavian groove + Costoclavicular impression.","x":0,"y":600,"width":550,"height":600,"color":"3"},
+		{"id":"muscles","type":"text","text":"## 5. Muscle Attachments\n\n- [ ] **Pectoralis Major:** Anterior surface (Medial 1/2).\n- [ ] **Deltoid:** Anterior border (Lateral 1/3).\n- [ ] **Trapezius:** Posterior border (Lateral 1/3).\n- [ ] **Sternocleidomastoid:** Superior surface (Medial 1/3).\n- [ ] **Subclavius:** Subclavian groove (Inferior).\n\n**Ligaments:**\n- **Conoid & Trapezoid:** Inferior surface (Lateral).\n- **Costoclavicular:** Inferior surface (Medial).","x":700,"y":-100,"width":450,"height":500,"color":"5"},
+		{"id":"applied","type":"text","text":"## 7. Applied Anatomy\n\n- **Fracture Site:** Junction of Medial 2/3 and Lateral 1/3 (Weakest point).\n- **Reason:** Curvature change.\n- **Condition:** Cleidocranial Dysostosis (Congenital absence).","x":750,"y":500,"width":400,"height":300,"color":"1"},
+		{"id":"ossification","type":"text","text":"## 6. Ossification\n\n- **Primary Center (2):** Shaft (Membranous) - 5th week I.U.L.\n- **Secondary Center (1):** Sternal End (Cartilaginous) - 15-17 years.\n- **Fusion:** 25 Years.","x":-650,"y":650,"width":400,"height":250,"color":"6"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"intro","fromSide":"left","toNode":"side","toSide":"right"},
+		{"id":"e2","fromNode":"intro","fromSide":"right","toNode":"muscles","toSide":"left"},
+		{"id":"e5","fromNode":"shaft","fromSide":"right","toNode":"applied","toSide":"left"},
+		{"id":"e3","fromNode":"intro","fromSide":"bottom","toNode":"shaft","toSide":"top"},
+		{"id":"e4","fromNode":"shaft","fromSide":"left","toNode":"ossification","toSide":"right"}
+	]
+}

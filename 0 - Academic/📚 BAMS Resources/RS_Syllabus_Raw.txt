@@ -1,0 +1,2577 @@
+COURSE CURRICULUM FOR FIRST PROFESSIONAL BAMS
+            (PRESCRIBED BY NCISM)
+
+
+
+
+     शास्त्रं ज्योत िः प्रकाशार्थं दशशनं बुतिरात्मनिः|
+
+                    RACHANA SHARIRA
+                    (SUBJECT CODE- AyUG-RS)
+                     HUMAN ANATOMY
+   (Applicable from 2021-22 batch onwards for 5 years or until further
+                  notification by NCISM, whichever is earlier)
+
+
+
+
+                        BOARD OF AYURVEDA
+ NATIONAL COMMISSION FOR INDIAN SYSTEM OF MEDICINE
+                 NEW DELHI-110058
+                                          NCISM
+
+
+                    I Professional Ayurvedacharya
+                                (BAMS)
+                           Subject Code: AyUG-RS
+
+                                   Rachana Sharir
+                               (Human Anatomy)
+
+Summary
+                                    AyUG-RS
+                        Total number of Teaching hours: 500
+
+Lecture hours (LH) - Theory
+                                                                                180 Hours
+Paper I                                   90 Hours          180 Hours
+                                                                                  (LH)
+Paper II                                  90 Hours
+Non-Lecture hours (NLH) – Theory
+Paper I                                   40 Hours          80 Hours            320 Hours
+Paper II                                  40 Hours                                (NLH)
+Non-Lecture hours (NLH) - Practical                         240 Hours
+
+
+                                    AyUG-RS
+                     Examination (Papers & Mark Distribution)
+
+
+                                                     Practical Component Marks
+    Item         Theory Component Marks
+                                                Practical     Viva     Elective      IA
+Paper I                      100
+                                                  100          70          --        30
+Paper II                     100
+Sub-Total                    200                                     200
+Total marks                                      400
+
+
+
+
+    2   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                             Preamble
+
+
+          The primary purpose for teaching Rachana sharir to undergraduate students is to provide a
+thorough understanding of the basic principles of Sharir. Gross and microscopic structure and
+development of the human body in perspective of ancient and modern sciences, as well as to acquire
+necessary skills. Sharir in Ayurveda also provides in depth views to concepts like Marma and srotas.
+Learning of Sharir is most useful in further years in diagnosis and management of the diseases.
+          Various teaching and learning methods, including didactic, demonstration, tutorial, group
+discussion, seminars, Integrated Teaching (IT), Problem Based Learning (PBL), and Early Clinical
+Exposure (ECE), Case-Based Learning (CBL), Virtual Dissection, and cadaveric dissection, are used to
+transfer knowledge to students, and the syllabus is constructed accordingly. As a result, the students
+appreciate being a part of the teaching and learning process. This will help the students to become
+competent, self-assured, caring, and concerned humans capable of providing ethical medical treatment.
+
+
+
+
+      3    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Index
+Course Code and Name of Course .............................................................................................................................5
+AyUG RS ...................................................................................................................................................................5
+Rachana Sharir (Human Anatomy) ............................................................................................................................5
+Table 1- Course learning outcomes and matched PO. ...............................................................................................5
+Table 2: Contents of Course AyUG-RS .....................................................................................................................6
+Paper I ........................................................................................................................................................................6
+Paper II AyUG-RS ....................................................................................................................................................8
+Table 3: Learning objectives (Theory) of Course AyUG-RS ..................................................................................10
+Paper I ......................................................................................................................................................................10
+Paper II .....................................................................................................................................................................21
+List of Practicals AyUG-RS .....................................................................................................................................32
+Table 4: Learning objectives (Practical) of AyUG- RS ...........................................................................................34
+Table 5: Non-Lecture Activities Course AyUG-RS ................................................................................................40
+Table 6: Assessment Summary ................................................................................................................................40
+6 A - Number of Papers and Marks Distribution .....................................................................................................40
+6 B - Scheme of Assessment (formative and Summative) AyUG-RS .....................................................................40
+6 C - Calculation Method for Internal assessment Marks (30 Marks) AyUG-RS ...................................................41
+6 D - Evaluation Methods for Periodical Assessment..............................................................................................41
+6 E - Paper Layout ...................................................................................................................................................42
+   PAPER-1 ..............................................................................................................................................................42
+   PAPER-1I.............................................................................................................................................................42
+6 F – I - Distribution of Theory exam AyUG- RS ...................................................................................................43
+   Paper I ..................................................................................................................................................................43
+   Paper II .................................................................................................................................................................43
+6 F – II - Theme table...............................................................................................................................................44
+Paper-I: .....................................................................................................................................................................44
+Paper-II.....................................................................................................................................................................44
+6 G Question paper Blue print for AyU-RS: ............................................................................................................45
+PAPER-I...................................................................................................................................................................45
+PAPER-II .................................................................................................................................................................46
+6 H - I - Distribution of Practical Exam ...................................................................................................................47
+6 H - II Practical Spot examination ..........................................................................................................................47
+6 H - III Viva Voce ..................................................................................................................................................49
+7. Reference and Resourses......................................................................................................................................49
+
+
+
+
+          4     Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Course Code and Name of Course
+
+                Course code                  Name of Course
+
+                AyUG RS                      Rachana Sharir (Human Anatomy)
+
+AyUG RS
+Table 1- Course learning outcomes and matched PO.
+  SR1     A1                                                                           B1
+   CO     Course learning Outcome (CO) AyUG RS                                   Course learning
+   No     At the end of the course AyUG RS, the student should be able        Outcome matched with
+          to-                                                                   program learning
+                                                                                   outcomes.
+          Describe the fundamentals of Rachana Sharir, interpret and
+  CO1     analyze it in relevant context and recognize its significance in         PO1, PO2
+          Ayurveda
+  CO 2    Explain Garbha Sharir and Embryology in Ayurveda and                     PO1, PO2
+          modern science respectively with clinical significance
+  CO 3    Describe and demonstrate all the bones and joints with                   PO1, PO2
+          attachments of associated structures and its clinical application
+  CO 4    Explain the concept of Sira-Dhamani-Strotas, their                       PO1, PO2
+          organization in the human body and its applied aspect
+  CO 5    Identify the Marmas and understand its classification along              PO1, PO2
+          with its importance in preventive and therapeutic aspect
+          Explain and demonstrate the gross anatomy of the organs of
+  CO 6    various systems and their applied anatomy in perspective of            PO1, PO2, PO3
+          Ayurveda and Modern science
+  CO 7    Explain the Indriya Sharir and Sensory organs with its                   PO1, PO2
+          application in preventive and therapeutic domain.
+  CO 8    Identify and locate all the structures of body and mark the              PO1, PO3
+          topography of the living Sharir.
+          Respect the cadaver and perform dissection with commitment
+  CO 9    to reiterate the theoretical aspect of Ayurved Rachana Sharir          PO1, PO3, PO5
+          and contemporary sciences.
+ CO 10    Describe the basic principles of imaging technologies and              PO1, PO2, PO3
+          identify the anatomical structures in the radiograph
+
+
+
+
+     5   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Table 2: Contents of Course AyUG-RS
+
+Paper I
+                                                                                              E2
+                                                                                    D2
+      A2                                                            B2     C2                Non-
+ SN                                                                               Lecture
+      List of Topics AyUG-RS                                       Term   Marks             Lecture
+                                                                                   hours
+                                                                                             hours
+1     Shariropkramaniya Shaarira
+         • Sharir and Shaarir vyakhya (definitions of sharira
+             and sharira)
+         • Shadangatvam (Six regions of the body)
+                                                                    I       6       4         2
+         • Anga Pratyanga vibhaga (subdivisions)
+         • Sharir shastra vibhag
+         • Sharir gyan prayojan and its description in
+             contemporary science with its clinical importance
+2     Paribhasha Shaarira
+         • Kurcha, Kandara, Jala, Asthisamghata, Seemnta,
+                                                                    I       4       3         1
+             Seevani, Rajju, and lasika
+         • Terminologies related shadang sharir
+3.    Garbha Shaarira
+         • Garbha Vyakhya (Definition of Garbha)
+         • Concept of Shukra and Artava
+         • Garbhavkranti. Masanumasik grabhavruddhi
+         • Role of panchamahabhoot in Garbhavruddhi
+         • Concept of Beeja, Beejabhaga, Beejabhagavayava           I      15       17        5
+         • Garbhposhana
+         • Apara nirmiti, Garbhanabhinadi
+         • Garbha Angapratyanga utpatti according to
+             different Acharya
+         • Garbha Vikruti
+4.    Asthi Shaarira
+         Enumeration of Asthi, Types, asthi swaroopa, with its      I       4       2         1
+         applied aspect
+5.    Sandhi Shaarira
+         • Description of Sandhi and its enumeration,
+         • Types of Sandhi with its clinical importance             II      4       2         3
+         • Introduction of diseases of Sandhi explained in
+             Ayurveda
+6.    Snayu sharir
+                                                                    II      3       2         1
+         Concept of Snayu and its clinical importance
+7.    Peshi Shaarira
+         • Description of Peshi,                                    II      3       2         1
+         • Utpatti, types, Swaroop, function with its importance
+8.    Kesha, Danta, Nakha Sharir
+         • Description of Panchbhautik swaroop and its
+             applied value
+         • Explanation of its swabhava (Pitruja) and its
+             applied value                                          II      4       2         1
+         • Description of Prakrita (normal) and
+             Vikruta(abnormal) Swaroop (appearance) of kesha,
+             danta, nakha in concern with disease
+         • Importance of examination of kesha, danta, nakha
+
+
+      6   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            as diagnostic tool
+9    Embryology
+        • Definitions and branches of embryology.
+        • Embryo and Fetus. Sperm and Ovum, Fertilization,
+            Cleavage.
+        • Germ layers formation and their derivatives.
+                                                                     I    5    7    2
+        • Laws of heredity, Sex determination and
+            differentiation, Month-wise development of
+            embryo.
+        • Fetal circulation, Placenta formation, Umbilical
+            cord formation
+10   Osteology
+        • Bone: structure, types and ossification.                   I    12   9    6
+        • Description of each bone with clinical anatomy
+11   Arthrology
+         • Joints: structure, types and movements.
+         • Description of joints of extremities, inter-vertebral    II    10   10   6
+             joints and temporomandibular joint with their
+             clinical anatomy.
+12   Myology
+         • Structure and types of muscles. Description of
+             important muscles: origin, insertion, actions, nerve   II    4    6    2
+             supply and clinical anatomy.
+         • Muscle movements in Yogasana
+13   Nervous System
+         • Nervous system: Introduction and classification
+         • Meninges
+         • Description of Brain and Spinal cord.
+         • Description of Peripheral Nervous System: Cranial
+             and Spinal nerves, Brachial, Cervical, Lumber and      III   14   14   4
+             Sacral nerve plexus,
+         • Anatomical consideration of Autonomic Nervous
+             System,
+         • Formation and circulation of cerebrospinal fluid
+         • Blood supply of Brain and Spinal cord.
+14   Endocrinology
+         • Description of endocrine glands (Pituitary, Thyroid,
+             Parathyroid, Thymus, Pineal and Suprarenal glands)     III   8    8    3
+             with clinical aspects.
+         • Histology of all glands.
+15   Lymphatic system
+        • Introduction Structure included in lymphatic system:
+                                                                    III   4    2    2
+            Lymph vessels, Lymph nodes, Lymph glands with
+            their clinical importance.
+
+
+
+
+     7   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Paper II AyUG-RS
+                                                                                           E2
+                                                                                   D2
+     A2                                                            B2     C2               Non-
+SN                                                                               Lecture
+     List of Topics AyUG-RS                                       Term   Marks             Lecture
+                                                                                  hours
+                                                                                           hours
+1    Pramana Sharira:
+        Anguli pramana & Anjali praman with its applied            II      2       2          1
+        importance
+2    Koshtha Evam Ashaya Sharira
+      • Definition of Kostha with its applied importance and
+                                                                   I       4       2          1
+      • Enumeration of Koshthanga and its description
+      • Concept of Ashaya with its clinical importance
+3.   Sira Sharir
+        • Concept of Sira
+        • Nirukti, types, enumeration of Sira and its              II      4       3          1
+             applied aspect
+        • Introduction to Sira vedha
+4.   Dhamani Sharir
+       • Concept of Dhamani                                        II      2       2          1
+       • Nirukti, types, enumeration of Dhamani and its
+           applied aspect
+5.   Strotas Shaarira
+       • Concept of Strotas
+       • Nirukti, types, number of Srotas, Strotomool and          II      7       8          3
+           its applied aspect
+       • Types of Strotas and its description.
+       • Applied aspect of Strotas
+6.   Kala Shaarira
+       • Definition and etymology of Kala
+                                                                   III     4       2          2
+       • Enumeration and description of Kala
+       • Applied aspect of Kala
+7.   Indriya Shaarira
+       • Definition of Indriya, Indriya artha and Indriya
+           adhisthan,
+       • Number and importance of Indriya
+       • Description of Gyanendriya, Karmendriya and               III     3       3          1
+           Ubhayendriya (Manas).
+       • Ayurved sharir of Indriya adhistan- Karna,
+           Twacha, Netra, Jivha, Nasa
+       • Applied aspect of Indriya
+8.   Twacha Sharir
+         Definition, types and characteristics of Twacha with
+         its clinical importance, significance of Twacha           III     3       2          2
+         adhisthana in disease manifestation, its relation with
+         Dhatu.
+9    Marma Sharira
+            • Marma: definition, enumeration,
+                 classification, location                          II     15       13         4
+            • Surface demarcation of Marma
+            • Explanation of Trimarma
+
+
+     8   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+           •    Detail description of Marma with its applied
+                importance.
+10   Respiratory System
+       • Bronchial tree and Lungs with their clinical
+            aspects.
+       • Respiratory tract: Nasal cavity, Pharynx, Larynx,
+                                                                II    10   6    4
+            Trachea
+       • Pleura with its clinical aspects
+       • Diaphragm and its opening
+       • Histology of all organs
+11   Digestive system
+        • Regions of abdomen
+        • Organs of digestive tract (alimentary tract) with
+             their clinical aspects.                            I     12   10   6
+        • Digestive glands: Liver, Spleen and Pancreas.
+        • Description of peritoneum with its clinical aspects
+        • Histology of all organs
+12   Cardiovascular system
+         • Description of Heart
+         • Structure of artery & vein
+         • Importance blood vessels with their course and       II    8    8    3
+              branches.
+         • Pericardium with applied aspect
+         • Histology of Heart
+13   Urinary System
+         • Urinary tract: Kidney, Ureter, Urinary
+              Bladder and Urethra with their clinical           II    10   8    3
+              aspects
+         • Histology of all organs
+14   Reproductive system
+         • Male Reproductive system: Reproductive
+              organs, Scrotum and glands (Testis, Prostate
+              and Seminal vesicles) with their clinical
+              aspects.
+                                                                III   6    7    3
+         • Female reproductive system: Introduction of
+              external genital organ in brief and internal
+              reproductive organs in detail, tract and glands
+              with clinical importance.
+         • Histology of all organs
+15   Sensory organs
+       Description of structures of Eye, Ear, Nose, Tongue      III   10   14   5
+       and Skin with their clinical aspects.
+
+
+
+
+     9   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Table 3: Learning objectives (Theory) of Course AyUG-RS
+
+
+Paper I RACHANA SHARIR –
+                                         C3            D3          E3
+                                         Domain/       Must to     Level
+            B3                                                                                                 H3
+A3                                       sub           know/       Does/
+            Learning Objective                                                                                 Formati I3       J3
+Course                                                 desirable   Shows       F3                 G3
+            (At the end of the                                                                                 ve      Te       Integrat
+outcom                                                 to          how/        T-L method         Assessment
+            session, the students                                                                              /summa rm        ion
+e                                                      know/Ni     Knows
+            should be able to)                                                                                 tive
+                                                       ce to       how/
+                                                       know        Know
+Topic 1- Shariroupkramaniya [Time: Lecture: 04 hours, non-lecture 02 hours] Practical- 02 hours
+                                                                                                  Written /
+                                         Cognitive /                                              viva-voce/
+CO1        Define Sharir.                                 MK       Knows       Lecture                          F&S         I
+                                         Recall                                                   Open book
+                                                                                                  test
+                                         Cognitive/
+           Describe the constitutional                                                            Written/
+CO1                                      Comprehensi      MK       Knows       Lecture                          F&S         I
+           elements of Sharir                                                                     viva-voce
+                                         on
+                                         Cognitive/
+           Analyze the Constitutional
+                                         analyze                               Lecture/ GD        Written /
+CO1        hierarchy of Sharir and its                    DK       Knows how                                    F&S         I
+                                                                                                  viva-voce
+           relevance
+           Enlist Anga -Pratyanga and
+                                         Cognitive/                                               Written/
+CO1        specific terms for each                        MK       Knows       Lecture/ GD                      F&S         I
+                                         Recall                                                   viva-voce
+           Pratyanga
+           Describe the Importance of
+                                         Cognitive -                         Lecture/
+           Pratyaksha (Demonstration                                                              Written /
+CO1                                      comprehensi      MK       Knows how demonstration/ TT/                 F&S         I
+           & Dissection) method of                                                                viva-voce
+                                         on                                  GD
+           learning Sharir
+                                         Cognitive /
+           Explain the Mruta                                                   Demonstration/     Written /
+CO1                                      Comprehensi      MK       Knows                                        F&S         I
+           Samshodhana as mentioned                                            simulation/        viva-voce
+                                         on
+
+
+      10    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+           in Sushruta Samhita and as      Psychomotor
+           per the modern science.
+           Appraise the concept of body    Cognitive -                         Lecture/
+                                                                                                     Written /
+CO1        donation and its relevance in   analysis,     NK      Knows         educational video/                 F&S   I
+                                                                                                     viva-voce
+           present scenario                Affective                           SDL
+Topic 2- Paribhasha Sharir [Time: Lecture: 03 hours, non-lecture 01 hours] Practical- 6 hours
+           Explain the terms Kandara,
+           Kurcha, Mamsa, Rajju,                                                                     Written/
+                                           Cognitive /
+           Sevani, Jala, Seemant, Asthi                                        Lecture/              viva-voce/
+CO1                                        comprehensi   MK      Knows                                            F&S   I
+           Sanghat in context to its                                           Demonstration         Open book
+                                           on
+           enumeration, site and                                                                     test
+           structure.
+           Evaluate the clinical
+           importance of Kandara,                                          Lecture/
+                                           Cognitive/                                                Written/
+CO1        Kurcha, Mamsa, Rajju,                         DK      Knows how Demonstration/                          S    I
+                                           Application                                               viva-voce
+           Sevani, Jala Seemant, Asthi                                     SDL
+           and Samghat
+Topic 3- Garbha Sharir [Time: Lecture: 17 hours, non-lecture 05 hours]
+           Define Garbha and
+CO 2                                       Cognitive /                                               Written/
+           recall the related verse from                 MK      Knows         Lecture/ Recitation                F&S   I   -
+                                           knowledge                                                 viva-voce
+           samhitas.
+           Explain the concept of          Cognitive /
+                                                                                                     Written/
+CO 2       Shukra and recall the related   comprehensi   MK      Knows         Lecture/ Recitation
+                                                                                                     viva-voce
+                                                                                                                  F&S   I   -
+           verse from samhitas.            on
+           Explain the concept of          Cognitive /
+                                                                                                     Written/
+CO 2       Artava and recall the related   comprehensi   MK      Knows         Lecture/ recitation
+                                                                                                     viva-voce
+                                                                                                                  F&S   I   -
+           verse from samhitas.            on
+                                                                                                                            Dept. of
+           Describe the role of tridosha   Cognitive /
+                                                                                                     Written/               Streerog
+CO 2       and panchamahabhuta in the      comprehensi   MK      Knows how Lecture/ IT                            F&S   I
+                                                                                                     viva-voce              Prasuti
+           fetal development               on
+                                                                                                                            tantra
+                                                                                                                            Dept. of
+           Explain the concept of Beeja,   Cognitive /
+                                                                                                     Written/               Streerog
+CO 2       Beejbhaag,                      Comprehensi   MK      Knows         Lecture/ GD/ TT
+                                                                                                     viva-voce
+                                                                                                                  F&S   I
+                                                                                                                            Prasuti
+           Beejabhagavayava                on
+                                                                                                                            tantra
+
+
+      11    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            Describe Masanumasik                                                                  Written/
+                                             Cognitive /                   Lecture/ Recitation/
+            Garbha vriddhi kram and                                                               viva-voce/
+CO 2        recall the related verse from
+                                             comprehensi   MK    Knows how demonstration with
+                                                                                                  Open book
+                                                                                                                 F&S   I    -
+                                             on                            3D animated video
+            samhitas.                                                                             test
+                                                                                                  Written/
+                                             Cognitive /
+                                                                                                  viva-voce/
+CO 2        Describe Garbhaposhana           comprehensi   MK    Knows how Lecture
+                                                                                                  Open book
+                                                                                                                 F&S   I    -
+                                             on
+                                                                                                  test
+                                                                                                  Written/
+                                                                           Lecture/
+            Describe the formation of        Cognitive /         Knows,                           viva-voce/
+CO 2                                                       MK              demonstration with                    F&S   I    -
+            Apara according to Ayurved       knowledge           Knows how                        Open book
+                                                                           3D animated video
+                                                                                                  test
+                                             Cognitive /                                          Written/
+CO 2        Describe Garbha nabhinadi
+                                             knowledge
+                                                           MK    Knows       Lecture
+                                                                                                  viva-voce
+                                                                                                                 F&S   I    -
+                                                                                                  Written/
+                                                                                                                            Dept. of
+            Explain Angapratyanga            Cognitive /                   Lecture/               viva-voce/
+                                                                                                                            Streerog
+CO 2        utpatti with the related verse   comprehensi   MK    Knows how demonstration with     Assignments/   F&S   I
+                                                                                                                            Prasuti
+            from samhitas.                   on                            3D animated video/     Open book
+                                                                                                                            tantra
+                                                                                                  test
+Topic 4- Asthi Shaarira [Time: Lecture: 02 hours, non-lecture 01 hours]
+                                                                                                  Written /
+            Enlist the number of Asthi
+                                             Cognitive/                                           viva-voce/
+CO1         according to different                         MK    Knows how Lecture                               F&S   I
+                                             Recall                                               Open book
+            Acharyas
+                                                                                                  test
+                                             Cognitive/
+            Describe the Asthi Sanghata                                      Lecture/             Written /
+CO1                                          comprehensi   MK    Knows                                           F&S   I
+            and Asthi Simanta                                                Demonstration        viva-voce
+                                             on
+Topic 5- Sandhi Sharir [Time: Lecture: 02 hours, non-lecture 03 hours]
+                                             Cognitive –                                          Written/
+CO 3        Define the term Sandhi                         MK    Knows       Lecture                             F&S   II
+                                             Recall                                               viva-voce
+            Classify Sandhi into different                                                        Written/
+                                             Cognitive –
+CO 3        types.                                         MK    Knows       Lecture              viva-voce/     F&S   II
+                                             Recall
+                                                                                                  project work
+            Demonstrate the movements        Cognitive –                                          Written/
+CO 3
+            of Chala Sandhi and              Application
+                                                           MK    shows       Lecture +
+                                                                                                  viva-voce
+                                                                                                                 F&S   II
+
+
+       12    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            comprehend the structural       Psychomotor                      Demonstration
+            appearance                                                       thorugh model/
+                                                                             simulation
+            Illustrate the applied aspect
+                                                                                                Written/
+            of Sandhi and introduction of   Cognitive -                      Lecture/ ECE/                               Kayachi
+CO 3                                                      DK     Knows how                      viva-voce/    F&S   II
+            diseases of Sandhi explained    Application                      SDL/ Seminar                                kitsa
+                                                                                                Assignment
+            in Ayurveda
+Topic 6- Snayu Sharir [Time: Lecture: 02 hours, non-lecture 01 hours]
+            Describe Snayu with respect                                                         Written/
+                                            Cognitive/                     Lecture with
+            to its definition, structure,                                                       Viva -voce/
+CO 6                                        comprehensi   MK     Knows how demonstration/                     F&S   II
+            types, number, importance                                                           Open book
+                                            on                             SDL/Seminar
+            with its clinical importance                                                        test
+Topic 7- Peshi Sharir [Time: Lecture: 02 hours, non-lecture 01 hours]
+                                                                                                Written/
+            Describe Peshi Sharir and its   Cognitive –                      Lecture/
+                                                                                                Viva-voce/
+CO 5        classification as per           comprehensi   MK     Knows       Demonstration/
+                                                                                                Open book
+                                                                                                              F&S   II
+            Ayurveda                        on                               SDL/ Seminar
+                                                                                                test
+Topic 8- Kesha, Danta, Nakha Sharir [Time: Lecture: 02 hours, non-lecture 01 hours]
+            Describe Panchabhautik
+            Swaroop, Swabhav (Pitruja)
+            with its applied value in                                      Lecture with
+                                                                                                Written/
+                                            Cognitive/                                          Viva -voce/
+            Prakriti and also explain                                      demonstration with
+CO 6
+            related diseases with
+                                            comprehensi   MK     Knows how
+                                                                           3D animated video/
+                                                                                                Open book     F&S   II
+                                            on                                                  test/
+            importance of examination                                      SDL
+                                                                                                Assignment
+            kesha, danta, nakha as
+            diagnostic tool
+Topic 9- Embryology [Time: Lecture: 07 hours, non-lecture 02 hours]
+                                            Cognitive /
+            Define embryology and                                                               Written/
+CO 2        enlist its branches
+                                            knowledge /   DK     Knows       Lecture
+                                                                                                viva-voce
+                                                                                                              F&S   I
+                                            recall
+                                            Cognitive /
+                                                                                                Written/
+CO 2        Define Embryo and Foetus        knowledge /   MK     Knows       Lecture                          F&S   I
+                                                                                                viva-voce
+                                            recall
+
+
+
+       13    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+        Describe the anatomical
+                                         Cognitive /                                         Written/
+        structure of Sperm and Ovum                                     Lecture/
+CO 2    and explain its clinical
+                                         comprehensi   MK   Knows how
+                                                                        Demonstration
+                                                                                             viva-voce/      F&S   I
+                                         on                                                  Assignment
+        importance
+                                         Cognitive /
+                                                                                             Written/
+CO 2    Define term of fertilization     knowledge /   MK   Knows       Lecture/ Seminar
+                                                                                             viva-voce
+                                                                                                             F&S   I
+                                         recall
+                                         Cognitive /                  Lecture/
+        Describe the process of                                                              Written/
+CO 2                                     comprehensi   MK   Knows how Educational 3D                         F&S   I   --
+        cleavage                                                                             viva-voce
+                                         on                           Animated videos
+                                                                                                                       Dept. of
+        Explain the process of germ      Cognitive /                  Lecture/
+                                                                                             Written/                  Streerog
+CO 2    layer formation and its          comprehensi   MK   Knows how Educational 3D                         F&S   I
+                                                                                             viva-voce                 Prasuti
+        derivatives                      on                           Animated videos
+                                                                                                                       tantra
+                                                                                                                       Dept. of
+                                         Cognitive /
+                                                                                             Written/                  Streerog
+CO 2    Explain the laws of heredity     comprehensi   MK   Knows how Lecture/ Seminar                       F&S   I
+                                                                                             viva-voce                 Prasuti
+                                         on
+                                                                                                                       tantra
+        Describe the process of sex      Cognitive /
+CO 2                                                                                         Written/
+        determination and                comprehensi   NK   Knows how Lecture/ Seminar                       F&S   I   --
+                                                                                             viva-voce
+        differentiation                  on
+                                                                                             Written/
+                                         Cognitive /                                         viva-voce/                Dept. of
+        Explain the month wise                                          Lecture/
+        development of Foetus
+                                         comprehensi   MK   Knows how
+                                                                        Demonstration
+                                                                                             Open book       F&S   I   Streerog
+CO 2                                     on                                                  test/ Project             Prasuti tantra
+                                                                                             work
+        Explain foetal circulation and   Cognitive /
+CO 2                                                                    Lecture/Demonstrat   Written/
+        the changes in the circulation   comprehensi   MK   Knows how
+                                                                        ion                  viva-voce
+                                                                                                             F&S   I   --
+        after birth                      on
+                                                                                                                       Dept. of
+        Describe Placenta formation
+                                         Cognitive /                  Lecture/ Seminar/      Written/                  Streerog
+CO 2    & its structure with applied
+                                         application
+                                                       MK   Knows how
+                                                                      ECE                    viva-voce
+                                                                                                             F&S   I   Prasuti
+        anatomy
+                                                                                                                       tantra
+                                                                                                                       Dept. of
+                                         Cognitive /
+        Describe Umbilical cord with                                    Lecture/ Seminar/    Written/                  Streerog
+CO 2    clinical importance
+                                         knowledge /   MK   Knows how
+                                                                        ECE                  viva-voce
+                                                                                                             F&S   I   Prasuti
+                                         application
+                                                                                                                       tantra
+
+
+   14    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Topic 10- Osteology [Time: Lecture: 09 hours, non-lecture 06 hours] Practical- 20 hours
+                                           Cognitive/                           Lecture/
+           Explain skeleton and its                                                              Written /
+CO3                                        comprehensi   MK       knows         Demonstration/               F&S   I
+           importance                                                                            viva-voce
+                                           on                                   Seminar
+                                           Cognitive/
+                                                                                                 Written /
+CO3        Describe the uses of bones      comprehensi   MK       Knows         Lecture                      F&S   I
+                                                                                                 viva-voce
+                                           on
+                                           Cognitive/
+           Describe and demonstrate the
+                                           comprehensi                          Lecture /        Written /
+CO3        processes and depressions of                  MK       Show how                                   F&S   I
+                                           on,                                  Demonstration    viva-voce
+           various bones
+                                           Application
+                                           Cognitive/
+           Describe the characteristics                                                          Written /
+CO3                                        comprehensi   MK       Knows         Lecture                            I
+           of the bones                                                                          viva-voce   F&S
+                                           on
+                                           Cognitive/
+           Describe the development                                                              Written /
+CO3                                        comprehensi   DK       Knows how Lecture                                I
+           and ossification of bones                                                             viva-voce   F&S
+                                           on
+                                           Cognitive /
+           Describe and demonstrate
+                                           comprehensi                          Lecture/
+CO3        Cranial bones and its applied                 MK       Shows how                      Written /   F&S   I
+                                           on,                                  Demonstration    viva-voce
+           anatomy
+                                           Application
+                                           Cognitive /
+           Describe and demonstrate
+                                           comprehensi                          Lecture/
+CO3        Facial bones and its applied                  DK       Shows how                      Written /         I
+                                           on,                                  Demonstration                F&S
+           anatomy                                                                               viva-voce
+                                           Application
+                                           Cognitive /
+           Describe and demonstrate
+                                           comprehensi                          Lecture/         Written /
+CO3        pelvic bones and its applied                  MK       Shows how                                  F&S   I
+                                           on,                                  Demonstration    viva-voce
+           anatomy
+                                           Application
+                                           Cognitive /
+           Describe and demonstrate
+                                           comprehensi                          Lecture/         Written /
+CO3        vertebral column and its                      MK       Shows                                      F&S   I
+                                           on,                                  Demonstration    viva-voce
+           applied anatomy
+                                           Application
+           Describe and demonstrate
+                                           Cognitive /                          Lecture/         Written /
+CO3        thorax bones and its applied                  MK       Shows how                                  F&S   I
+                                           comprehensi                          Demonstration    viva-voce
+           anatomy
+
+
+      15    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                            on,
+                                            Application
+                                            Cognitive /
+           Describe & demonstrate
+                                            comprehensi                        Lecture/         Written /                  Kayachi
+CO3        Clavicle and Scapula and its                   MK     Shows how                                      F&S   I
+                                            on,                                Demonstration    viva-voce                  kitsa
+           applied anatomy
+                                            Application
+           Describe Phalanges, Carpal       Cognitive /
+                                                                               Lecture/         Written/
+CO3        and Tarsal Bones and its         comprehensi   DK     Knows                                          F&S   I
+                                                                               Demonstration    viva-voce
+           applied anatomy                  on
+           Describe & demonstrate           Cognitive /
+                                                                                                Written /
+           bones of the upper & lower       comprehensi                        Lecture/
+CO3                                                       MK     Shows how                      viva-voce/      F&S   I
+           extremity and its applied        on,                                Demonstration
+                                                                                                Project work
+           anatomy                          Application
+                                            Cognitive /
+           Describe & demonstrate
+                                            comprehensi                        Lecture/         Written /
+CO3        Patella and its applied                        DK     Shows                                          F&S   I
+                                            on,                                Demonstration    viva-voce
+           anatomy
+                                            Application
+                                            Cognitive /                                         Written /
+           Recognize and describe the                                          Lecture/
+                                            comprehensi                                         viva-voce/
+CO10       Radiological structures in                     MK     Shows         Demonstration/                   F&S   I
+                                            on,                                                 Project work/
+           radiograph                                                          PBL/ ECE/ SDL
+                                            Application                                         Assignment
+Topic 11- Arthrology [Time: Lecture: 10 hours, non-lecture 06 hours] Practical- 8 hours
+           Recall the classification of     Cognitive –                                         Written/
+CO 3                                                      MK     Knows         Lecture                          F&S   II
+           Joints                           Recall                                              viva-voce
+           Demonstrate movements of         Cognitive –
+                                                                           Lecture/
+           Synovial Joints and              Application                                         Written/
+CO 3
+           comprehend the structural        Psychomotor
+                                                          MK     Knows how Demonstration/
+                                                                                                viva-voce
+                                                                                                                F&S   II
+                                                                           Simulation
+           aspect helping in movements.
+                                            Cognitive –
+           Describe constitutional                                                              Written/
+CO 3
+           anatomy of joint
+                                            Comprehensi   MK     Knows         Lecture
+                                                                                                viva-voce
+                                                                                                                F&S   II
+                                            on
+                                                                                                Written/
+           Describe joints of upper limb
+                                            Cognitive –                                         viva-voce/
+           and lower limb region, TM                                                                                       Kaychikit
+CO 3
+           joint, and its related applied
+                                            Application   MK     Knows how Lecture/ PBL/ ECE    Open book       F&S   II   sa
+                                                                                                test/
+           aspect
+                                                                                                Assignment
+
+
+      16    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                              Demonstration
+                                                                              with case          Written/
+           Demonstrate the examination                          Knows +       presentation in    viva-voce/
+CO 3                                                    MK                                                       F&S   II     Rognidan
+           of synovial joints             Psychomotor           Shows         relative aspect/   Practical
+                                                                              ECE/ SDL/ 3D       performance
+                                                                              Animated videos
+Topic 12- Myology [Time: Lecture: 06 hours, non-lecture 02 hours] Practical- 8 hours
+                                          Cognitive –
+                                                                                                 Written/
+CO5        State the types of muscles.    application   MK      Knows         Lecture                            F&S   II
+                                                                                                 Viva-voce
+                                          Psychomotor
+           Describe and demonstrate the
+                                                                                                 Written/
+           muscles of upper and lower                                         Lecture/
+                                                                                                 Viva-voce/
+           extremity with their origin,   Cognitive –                         Demonstration/                                 Swasthvrit
+CO5                                                     MK      Shows                            Open book       F&S   II
+           insertion, action & nerve      application                         GD/TT/ SDL/ 3D                                  ta
+                                                                                                 test/ Project
+           supply and applied aspect                                          Animated videos
+                                                                                                 work
+           and its role in Yogasana
+           Describe and demonstrate
+                                                                                                 Written/
+           muscles of thorax and                                              Lecture/
+                                                                                                 Viva-voce/
+           abdomen with their origin,                                         Demonstration/                                 Swasthvrit
+CO5                                       Psychomotor   MK      Shows                            Open book       F&S   II
+           insertion, action & nerve                                          GD/TT/ SDL/ 3D                                  ta
+                                                                                                 test/ Project
+           supply and applied aspect                                          Animated videos
+                                                                                                 work
+           and its role in Yogasana
+           Describe and demonstrate                                                              Written/
+                                                                              Lecture/
+           muscles of back with origin,                                                          Viva-voce/
+                                          Cognitive –                         Demonstration/                                 Swasthvri
+CO5        insertion, action & nerve                    DK      Shows                            Open book       F&S   II
+                                          application                         GD/TT/ SDL/3D                                   tta
+           supply and applied aspect                                                             test/ Project
+                                                                              Animated videos
+           and role in Yogasana                                                                  work
+Topic 13- Nervous System [Time: Lecture: 14 hours, non-lecture 04 hours] Practical- 12 hours
+           Explain the hierarchy of       Cognitive-/
+                                                                              Lecture/           Written/
+CO6        structural unit                comprehensi   MK      Knows                                            F&S   III
+                                                                              Demonstration      viva-voce
+                                          on
+           Describe the functional and
+                                          Cognitive-
+           structural division of the                                                            Written/
+CO6                                       comprehensi   MK      Knows how Lecture/ Seminar                       F&S   III
+           nervous system                                                                        viva-voce
+                                          on
+
+
+
+      17    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                Written/
+                                            Cognitive –
+           Explain the parts of Brain                           Knows,    Lecture/              viva-voce/
+CO6
+           (Cerebrum, Cerebellum)
+                                            comprehensi    MK
+                                                                Knows how Demonstration         Open book
+                                                                                                              F&S   III
+                                            on
+                                                                                                test
+                                                                                                Written/
+           Describe external and            Cognitive –                   Lecture/
+                                                                Knows,                          viva-voce/
+CO6        internal features of Spinal      comprehensi    MK
+                                                                Knows how
+                                                                          Demonstration/ 3D
+                                                                                                Open book
+                                                                                                              F&S   III
+           cord.                            on                            animated videos
+                                                                                                test
+                                                                                                Written/
+                                            Cognitive –                   Lecture/
+           Illustrate the Blood supply of                       Knows,                          viva-voce/
+CO6                                         comprehensi    MK             Demonstration/ 3D                   F&S   III
+           Brain and Spinal cord.                               Knows how                       Open book
+                                            on                            animated videos
+                                                                                                test
+           Describe the external                           DK                                   Written/
+                                            Cognitive-                      Lecture/
+           features of diencephalon Mid                                                         viva-voce/
+CO6                                         Comprehensi         Knows       Demonstration/ 3D                 F&S   III
+           brain, Pons, Medulla                                                                 Open book
+                                            on                              animated videos
+           oblongata.                                                                           test
+                                                                                                Written/
+                                            Cognitive-                      Lecture/
+                                                                                                viva-voce/
+CO6        Describe the limbic system       Comprehensi    NK   Knows       Demonstration/ 3D
+                                                                                                Open book
+                                                                                                              F&S   III
+                                            on                              animated videos
+                                                                                                test
+           Describe the general Sulci
+                                                                Knows                           Written/
+           and gyri of cerebrum and                                         Lecture/
+                                            Cognitive –                                         viva-voce/
+CO6        determine the clinical                          MK               Demonstration/ 3D                 F&S   III
+                                            application                                         Open book
+           importance of Broadman’s                                         animated videos
+                                                                Knows how                       test
+           classification
+           Describe the ascending,
+                                            Cognitive/
+           descending pathways, upper                                     Lecture/              Written/
+                                            application
+           motor neurons and lower                                        Demonstration/        viva-voce/                Kaya
+CO6
+           motor neurons, its applied
+                                                           DK   Knows how
+                                                                          CBL, ECE              Open book
+                                                                                                              F&S   III   chikitsa
+                                            Affective
+           aspect in examination of                                                             test
+                                            /responding
+           nervous system
+                                            Cognitive
+                                                                            Lecture +
+                                            /application
+           Demonstrate the superficial                                      Demonstration       Viva-Voce/
+                                            Psychomotor                                                                   Kayachi
+CO6        and deep reflexes and its
+                                            /perception
+                                                           DK   shows       though living       Practical     F&S   III   kitsa
+           clinical importance                                              object/ ECE/ PBL/   performance
+                                            Affective
+                                                                            SDL/ CBL
+                                            /responding
+
+
+      18    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            Recall the general anatomical    Cognitive/
+CO6                                                         MK   Knows         Lecture/ SDL        Written      F&S    III
+            consideration of ANS             Recall
+            Describe the cranial and
+                                                                                                   Written /
+            spinal nerves along with         Cognitive /                       Lecture/ PBL/
+CO6
+            formation of nerve plexuses      Application
+                                                            DK   Knows how
+                                                                               ECE/ SDL
+                                                                                                   viva-voce/   F &S   III
+                                                                                                   Assignment
+            and applied anatomy
+            Describe the Formation and       Cognitive/
+                                                                                                   Written /
+CO6         circulation of cerebro- spinal   comprehensi    MK   Knows how Lecture
+                                                                                                   viva-voce
+                                                                                                                F&S    III
+            fluid                            on
+Topic 14- Endocrinology [Time: Lecture: 08 hours, non-lecture 03 hours] Practical- 02 hours
+            Define Endocrine Glands and      Cognitive/                                            Written /
+CO 6
+            enlist them                      Recall
+                                                            MK   Knows         Lecture
+                                                                                                   viva-voce
+                                                                                                                F&S    III
+            Describe Structure and           Cognitive-/
+                                                                                                   Written /
+CO 6        Functions of Endocrine           Comprehensi    MK
+                                                                 Knows
+                                                                               Lecture
+                                                                                                   viva-voce
+                                                                                                                F&S    III
+            Glands                           on
+            State the location, Dimension    Cognitive/                        Lecture/            Written /
+CO 6                                                        MK                                                  F&S    III
+            & Shape of Pituitary             Recall              Knows         Demonstration       viva-voce
+                                             Cognitive /
+            Describe the Parts &                                               Lecture/            Written /
+CO 6                                         comprehensi    MK   Knows                                          F&S    III
+            subdivisions of Pituitary                                          Demonstration       viva-voce
+                                             on
+            Describe the Blood Supply,       Cognitive                         Lecture/
+                                                                                                   Written /
+CO 6        Nerve Supply & Lymphatic         /comprehensi   MK   Knows         Demonstration/                   F&S    III
+                                                                                                   viva-voce
+            drainage of Pituitary            on                                CBL
+                                                                                                   Written /
+            Enlist the hormones secreted
+                                             Cognitive/                        Lecture/            viva-voce/
+CO 6        by Pituitary, & histology and
+                                             Application
+                                                            MK   Knows
+                                                                               Demonstration/ GD   Open book
+                                                                                                                F&S    III
+            discuss its clinical anatomy.
+                                                                                                   test
+            State the location, Dimension    Cognitive/Re                      Lecture/            Written /
+CO 6
+            & Shape of Thyroid gland         call
+                                                            MK   Knows
+                                                                               Demonstration       viva-voce
+                                                                                                                F&S    III
+            Describe the lobes, border &     Cognitive
+                                                                               Lecture/            Written /
+CO 6        surfaces of Thyroid gland        /comprehensi   MK   Knows
+                                                                               Demonstration       viva-voce
+                                                                                                                F&S    III
+            with its relation.               on
+            Describe the blood supply,       Cognitive
+                                                                               Lecture/            Written /
+CO 6        nerve Supply & lymphatic         /comprehensi   MK   Knows                                          F&S    III
+                                                                               Demonstration       viva-voce
+            drainage of Thyroid gland        on
+
+
+
+       19    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            List the Hormones secreted                                                         Written /
+            by Thyroid gland and &          Cognitive -                                        viva-voce/
+CO 6
+            histology, and discuss its      Application
+                                                           MK   Knows       Lecture/ GD/ CBL
+                                                                                               Open book
+                                                                                                            F&S   III
+            clinical application                                                               test
+            Describe the location, Shape,   Cognitive
+                                                                            Lecture/           Written /
+CO 6        Dimensions and structure of     /comprehensi   MK   Knows
+                                                                            Demonstration      viva-voce
+                                                                                                            F&S   III
+            Parathyroid gland               on
+            Describe the Blood Supply,
+                                            Cognitive
+            Nerve Supply & Lymphatic                                        Lecture            Written /
+CO 6                                        /comprehensi   DK   Knows                                       F&S   III
+            drainage of Parathyroid                                         Demonstration      viva-voce
+                                            on
+            gland
+            List the hormones secreted                                                         Written /
+                                            Cognitive                       Lecture/ GD/ CBL
+            by parathyroid, & histology                                                        viva-voce/               Kayachik
+CO 6
+            and discuss its Clinical
+                                            /Application   DK   Knows
+                                                                                               Open book
+                                                                                                            F&S   III   itsa
+            anatomy                                                                            test
+            State the location, Shape &
+                                            Cognitive /                     Lecture/           Written /
+CO 6        dimension of Suprarenal
+                                            Recall
+                                                           MK   Knows
+                                                                            Demonstration      viva-voce
+                                                                                                            F&S   III
+            gland
+            Describe the Surface,
+                                            Cognitive/co                    Lecture/           Written /
+CO 6        Borders of Suprarenal gland                    MK   Knows                                       F&S   III
+                                            mprehension                     Demonstration      viva-voce
+            along with its relation.
+            List the Functions and
+                                            Cognitive                                          Written /                Sharir
+CO 6        Secretions of Suprarenal
+                                            /Recall
+                                                           MK   Knows       Lecture
+                                                                                               viva-voce
+                                                                                                            F&S   III   Kriya
+            gland
+            Describe the Blood Supply,      Cognitive
+                                                                            Lecture/           Written /
+CO 6        Nerve Supply & Lymphatic        /comprehensi   DK   Knows                                       F&S   III
+                                                                            Demonstration      viva-voce
+            drainage of Suprarenal gland    on
+                                            Cognitive
+            Describe the Internal                                           Lecture/           Written /
+CO 6                                        /comprehensi   DK   Knows                                       F&S   III
+            structure of suprarenal gland                                   Demonstration      viva-voce
+                                            on
+                                                                                               Written /
+            Write the Clinical & applied
+                                            Cognitive                                          viva-voce/               Kayachik
+CO 6        anatomy & histology of
+                                            /application
+                                                           DK   Knows       Lecture/ CBL
+                                                                                               Open book
+                                                                                                            F&S   III   itsa
+            Suprarenal gland
+                                                                                               test
+Topic 7- Lymphatic System [Time: Lecture: 02 hours, non-lecture 02 hours]
+
+
+
+
+       20    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                            Cognitive /                                        Written /
+CO 6        Define Lymphatic System                       MK   Knows       Lecture                          F&S    III
+                                            Recall                                             viva-voce
+                                            Cognitive /
+            Describe components of                                                             Written /
+CO 6                                        comprehensi   MK   Knows       Lecture                          F&S    III
+            Lymphatic System                                                                   viva-voce
+                                            on
+            Describe the anatomical
+            structure of Various Lymph      Cognitive /
+                                                                         Lecture/
+            Vessels i.e. Lymphatic          comprehensi                                        Written /
+CO 6                                                      MK   Knows how Demonstration/                     F&S    III
+            Trunks, Thoracic Duct etc       on,                                                viva-voce
+                                                                         CBL
+            and explain its clinical        Application
+            importance
+            Describe the anatomical
+            structure of Lymph Glands       Cognitive /                                        Written /                      Rognidan
+                                                                         Lecture/
+            i.e. Lymph Nodes, Spleen,       comprehensi                                        viva-voce/                     Evum
+CO 6                                                      MK   Knows how Demonstration/                     F&S    III
+            Thymus, Tonsils etc and         on,                                                Open book                      Vikriti
+                                                                         ECE/ CBL
+            explain its clinical            Application                                        test                           Vigyan
+            importance
+Paper II
+Topic 1- Praman sharir [Time: Lecture: 02 hours, non-lecture 01 hours]
+                                                                                               Written/
+                                            Cognitive
+            Describe Anguli and Anjali                                     Lecture/            Viva-voce/
+CO1                                         Comprehensi   MK   Knows                                        F&S          II
+            praman with its significance.                                  Demonstration/ GD   Open book
+                                            on
+                                                                                               test
+Topic 2- Koshtha Evam Ashaya Shaarira [Time: Lecture: 02 hours, non-lecture 01 hours]
+                                                                                               Written/
+            Define of Koshtha and           Cognitive/                                         viva-voce/
+CO1                                                       MK   Knows       Lecture                           F&S         I
+            Ashaya                          knowledge                                          Open book
+                                                                                               test
+                                                                                               Written/
+            Describe the concept of         Cognitive/
+                                                                                               viva-voce/
+CO1         various numbers of              Comprehensi   MK   Knows       Lecture                           F&S         I
+                                                                                               Open book
+            Koshthanga as per Samhitas      ve
+                                                                                               test
+            Describe the concept of         Cognitive/
+                                                                                               Written/
+CO1         various Numbers of Ashaya       Comprehensi   MK   Knows       Lecture/ TT/ GD
+                                                                                               viva-voce/
+                                                                                                             F&S         I
+            as per Samhitas                 ve
+
+
+       21    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                  Open book
+                                                                                                  test
+                                                                                                  Written/
+                                            Cognitive/
+            Describe and explain applied                                                          viva-voce/
+                                            Comprehensi           Knows                                                          Kayacki
+CO1         aspects of Koshtha and                        NK                  Lecture/ GD/ ECE    Assignments/ F&S     I
+                                            ve                    How                                                            tsa
+            Ashaya.                                                                               Open book
+                                            application
+                                                                                                  test
+Topic 3- Sira sharir [Time: Lecture: 03 hours, non-lecture 01 hours]
+                                                                                                  Written /
+            Define Sira, Enumerate the      Cognitive                                             viva-voce/
+CO 4                                                      MK      Knows       Lecture/ Seminar                   F&S        II
+            sira & state its Nirukti        /Recall                                               Open book
+                                                                                                  test
+                                                                                                  Written /
+                                            Cognitive /
+            Explain the classification of                                                         viva-voce/
+CO 4                                        Comprehensi   MK      Knows how Lecture                              F&S        II
+            Sira                                                                                  Open book
+                                            on
+                                                                                                  test
+                                                                                                  viva-voce/
+            Define Vedhya Sira and          Cognitive
+CO 4                                                      MK      Knows       Lecture/ GD         Open book      F&S        II
+            Enumerate Vedhya Sira           /Recall
+                                                                                                  test
+                                                                                                  Written /
+            Define Avedhya sira and         Cognitive /                                           viva-voce/
+CO 4                                                      MK      Knows       Lecture                            F&S        II
+            Enumerate the Avedhya Sira      Recall                                                Open book
+                                                                                                  test
+                                            Cognitive /                                           viva-voce/
+            Locate the Vedhya Sira in                             Shows       Lecture/                                           Shalyatan
+CO 4                                        application   MK                                      Practical      F&S        II
+            the body according to region                                      Demonstration/ IT                                  tra
+                                            Psychomotor                                           performance
+                                                                                                  Written /
+                                                                                                  viva-voce/
+            Describe the applied aspect     Cognitive -                       Lecture/ ECE/ IT/                                  Shalyatan
+CO 4                                                      DK      Knows how                       Assignment /   F&S   II
+            of Siravedha                    application                       CBL                                                tra
+                                                                                                  Open book
+                                                                                                  test
+Topic 4- Dhamani Sharir [Time: Lecture: 02 hours, non-lecture 01 hours]
+                                                                                                  Written /
+            Define Dhamani, and state its   Cognitive/                                            viva-voce/
+CO 4                                                      MK      Knows       Lecture/ Seminar                   F&S        II
+            Nirukti                         Recall                                                Open book
+                                                                                                  test
+
+       22    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                   Written /
+                                            Cognitive/
+            Explain the classification of                                                          viva-voce/
+CO 4
+            Dhamani
+                                            Comprehensi     MK   Knows how Lecture/ Seminar
+                                                                                                   Open book
+                                                                                                                 F&S   II
+                                            on
+                                                                                                   test
+                                            Cognitive /                                            Viva-voce/
+            Locate the Dhamani in the                                          Lecture/
+CO 4
+            body according to region
+                                            application     DK   Shows
+                                                                               Demonstration
+                                                                                                   Practical     F&S   II
+                                            Psychomotor                                            performance
+Topic 5- Srotasa Sharir [Time: Lecture: 08 hours, non-lecture 03 hours]
+                                                                                                   Written /
+            Define Srotasa and state its    Cognitive/                                             viva-voce/
+CO 4                                                        MK   Knows         Lecture/ Seminar                  F&S   II
+            Nirukti and types               Recall                                                 Open book
+                                                                                                   test
+                                                                                                   Written /
+                                            Cognitive /
+            Explain the Classification of                                                          viva-voce/
+CO 4                                        Comprehensi     MK   Knows         Lecture/ Seminar                  F&S   II
+            Srotasa                                                                                Open book
+                                            on
+                                                                                                   test
+                                                                                                   Written /
+            State the Moolsthana of all                                                                                       Kayachi
+                                                                                                   viva-voce/
+            Srotasa as per Acharya          Cognitive /                        Lecture/ Seminar/                              kitsa/
+CO 4
+            Sushrut and Charak and its      Recall
+                                                            MK   Knows how
+                                                                               ECE
+                                                                                                   Assignment/   F&S   II     Panchak
+                                                                                                   Open book
+            clinical aspect                                                                                                   arma
+                                                                                                   test
+Topic 6- Kala Sharir [Time: Lecture:02 hours, non-lecture 02 hours] Practical- 03 hours
+                                                                                                   Written /
+            Define Kala and explain the     Cognitive –/
+                                                                                                   viva-voce/
+CO1         formation & functions of        comprehensi     MK   Knows         Lecture/ Seminar
+                                                                                                   Open book
+                                                                                                                 F&S   III
+            seven Kala                      on
+                                                                                                   test
+                                            Cognitive                                              Written /
+                                                            MK                 Lecture/
+            Describe Saptakalas with its    /comprehensi                                           viva-voce/                Agadtantr
+CO1                                                              Knows         demonstration/                    F&S   III
+            applied aspect                  on                                                     Open book                  a
+                                                                               ECE
+                                            +application                                           test
+                                            Cognitive –
+            Relate the Sapta Kala with      application +                      Lecture/ Seminar/   Written /
+CO1                                                         NK   Knows how                                       F&S   III
+            Sapta Dhatu                     affective -                        IT                  viva-voce
+                                            awareness
+Topic 7- Indriya Sharir [Time: Lecture: 03 hours, non-lecture 01 hours]
+
+
+       23    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                  Written /
+            Define Indriya. Interpret          Cognitive /
+                                                                                                  viva-voce/
+CO 7        derivation of Indriya and          comprehensi   MK   Knows       Lecture/ Seminar
+                                                                                                  Open book
+                                                                                                                F&S    III
+            explain its importance.            on
+                                                                                                  test
+                                                                                                  Written /
+            State the meaning of Indriya-      Cognitive /                                        viva-voce/
+CO 7        artha and Indriya- adhishthan      knowledge
+                                                             MK   Knows       Lecture/ Seminar
+                                                                                                  Open book
+                                                                                                                F&S    III
+                                                                                                  test
+                                                                                                  Written /
+            Enlist Dnyanendriyas,
+                                               Cognitive /                                        viva-voce/
+CO 7        Karmendriyas and                                 MK   Knows       Lecture/ Seminar                  F&S    III
+                                               knowledge                                          Open book
+            Ubhayendriya
+                                                                                                  test
+            Illustrate classical description                                                      Written /
+            of Dnyanendriya Adhishthan                                                            viva-voce/                   Dept. of
+                                               Cognitive /                    Lecture/ IT/ ECE/
+CO 7        – Karna, Twak, Netra, Jivha,                     MK   Knows how                       Open book     F&S    III     Shalaky
+                                               application                    PBL
+            Nasa with its clinical                                                                test/                        atantra
+            perspective                                                                           Assignment
+Topic 8- Twacha Sharir [Time: Lecture: 02 hours, non-lecture 02 hours]
+            DefineTwacha, its types and
+            characteristics with its
+                                                                            Lecture with          Written/
+            clinical importance,               Cognitive/
+                                                                            demonstration with    Viva -voce/
+CO 7        significance of twacha             comprehensi   MK   Knows how                                      F&S     III
+                                                                            3D animated video/    Open book
+            adhisthana in disease              on
+                                                                            ECE/ SDL              test
+            manifestation, its relation
+            with dhatu
+Topic 9- Marma Sharir [Time: Lecture: 13 hours, non-lecture 04 hours] Practical- 12 hours
+                                                                                                  Written /
+            Define Marma and
+                                               Cognitive –                                        viva-voce/
+CO 5        enumerate the Marmas                             MK   Knows       Lecture/ Seminar                   F&S     II
+                                               Recall                                             Open book
+                                                                                                  test
+                                                                                                  Written /
+            Describe the Marma and             Cognitive –
+                                                                                                  viva-voce/
+CO 5        Prana tatva with its               Comprehensi        Knows       Lecture                            F&S     II
+                                                             MK                                   Open book
+            Significance                       on
+                                                                                                  test
+
+
+
+
+       24    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                               Cognitive –                                         Written /
+            Discuss the classification of      Comprehensi                                         viva-voce/
+CO 5
+            Marma                              on
+                                                              MK   Knows      Lecture/ ECE/ PBL
+                                                                                                   Open book
+                                                                                                                F&S   II
+                                                                                                   test
+            Narrate the importance of          Cognitive –                                         Written/
+                                                                                                                           Shalyat
+CO 5        marma in Sharir and Shalya         application    MK   Knows how Lecture/ ECE/ PBL     Open book    F&S   II   antra
+            vigyan                                                                                 test
+                                               Cognitive –                                         Written /
+            Illustrate the specific location                                  Lecture/
+                                               Comprehensi         Knows +                         viva-voce/
+CO 5        of Marma as per Sushruta                          MK              Demonstration/                    F&S   II
+                                               on                  Shows                           Open book
+            Samhita                                                           Workshop
+                                                                                                   test
+                                                                              Lecture with 3D
+            Demonstrate the Marma              Cognitive –                                      Viva-voce/
+                                                                   Knows +    animated                                     Panchaka
+CO 5        location as per modern             Application    MK
+                                                                   Shows      demonstration/
+                                                                                                Practical       F&S   II   rma
+            anatomy                            Psychomotor                                      performance
+                                                                              Seminar/ Workshop
+Topic 10- Respiratory system [Time: Lecture: 06 hours, non-lecture 04 hours] Practical- 10 hours
+            Enlist the parts of the            Cognitive /                    Lecture/             Written /
+CO6
+            Bronchial tree                     Recall
+                                                              MK   Knows
+                                                                              Demonstration        viva-voce
+                                                                                                                F&S   II
+            State the location and             Cognitive -                    Lecture/             Written /
+CO6
+            dimension of Lungs                 Knowledge
+                                                              MK   Knows
+                                                                              Demonstration        viva-voce
+                                                                                                                F&S   II
+                                               Cognitive -/
+            Differentiate between Right                                       Lecture/             Written /
+CO6                                            comprehensi    MK   Knows                                        F&S   II
+            and left Lungs                                                    Demonstration        viva-voce
+                                               on
+                                                                                                   Written /
+            Describe the Borders,              Cognitive/
+                                                                              Lecture/             viva-voce/
+CO6         Surfaces and lobes of the          comprehensi    MK   Knows                                        F&S   II
+                                                                              Demonstration        Open book
+            Lungs                              on
+                                                                                                   test
+                                               Cognitive
+                                                                              Lecture/             Written /
+CO6         Explain the root of Lungs          /comprehensi   MK   Knows                                        F&S   II
+                                                                              Demonstration        viva-voce
+                                               on
+            Explain the                        Cognitive
+                                                                              Lecture/             Written /
+CO6         Bronchopulmonary segments          /comprehensi   DK   Knows
+                                                                              Demonstration        viva-voce
+                                                                                                                F&S   II
+            of the lungs                       on
+            Describe the Blood supply,         Cognitive
+                                                                              Lecture/             Written /
+CO6         Nerve supply, Lymphatics of        /comprehensi   MK   Knows                                        F&S   II
+                                                                              Demonstration        viva-voce
+            the Lungs                          on
+
+
+       25    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                Written /
+           Describe histology and           Cognitive /                                                                 Kaychik
+CO6                                                        MK               Lecture/ ECE/ PBL   viva-voce/   F&S   II
+           Clinical Anatomy of Lungs        application         Knows how                                               ita
+                                                                                                Assignment
+           State the extent and features    Cognitive /                     Lecture/            Written /
+CO6
+           of Trachea                       Recall
+                                                           MK   Knows
+                                                                            Demonstration       viva-voce
+                                                                                                             F&S   II
+                                                                                                Written /
+                                            Cognitive –
+           Explain the Relations of                                         Lecture/            viva-voce/
+CO6                                         /comprehensi   MK   Knows how                                    F&S   II
+           Trachea                                                          Demonstration       Open book
+                                            on
+                                                                                                test
+           Describe the Blood supply,       Cognitive
+                                                                            Lecture/            Written /
+CO6        Nerve supply and                 /comprehensi   MK   Knows how                                    F&S   II
+                                                                            Demonstration       viva-voce
+           Lymphatics of Trachea            on
+                                                                                                Written /
+           Explain the histology and        Cognitive                                                                   Shalaky
+CO6
+           Clinical anatomy of Trachea      /Application
+                                                           MK   Knows how Lecture/ ECE/ PBL     viva-voce/   F&S   II   atantra
+                                                                                                Assignment
+           State the extent of Larynx       Cognitive /                     Lecture/            Written /
+CO6                                                        MK   Knows                                        F&S   II
+           and its external features        Recall                          Demonstration       viva-voce
+           Enlist the paired and            Cognitive /                     Lecture/            Written /
+CO6                                                        MK   Knows                                        F&S   II
+           unpaired cartilages of Larynx    Recall                          Demonstration       viva-voce
+                                                                                                Written /
+                                            Cognitive
+           Explain the relations of                                         Lecture/            viva-voce/
+CO6
+           Larynx
+                                            /comprehensi   DK   Knows how
+                                                                            Demonstration       Open book
+                                                                                                             F&S   II
+                                            on
+                                                                                                test
+           Write the blood supply,          Cognitive
+                                                                            Lecture/            Written /
+CO6        nerve supply and lymphatics      /comprehensi   DK   Knows
+                                                                            Demonstration       viva-voce
+                                                                                                             F&S   II
+           of Larynx                        on
+                                                                                                Written /
+           Explain the histology and        Cognitive /                     Lecture/
+CO6                                                        DK   Knows how                       viva-voce/   F&S   II
+           clinical anatomy of Larynx       application                     Demonstration
+                                                                                                Assignment
+           State the location of Pleura     Cognitive/                      Lecture/            Written /
+CO6
+           and enlist its parts             Recall
+                                                           MK   Knows
+                                                                            Demonstration       viva-voce
+                                                                                                             F&S   II
+                                            Cognitive/
+           Describe the parts of parietal                                   Lecture/            Written /
+CO6
+           Pleura
+                                            comprehensi    MK   Knows
+                                                                            Demonstration       viva-voce
+                                                                                                             F&S   II
+                                            on
+           Explain the Pulmonary            Cognitive
+                                                                            Lecture/            Written /
+CO6        ligaments and recesses of        /comprehensi   MK   Knows
+                                                                            Demonstration       viva-voce/
+                                                                                                             F&S   II
+           Pleura                           on
+
+
+      26    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                 Open book
+                                                                                                 test
+            Describe the blood supply,       Cognitive
+                                                                                                 Written /
+CO6         nerve supply, lymphatics of      /comprehensi   DK   Knows how Lecture
+                                                                                                 viva-voce
+                                                                                                              F&S   II
+            Pleura                           on
+                                                                                                 Written /
+            Explain the clinical anatomy     Cognitive –                                                                 Kayachi
+CO6                                                         DK   Knows how Lecture/ ECE/ PBL     viva-voce/   F&S   II
+            of Pleura                        Application                                                                 kitsa
+                                                                                                 Assignment
+Topic 11- Digestive system [Time: Lecture: 10 hours, non-lecture 06 hours] Practical- 22 hours
+                                                                                                 Written/
+                                                                                                 Viva-voce/
+            Describe peritoneum and          Cognitive –                      Lecture/
+CO 6                                                        MK   Knows                           Open book    F&S   I
+            nine parts of abdomen            application                      Demonstration
+                                                                                                 test/
+                                                                                                 Assignment
+                                                                                                 Written/
+            Describe the anatomy of the
+                                                                                                 Viva-voce/
+            Oesophagus with relations,       Cognitive –                      Lecture/
+CO 6                                                        MK   Knows                           Open book    F&S   I
+            histology and clinical           application                      Demonstration
+                                                                                                 test/
+            anatomy
+                                                                                                 Assignment
+            Describe the structure of the                                                        Written/
+            Stomach, Stomach bed, the                                         Lecture/           Viva-voce/
+                                             Cognitive –
+CO 6        interior, histology, blood                      MK   Knows        Demonstration/     Open book    F&S   I
+                                             application
+            supply with relations and                                         PBL/ ECE/ IT       test/
+            clinical anatomy                                                                     Assignment
+                                                                                                 Written/
+            Describe the structure of the
+                                                                              Lecture/           Viva-voce/
+            Duodenum with relations,         Cognitive –
+CO 6                                                        MK   Knows        Demonstration/     Open book    F&S   I
+            histology and clinical           application
+                                                                              ECE/ PBL/ IT       test/
+            anatomy.
+                                                                                                 Assignment
+                                                                                                 Written/
+            Describe the parts, structure,                                                       Viva-voce/
+                                             Cognitive –                      Lecture/
+CO 6        histology and clinical                          MK   Knows how                       Open book    F&S   I
+                                             application                      Demonstration
+            anatomy of Large intestine.                                                          test/
+                                                                                                 Assignment
+            Describe the anatomy of the      Cognitive –
+CO 6                                                        MK   Knows how Lecture/              Written/     F&S   I
+            Rectum, Peritoneal &             application
+
+
+       27    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            visceral relations and applied                                   Demonstration/   Viva-voce/
+            anatomy of the Rectum.                                           ECE/ PBL/ IT     Open book
+                                                                                              test/
+                                                                                              Assignment
+            Describe the anatomy and
+                                                                                              Written/
+            musculature of the anal
+                                                                                              Viva-voce/
+            canal, histology with its        Cognitive –                     Lecture/
+CO 6                                                       MK   Knows how                     Open book    F&S   I
+            blood supply, venous             application                     Demonstration
+                                                                                              test/
+            drainage and applied
+                                                                                              Assignment
+            anatomy
+            Describe the structure of the                                                     Written/
+            Pancreas, Pancreatic ducts,                                   Lecture/            Viva-voce/
+                                             Cognitive –
+CO 6        applied anatomy, along with                    MK   Knows how Demonstration/      Open book    F&S   I
+                                             application
+            histology of endocrine &                                      ECE/ PBL/ IT        test/
+            exocrine part.                                                                    Assignment
+                                                                                              Written/
+            Describe external features,                                   Lecture/            Viva-voce/
+                                             Cognitive –
+CO 6        anatomy histology and                          MK   Knows how Demonstration/      Open book    F&S   I
+                                             application
+            clinical anatomy of Liver                                     ECE/ PBL/ IT        test/
+                                                                                              Assignment
+            Describe the structure,                                                           Written/
+            peritoneal & visceral                                         Lecture/            Viva-voce/
+                                             Cognitive –
+CO 6        relations histology and                        MK   Knows how Demonstration/      Open book    F&S   I
+                                             application
+            applied anatomy of the                                        ECE/ PBL/ IT        test/
+            Spleen.                                                                           Assignment
+            Enlist the salivary glands and
+                                                                                              Written/
+            describe the anatomy of
+                                                                                              Viva-voce/
+            Parotid gland,                   Cognitive –                     Lecture/
+CO 6                                                       DK   Knows how                     Open book    F&S   I
+            Submandibular gland and          application                     Demonstration
+                                                                                              test/
+            Sublingual gland with its &
+                                                                                              Assignment
+            Clinical anatomy
+Topic 12- Cardiovascular System [Time: Lecture: 08 hours, non-lecture 03 hours]
+            Describe pericardium with its    Cognitive –                     Lecture/         Written/
+CO 6                                                       MK   Knows how                                  F&S   II
+            clinical anatomy                 application                     Demonstration    Viva-voce
+            Describe external features of    Cognitive –                     Lecture/
+CO 6                                                       MK   Knows                         Written/     F&S   II
+            the Heart.                       recall                          Demonstration
+
+
+       28    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                                  Viva-voce/
+                                                                                                  Open book
+                                                                                                  test/
+                                                                                                  Assignment
+                                                                                                  Written/
+            Describe internal features of
+                                                                          Lecture/                Viva-voce/
+            the chambers, valve and         Cognitive –
+CO 6                                                      MK    Knows how Demonstration/          Open book    F&S   II
+            auscultatory areas of Heart     application
+                                                                          ECE/ PBL/ IT            test/
+            and its applied anatomy
+                                                                                                  Assignment
+            Describe the major arteries     Cognitive –                       Lecture/            Written/
+CO 6                                                      MK    Knows                                          F&S   II
+            and veins of Heart.             Recall                            Demonstration       Viva-voce
+                                                                                                  Written/
+                                                                          Lecture/                Viva-voce/
+            Describe the histology and      Cognitive –
+CO 6                                                      MK    Knows how Demonstration/          Open book    F&S   II
+            applied anatomy of Heart.       application
+                                                                          ECE/ PBL/ IT            test/
+                                                                                                  Assignment
+Topic 13- Urinary System [Time: Lecture: 08 hours, non-lecture 03 hours] Practical- 04 hours
+            Enlist the components of        Cognitive /                                           Written /
+            Urinary System                  Recall
+                                                          MK    Knows         Lecture
+                                                                                                  viva-voce
+                                                                                                               F&S   II
+CO 6
+                                                                                                  Written /               Kayachik
+            Describe the anatomical         Cognitive /                                           viva-voce/              itsa
+                                                                              Lecture/
+CO 6        structure of Kidney, Ureter,    Comprehensi   MK    Knows                             Open book    F&S   II   /Panchkar
+                                                                              Demonstration
+            Urinary bladder, Urethra        on                                                    test/                   ma/Shala
+                                                                                                  Assignment              ya-Tantra
+                                                                                                  Written /
+            Explain histology and           Cognitive /
+                                                                          Lecture/                viva-voce/
+            clinical anatomy of Kidney,     Comprehensi
+CO 6                                                      MK    Knows how Demonstration/          Open book    F&S   II
+            Ureter, Urinary bladder,        on &
+                                            Application
+                                                                              ECE/ PBL/ IT        test/
+            Urethra and its importance
+                                                                                                  Assignment
+                                                                                                  Written /
+            Enlist developmental                                                                  viva-voce/
+                                            Cognitive /
+CO 6        anomalies of Kidney, Ureter,
+                                            Recall
+                                                          NK    Knows         Lecture             Open book    F&S   II
+            Urinary bladder, Urethra                                                              test/
+                                                                                                  Assignment
+Topic 14- Reproductive System [Time: Lecture: 07 hours, non-lecture 03 hours] Practical-02 hour
+
+
+
+       29    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+           Enlist the anatomical                                                               Written /
+                                           Cognitive /
+           structures of male                                                                  viva-voce/
+CO 6       reproductive system and
+                                           Comprehensi   MK     knows how   Lecture
+                                                                                               Open book
+                                                                                                            F&S   III
+                                           on
+           discuss its Ayurved Sharir                                                          test
+           Describe the male
+           reproductive organs – Testes,                                                       Written /
+           Scrotum, Epididymis, Ductus     Cognitive /                                         viva-voce/
+CO 6       deference, Ejaculatory duct,    application
+                                                         MK     knows how   Lecture
+                                                                                               Open book
+                                                                                                            F&S   III
+           penis, Spermatic cord with                                                          test
+           histology and applied aspect
+           Enlist the anatomical                                                               Written /
+                                           Cognitive /
+           structures of female                                                                viva-voce/
+CO 6       reproductive system and
+                                           Comprehensi   MK     knows how   Lecture/ Seminar
+                                                                                               Open book
+                                                                                                            F&S   III
+                                           on
+           discuss its Ayurved Sharir.                                                         test
+                                           Cognitive /
+           Describe external female                                                            Written /
+CO 6       reproductive organs
+                                           Comprehensi   MK     knows       Lecture/ Seminar
+                                                                                               viva-voce
+                                                                                                            F&S   III
+                                           on
+           Explain Internal reproductive                                                       Written /
+           organs in detail with                                                               viva-voce/
+                                           Cognitive /                      Lecture/ ECE/
+CO 6       histology and its applied                     MK     knows how                      Open book    F&S   III
+                                           application                      PBL/ IT
+           anatomy (Uterus, Fallopian                                                          test/
+           tube, Cervix, Vagina, Ovary)                                                        Assignment
+                                                                                               Written /
+           Explain histology of Uterus,                                     Lecture/
+                                                                                               viva-voce/
+                                           Cognitive /
+CO 6       Fallopian tube, Cervix,                       DK     knows how                      Open book    F&S   III
+                                           application                      Demonstration
+           Vagina, Ovary                                                                       test/
+                                                                                               Assignment
+Topic 15- Sensory organ [Time: Lecture: 14 hours, non-lecture 05 hours]
+                                                                                               Written /
+           Explain five sensory
+                                           Cognitive -                    Lecture with 3D      viva-voce/
+           receptors, hierarchy of
+CO7                                        comprehensi   MK     Knows how animated             Open book    F&S   III
+           development of five senses
+                                           on                             demonstration        test/
+           and need of five senses
+                                                                                               Assignment
+                                           Cognitive –                                         Written /
+           Describe structural aspect of
+CO7
+           five sensory organ
+                                           comprehensi   MK     Knows       Lecture            viva-voce/   F&S   III
+                                           on                                                  Open book
+
+
+      30    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                           test/
+                                                                                           Assignment
+                                                                                           Written /
+                                                                       Lecture with 3D
+           Describe the pathways of       Cognitive -                                      viva-voce/
+                                                                       animated
+CO7        each sense in understanding    comprehensi   NK   Knows how
+                                                                       demonstration/
+                                                                                           Open book    F&S   III
+           of its functional anatomy      on                                               test/
+                                                                        ECE/ PBL/ IT       Assignment
+           Determine Method of                                          Lecture with       Written /                Shalakya
+                                          Cognitive -                   practical
+           examination, tool of                                                            viva-voce/               dept.
+                                          comprehensi        Knows +    demonstration of
+CO7        examination and Importance                   DK                                 Open book    F&S   III   Kaya
+                                          on +               Shows
+           of sensory organ in systemic                                 tools/ ECE/ PBL/   test/                    chikitsa
+                                          Psychomotor
+           examination                                             IT                      Assignment               dept
+*MK-Must Know, DK- Desirable to Know, NK- Nice to Know, TT- Tutorial, GD- Group Discussion, PBL- Problem Based
+Learning, IT- Integrated Teaching, ECE- Early Clinical Exposure, SDL- Self Directed Learning, CBL- Case Base Learning (P)-
+Practical
+
+
+
+
+      31    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+List of Practicals AyUG-RS
+ Marks: 200
+ Hours: 240
+
+    SN                                         Name of Practical                                          Term   Hours
+     P1       • Branches of anatomy. History of Anatomy
+                                                                                                           I       2
+              • Ethics in dissection hall
+     P2   Anatomical Terminologies
+          Anatomical position, Planes, and explanation of anatomical terms related to skin,
+                                                                                                           I       4
+          fasciae, bones, joints and their movements, muscles, ligaments, tendons, blood
+          vessels, nerves.
+     P3   Preservation methods of the cadaver, Mrut sharir Samshodhan
+              • Different methods of preservation techniques.                                              I       2
+              Brief introduction of chemical composition of preservative fluid.
+     P4   Introduction of Anatomy Act and Brief detailing about Bio medical waste management act 1960      I       2
+     P5   Shava vichhedana – detailed dissection of the whole body
+              • Line of incision
+              • Dissection technique                                                                       I      32
+              • Identification of different tools and its Uses
+              • Identification and characteristics of Different layers and its relation
+          In Extremities: Dissection of extremities & Identification of related structures                 II     40
+          In Trunk region: Demonstration of visceral relation of thoracic, abdominal and pelvic organ      II     38
+          In Head Region: Dissection of head,
+          Identification of Meninges, Major Sulci and gyri, Superficial origin of Cranial Nerve and and    III    14
+          venous Sinus.
+          Dissection of sensory organs                                                                     III    22
+     P6       • Practical study of vital organs, Histological slides
+                                                                                                           II     06
+              • Identification of external features of thoracic, abdominal and pelvic viscera
+     P7   Practical study of bones                                                                         I      36
+
+    32    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+            Identification of external features of bones and different attachment
+        Surface and Radiological anatomy
+        In Radiology Anatomy: Characteristics of radio imaging film and detailing about its color
+        contrasting
+        Identification of Normal alignment of bodily structure – X ray film
+            a. Chest X Ray – A.P And P.A view                                                              III   22
+            b. Detailing of A.P view of Shoulder joint, Elbow Joint, Wrist joint, Hip joint, knee joint,
+                Ankle joint.
+            c. Identification of basic clinical finding through X ray film related to long bones and
+                joints
+ P8     In Surface Anatomy Section:
+            • Identification of Underlying viscera of Nine region based upon Cadaveric and Living
+                                                                                                           III   6
+                Anatomy
+            • Surface marking of thoracic, abdominal and pelvic viscera
+   P9 Practical study of Marma
+                                                                                                           III   12
+            Surface markings of all Marma points and its anatomical demarcation.
+  P10 Brief detailing about body donation, organ donation and its awareness
+                                                                                                           III   2
+        (Communication skills)
+*Note: one practical should not be less than 2 hrs.
+
+
+
+
+   33   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+    Table 4: Learning objectives (Practical) of AyUG- RS
+
+    A4                B4                  C4      D4          E4           F4               G4           H4        I4         J4
+Course         Learning Objective      Domain/sMust to      Level    T-L method        Assessment Form             Te   Integration
+outcome                                ub      know/        Does/                                      ative rm
+              (At the end of the               desirabl     Shows                                      /sum
+              session, the students            e to          how/                                      mativ
+              should be able to)               know/N       Knows                                      e
+                                               ice to        how/
+                                               know       Know
+Practical 1- Definition and branches of anatomy. History of Anatomy [Time: Practical or other activity - 02 hours]
+CO1            Define and describe     Cognitive /   MK     Know         Lecture/            Written      F&S
+               branches of anatomy     knowledge                         Tutorial           +viva-voce             I
+               and its history         / recall
+CO9            Practice of ethics in   Cognitive /   MK     Knows        Tutorial/          viva-voce     F&S
+               the context of human    knowledge            Shows        Demonstration
+               dissection              / recall/
+                                                                                                                   I
+                                       Affective/
+                                       psychomot
+                                       or
+Practical 2- Anatomical Terminologies [Time: Practical- 2 hours and other activity 2 hours]
+CO1           Demonstrate            Cognitive / MK        Knows        Tutorial/             Written     F&S
+              anatomical position,   knowledge                          Demonstration/      +viva-voce/
+                                     / recall                           Simulation          Open book
+              Planes, and                                                                      test/
+              explanation of                                                               Assignments
+              anatomical terms
+              related to skin,                                                                                     I
+              fasciae, bones, joints
+              and their movements,
+              muscles, ligaments,
+              tendons, blood
+              vessels, nerves.
+
+
+          34   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Practical 3- Preservation methods of the cadaver, Mrut sharir Samshodhan [Time: Practical or other activity - 02 hours]
+CO9           Describe and              Cognitive / MK    Knows,      Tutorial/         Written   F&S
+              demonstrate               knowledge         Shows       Demonstration   +viva-voce
+                                        / recall
+              preservation methods
+                                                                                                                      I
+              of the cadaver and
+              Mrut sharir
+              Samshodhan
+CO9           Describe the different Cognitive / MK       Knows       Tutorial/         Written   F&S
+              methods of                knowledge                     Demonstration   +viva-voce,
+                                        / recall                                       spotting,
+              preservation                                                              OSPE
+              techniques and give                                                                                     I
+              brief introduction of
+              chemical composition
+              of preservative fluid.
+Practical 4- Introduction of Anatomy Act and Brief detailing about Bio medical waste management act 1960
+[Time: Practical or other activity - 02 hours]
+CO9          Describe and follow     Cognitive -   NK       Knows,       Lecture/            Written     F&S
+             the Anatomy Act and     comprehen              know how,    Tutorial/         +viva-voce/
+                                     sion,                  Shows        Demonstration       Practical
+             Bio medical waste                                                                                        I
+                                     Affective/                                           performance/
+             management act 1960     psychomot                                                Public
+                                     or                                                     awareness
+Practical 5- Shava vichhedana – detailed dissection of the whole body [Time: Practical- 126 hours and other activity 20 hours]
+CO9           Demonstrate the line Cognitive / MK          Knows/      Tutorial/            Written    F&S
+              of incision, dissection knowledge            Shows/      Demonstration      +viva-voce,
+                                      / recall             Shows       / Cadaveric         spotting,                  I
+              technique, different                         How                              OSPE
+                                                                       dissection
+              tools and their uses
+CO9           Identify and            Cognitive / DK       Knows       Tutorial/            Written    F&S
+              characteristics of      knowledge                        Demonstration      +viva-voce,
+                                      / recall                                             spotting,                  I
+              Different layers and                                     / Simulations /
+              its relation                                                                  OSPE
+
+
+        35   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                         Cadaveric
+                                                                         dissection
+CO9           Identify and              Cognitive /   DK    Knows,       Tutorial/          Written      F&S
+              demonstrate muscles       knowledge           Shows        Demonstration     +viva-voce
+                                        / recall                                                                      II
+              of extremities and its                                     / Cadaveric
+              related structures                                         dissection
+CO6           Describe and              Cognitive -   DK    Knows,       Demonstration        Written    F&S
+              demonstrate the           comprehen           Shows        / Simulations /   +viva-voce,
+                                        sion +                           Cadaveric           spotting,
+              visceral relation of      psychomot                                             OSPE/                   II
+                                                                         dissection
+              thoracic and              or                                                   Practical
+              abdominal organ                                                              performance
+CO6           Describe and              Cognitive -   MK    Knows,       Demonstration        Written    F&S
+              demonstrate surface       comprehen           Shows        / Simulations/    +viva-voce,
+              identification of parts   sion +                           Cadaveric           spotting,
+              of brain, major sulci     psychomot                        dissection           OSPE/
+                                        or                                                   Practical               III
+              and gyri, superficial
+                                                                                           performance
+              origin of cranial
+              nerve and meninges
+              and venous sinus.
+CO6           Describe, dissect and     Cognitive -   MK    Knows,       Demonstration        Written    F&S
+              demonstrate the           comprehen           Shows        / Simulations/    +viva-voce,
+              sensory organs            sion +                           Cadaveric           spotting,
+                                                                                                                     III
+                                        psychomot                        dissection           OSPE/
+                                        or                                                   Practical
+                                                                                           performance
+Practical 6- Practical study of vital organs, Histological slides and identification of external features of thoracic and abdominal viscera
+[Time: Practical- 04 hours and other activity 02 hours]
+CO6           Focus the histological Cognitive / DK           Knows        Tutorial/            Written    F&S
+              slides of identified     knowledge                           Demonstration      +viva-voce
+                                                                                                                        II
+                                       / recall                                                spotting,
+              organs                                                                            OSPE
+CO6           Describe and              Cognitive -   MK    Knows        Demonstration       Written     F&S
+              demonstrate the           comprehen           Shows                          +viva-voce,                II
+                                        sion +                                              spotting,
+
+         36   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+              external features of   psychomot                                                  OSPE/
+              thoracic and           or                                                        Practical
+                                                                                             performance
+              abdominal viscera
+Practical 7- Practical study of bones [Time: Practical- 30 hours or other activity 06 hours]
+CO3           Describe and           Cognitive - MK          Knows,        Demonstration        Written    F&S
+              demonstrate external   comprehen               Shows         / Simulations     +viva-voce,
+              features of bones and sion +                                                     spotting,
+                                                                                                                  I
+              muscle attachments     psychomot                                                  OSPE/
+                                        or                                                    Practical
+                                                                                            performance
+CO10          Describe the          Cognitive / DK       Knows         Tutorial/               Written     F&S
+              characteristics of    knowledge                          Demonstration         +viva-voce
+              radio imaging film    / recall                           / Simulations          spotting,           I
+              and difference in                                                                OSPE
+              color contrasting
+Practical 8- Surface and Radiological anatomy [Time: Practical- 20 hours and other activity 08 hours]
+CO10          Describe and          Cognitive - MK       Knows,        Tutorial/             Written       F&S
+              demonstrate the       comprehen            Shows         Demonstration      +viva-voce,
+              normal alignment of   sion +                                                  spotting,
+                                                                                                                 III
+              chest X Ray – A.P     psychomot                                                OSPE/
+              And P.A view          or                                                      Practical
+                                                                                            performance
+CO10          Describe and              Cognitive -   MK     Knows,       Tutorial/            Written     F&S
+              demonstrate the           comprehen            Shows        Demonstration     +viva-voce,
+              normal alignment of       sion +                                                spotting,
+              A.P view of Shoulder      psychomot                                              OSPE/
+                                        or                                                    Practical          III
+              joint, Elbow Joint,
+                                                                                            performance
+              Wrist joint, Hip joint,
+              knee joint, Ankle
+              joint
+CO10          Identify the basic        Cognitive -   NK     Knows,       Tutorial/           Written      F&S         Kaychikitas,
+              clinical finding          comprehen            Shows        Demonstration     +viva-voce,                Shalyatantra
+                                                                                                                 III
+              through X ray film        sion +                                               spotting,
+                                                                                              OSPE/
+
+
+         37   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+             related to long bones   Psychomot                                             Practical
+             and joints              or                                                  performance
+CO8          Describe and            Cognitive -   DK      Knows,       Tutorial/           Written     F&S
+             demonstrate             comprehen             Shows        Demonstration    +viva-voce,
+                                     sion +                                                spotting,
+             underlying viscera of   psychomot                                              OSPE/              III
+             Nine region based       or                                                    Practical
+             upon cadaveric and                                                          performance
+             Living Anatomy
+CO8          Describe and            Cognitive -   DK      Knows,       Tutorial/           Written     F&S
+             demonstrate surface     comprehen             Shows        Demonstration    +viva-voce,
+             marking of thoracic     sion +                                                spotting,
+                                                                                                               III
+             and abdominal           psychomot                                              OSPE/
+                                     or                                                    Practical
+             viscera
+                                                                                         performance
+Practical 9- Practical study of Marma [Time: Practical or other activity - 12 hours]
+CO5, CO8      Describe and          Cognitive - MK         Knows +         Tutorial/        Written     F&S          Panchakarma
+              demonstrate surface   comprehen              Shows          Demonstration +viva-voce,
+              markings of Marma     sion +                                / Cadaveric      spotting,
+              points and its        psychomot                             dissection        OSPE/
+                                    or                                                     Practical           III
+              anatomical
+                                                                                         performance
+              demarcation of all
+              Marma as per
+              Shadang sharir
+Practical 10- Body donation, organ donation and its awareness [Time: Practical or other activity - 02 hours]
+
+CO9          Describe body           Affective/    DK      Knows,       Tutorial/           Written     F&S          Shalyatantra
+             donation and organ      psychomot             know how,    Demonstration     +viva-voce/          III   and
+             donation process with   or                    Shows                            Public                   Shalakyatan
+             respect to specific                                                          awareness/                 tra
+             organ and its                                                               social work
+             awareness               Psychomot     MK
+             Demonstrate process     oe
+                                                                        Role Play                              III
+             of communication
+
+
+        38   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+     process in awareness
+     speech or cousellinf
+     for Body donation.
+
+
+
+
+39   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+Table 5: Non-Lecture Activities Course AyUG-RS
+
+ 1 List non lecture Teaching-Learning methods                  No of Activities
+                                                               (Values in hours)
+ a    Seminar / Workshop                                               14
+ b    Tutorial (TT) / Group Discussion (GD)                            14
+ c    Problem based learning (PBL)                                      8
+ d    Integrated teaching (IT)                                          8
+ e    Early Clinical Exposure (ECE)/ Case Base Learning (CBL)          18
+ f    Self-Directed Learning (SDL) / Summary writing                   12
+ g    Field visit                                                       6
+                                                                       80
+ 2    Practical (refer Table 4)                                       240
+                                                         Total        320
+
+
+Other Educational Activities(Additional):
+     ● Field visit (community/anatomy museum) - II & III term
+     ● Practical journal – II & III term
+     ● Summary/ Essay writing (Research papers/Samhitas literature review)- II or III term
+
+Table 6: Assessment Summary
+
+6 A - Number of Papers and Marks Distribution
+                                                             Practical/Clinical Assessment
+                                                                                                      Grand
+     S.No.      Subject Code     Papers    Theory   Practical/                                Sub
+                                                                 Viva    Electives    IA              Total
+                                                     Clinical                                 Total
+      1.      AyUG-RS              2        200        100        70         -        30      200      400
+
+
+
+6 B - Scheme of Assessment (formative and Summative) AyUG-RS
+                                                      DURATION OF PROFESSIONAL COURSE
+                    PROFESSIONAL
+ SR.NO.                                     First Term              Second Term                Third Term
+                       COURSE
+                                           (1-6 Months)            (7-12 Months)             (13-18 Months)
+
+       1                 First             3 PA & First TT        3 PA & Second TT             3 PA & UE
+
+
+
+ PA: Periodical Assessment; TT: Term Test; UE: University Examinations
+
+
+      40     Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+6 C - Calculation Method for Internal assessment Marks (30 Marks) AyUG-RS
+                                                                                TERM               TERM
+                            PERIODICAL ASSESSMENT*
+                                                                               TEST**           ASSESSMENT
+                  A         B          C           D              E                F           G         H
+  TERM                                                       Converted to      Term Test      Sub
+                                                                                                       Term
+               1 (15      2 (15     3 (15     Average            30             (Marks       Total
+                                                                                                     Assessment
+               Marks)     Marks)    Marks)    (A+B+C/3)         Marks          converted     _/60
+                                                                                                      (…./30)
+                                                              (D/15*30)          to 30)      Marks
+ FIRST                                                                                       E+F      (E+F)/2
+ SECOND                                                                                      E+F      (E+F)/2
+ THIRD                                                                            NIL                    E
+ Final IA                   Average of Three Term Assessment Marks as Shown in ‘H’ Column.
+               Maximum Marks in Parentheses
+               *Select an Evaluation Method which is appropriate for the objectives of Topics from the Table 6 D for
+               Periodic assessment. Conduct 15 marks assessment and enter marks in A, B, and C.
+               ** Conduct Theory (100 Marks) [MCQ (20*1 Marks), SAQ (8*5), LAQ (4*10)] and Practical (100
+               Marks)
+               Then convert to 30 marks.
+
+6 D - Evaluation Methods for Periodical Assessment
+
+  S. No.           Evaluation Methods for Periodical Assessment
+   1.              Practical / Clinical Performance
+  2.               Viva Voce, MCQs, MEQ (Modified Essay Questions/Structured Questions)
+  3.               Open Book Test (Problem Based)
+  4.               Summary Writing (Research Papers/ Samhitas)
+  5.               Class Presentations; Work Book Maintenance
+  6.               Problem Based Assignment
+  7.               Objective Structured Clinical Examination (OSCE), Objective Structured Practical Examination
+                   (OPSE), Mini Clinical Evaluation Exercise (Mini-CEX), Direct Observation of Procedures (DOP),
+                   Case Based Discussion (CBD)
+  8.               Extra-curricular Activities, (Social Work, Public Awareness, Surveillance Activities, Sports or
+                   Other Activities which may be decided by the department).
+  9.               Small Project
+  10.              Other activities explained in Table 3 Column G3 as per indicated term and objective of the topic.
+
+
+
+
+       41   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+6 E - Paper Layout
+                              I PROFESSIONAL BAMS EXAMINATIONS
+                                                AyUG-RS
+PAPER-1
+Time: 3 Hours    Maximum Marks: 100
+INSTRUCTIONS: All questions compulsory
+TOTAL MARKS 100
+
+                                           Number of Marks per    Total
+                                           Questions question     Marks
+ Q1        Multiple Choice Questions          20              1       20
+           (MCQ)
+
+ Q2        Short answer questions (SAQ)         8            5       40
+
+ Q3        Long answer questions (LAQ)          4            10      40
+
+                                                                     100
+
+                              I PROFESSIONAL BAMS EXAMINATIONS
+                                                AyUG-RS
+PAPER-1I
+Time: 3 Hours    Maximum Marks: 100
+INSTRUCTIONS: All questions compulsory
+TOTAL MARKS 100
+
+                                           Number of Marks per    Total
+                                           Questions question     Marks
+ Q1        Multiple Choice Questions          20              1       20
+           (MCQ)
+
+ Q2        Short answer questions (SAQ)         8            5       40
+
+ Q3        Long answer questions (LAQ)          4            10      40
+
+                                                                     100
+
+
+
+
+      42    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+6 F – I - Distribution of Theory exam AyUG- RS
+                                                                                        D
+                                                                                Type of Questions
+       Paper I
+                                                                               “Yes” can be asked.
+                                                                            “No” should not be asked.
+                     A                            B           C           MCQ        SAQ          LAQ
+               List of Topics                    Term        Marks      (1 Mark)       (5      (10 Marks)
+                                                                                    Marks)
+ 1     Shariropkramaniya                           I                       Yes         Yes         No
+       Shaarira
+ 2     Paribhasha Shaarira                         I                       Yes         Yes         No
+ 3.    Garbha Shaarira                             I                       Yes         Yes         Yes
+ 4.    Asthi Shaarira                              I                       Yes         Yes         Yes
+ 5.    Sandhi Shaarira                            II                       Yes         Yes         Yes
+ 6.    Snayu sharir                               II                       Yes         Yes         No
+ 7.    Peshi Shaarira                             II          Refer        Yes         Yes         No
+ 8.    Kesha, Danta, Nakha                        II          Next         Yes         Yes         No
+       Sharir                                                 table
+ 9     Embryology                                   I                      Yes         Yes         Yes
+ 10    Osteology                                    I                      Yes         Yes         Yes
+ 11    Arthrology.                                 II                      Yes         Yes         Yes
+ 12    Myology                                     II                      Yes         Yes         No
+ 13    Nervous System.                            III                      Yes         Yes         Yes
+ 14    Endocrinology                              III                      Yes         Yes         Yes
+ 15    Lymphatic system                           III                      Yes         No          Yes
+
+
+                                                                                        D
+                                                                                Type of Questions
+           Paper II
+                                                                               “Yes” can be asked.
+                                                                            “No” should not be asked.
+                            A                   B            C          MCQ          SAQ           LAQ
+                      List of Topics          Term          Marks     (1 Mark)    (5 Marks)     (10 Marks)
+ 1         Pramana Shaarira:                    II                       Yes          No            No
+ 2         Koshtha Evam Ashaya Shaarira         I                        Yes          Yes           Yes
+ 3.        Sira Sharir                          II                       Yes          Yes           Yes
+ 4.        Dhamani Sharir                       II                       Yes          Yes           Yes
+                                                            Refer
+ 5.        Strotas Shaarira                     II                       Yes          Yes           Yes
+                                                            Next
+ 6.        Kalaa Shaarira                      III                       Yes          Yes           Yes
+                                                            Table
+ 7.        Indriya Shaarira                    III                       Yes          Yes           Yes
+ 8.        Twacha Sharir                       III                       Yes          Yes           Yes
+ 9         Marma Shaarira                       II                       Yes          Yes           Yes
+ 10        Respiratory System                   II                       Yes          Yes           Yes
+
+
+
+      43    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+ 11        Digestive system                        I                       Yes          Yes            Yes
+ 12        Cardiovascular system                   II                      Yes          Yes            Yes
+ 13        Urinary System                          II                      Yes          Yes            Yes
+ 14        Reproductive system                    III                      Yes          Yes            Yes
+ 15        Sensory organs                         III                      Yes          Yes            Yes
+
+6 F – II - Theme table
+Paper-I:
+ Theme*                     Topics                  Term      Marks       MCQ             SAQ            LAQ
+            1) Shariropakramaniya
+      a                                               I         10         YES             YES            NO
+            2) Paribhasha Sharir
+            3) Garbha Sharir
+      b                                               I         20         YES             YES           YES
+            9) Embryology
+            4) Asthi Sharir
+      c                                               I         16         YES             YES           YES
+            10) Osteology
+            8) Kesh, Dant, Nakha Sharir
+      d     7) Peshi Sharir                           II        11         YES             YES            NO
+            12) Myology
+            5) Sandhi Sharir
+      e     6) Shayu Sharir                           II        17         YES             YES           YES
+            11) Arthrology
+      f     13) Nervous System                       III        14         YES             YES           YES
+            14) Endocrinology
+      g                                              III        12         YES             YES           YES
+            15) Lymphatic
+       *Theme: is group of similar topics in Ayurved Sharir and Anatomy. Used in 6G question paper blue print
+
+Paper-II
+ Theme                      Topics                Term     Marks         MCQ             SAQ           LAQ
+             2) Koshta Evam Ashay Sharir
+      a                                             I        16           YES            YES            YES
+             11) Digestive system
+             1) Praman Sharir
+      b                                            II        17           YES            YES            YES
+             9) Marma Sharir
+             3) Sira Sharir
+             4) Dhamani Sharir
+      c                                            II        21           YES            YES            YES
+             5) Strotas Sharir
+             12) Cardiovascular System
+      d      10) Respiratory System                 II       10           YES            YES            YES
+      e      13) Urinary System                     II       10           YES            YES            YES
+      f      14) Reproductive System               III        6           YES            YES            NO
+             6) Kala Shair
+             7) Indriya Sharir
+      g                                            III       20           YES            YES            YES
+             8) Twacha Sharir
+             15) Sensory organs
+
+
+
+
+      44    Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+6 G Question paper Blue print for AyU-RS:
+PAPER-I
+     A                                 B                                            C
+  Question                      Type of Question                          Question Paper Format
+   Sr. No                                                      (Refer table 6 F II Theme table for themes)
+ Q1            Multiple choice Questions                       1. Theme a
+               (MCQ)                                           2. Theme a
+                                                               3. Theme a
+               20 Questions                                    4. Theme a
+                                                               5. Theme a
+               1 mark each                                     6. Theme b
+                                                               7. Theme b
+               All compulsory                                  8. Theme b
+                                                               9. Theme b
+               Must know part: 15 MCQ                          10. Theme b
+               Desirable to know: 3 MCQ.                       11. Theme c
+               Nice to know: 2 MCQ                             12. Theme d
+                                                               13. Theme e
+                                                               14. Theme e
+                                                               15. Theme f
+                                                               16. Theme f
+                                                               17. Theme f
+                                                               18. Theme f
+                                                               19. Theme g
+                                                               20. Theme g
+ Q2            Short answer Questions                          1. Theme a
+               (SAQ)                                           2. Theme b
+               Eight Questions                                 3. Theme c
+               5 Marks Each                                    4. Theme d
+               All compulsory                                  5. Theme d
+               Must know part: 7 SAQ                           6. Theme e
+               Desirable to know: 1 SAQ                        7. Theme g/f
+               Nice to know: Nil                               8. Theme g/f
+
+ Q3            Long answer Questions
+               (LAQ)                                           1. Theme b
+               Four Questions                                  2. Theme c
+               10 marks each                                   3. Theme e
+               All compulsory                                  4. Theme f/g
+               All questions on must know
+               No Questions on Nice to know and Desirable to
+               know
+
+
+
+
+      45   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+PAPER-II
+
+Question Sr. No                                                           SET
+Q1                  Multiple choice Questions             1. Theme a
+                    (MCQ)                                 2. Theme b
+                                                          3. Theme b
+                    20 Questions                          4. Theme c
+                                                          5. Theme c
+                    1 mark each                           6. Theme c
+                                                          7. Theme c
+                    All compulsory                        8. Theme c
+                                                          9. Theme c
+                    Must know part: 15 MCQ                10. Theme d/e
+                    Desirable to know: 3 MCQ.             11. Theme d/e
+                    Nice to know: 2 MCQ                   12. Theme d/e
+                                                          13. Theme e/d
+                                                          14. Theme e/d
+                                                          15. Theme f
+                                                          16. Theme g
+                                                          17. Theme g
+                                                          18. Theme g
+                                                          19. Theme g
+                                                          20. Theme g
+Q2                  Short answer Questions                1. Theme a
+                    (SAQ)                                 2. Theme b
+                    Eight Questions                       3. Theme c
+                    5 Marks Each                          4. Theme d/e
+                    All compulsory                        5. Theme e/d
+                    Must know part: 7 SAQ                 6. Theme e/d
+                    Desirable to know: 1 SAQ              7. Theme f
+                    Nice to know: Nil                     8. Theme g
+Q3                  Long answer Questions                 1. Theme a
+                    (LAQ)                                 2. Theme b
+                    Four Questions                        3. Theme c
+                    10 marks each                         4. Theme g
+                    All compulsory
+                    All questions on Must to know
+                    No Questions on Nice to know
+                    and Desirable to know
+
+
+
+
+     46   Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+6 H - I - Distribution of Practical Exam
+Practical 100 Marks + (Viva 70 + IA 30) Marks
+   SN                                       Heads                                            Marks
+   1         Spotting (Refer Table 6 H II below)                                                20
+   3         Kostha Ashay Sharir, Dissected organs and histology slides                         20
+   4         Ashti, Sandhi, Peshi, Bones and Joints,                                            20
+   5         Marma Sharir, Surface & Radiological anatomy                                       20
+   6         Practical record (15 Marks) and Communication Skill (5 Marks)                      20
+   7         Viva-Voce (Objective Structured) (Refer table 6 H – III)                           70
+   8         Internal assessment                                                                30
+             Total Marks                                                                       200
+6 H - II Practical Spot examination Questions – (20 marks)
+ SN Question                                                                            Mark allotment
+ Topic- Garbha/Sira/Kala
+       Identify the structure & give the Drushtant/ Metaphor related with it.           Identification- 1
+  1
+       e.g.- Gunja Phala- Artava, Spatik-Shukra, etc                                    Drushtant- 1
+ Topic- Marma
+       Identify the Marma & write its type as per Parinama & Rachana                    Identification- 1
+  1
+                                                                                        Type-1
+           Identify the Marma & write its Pariman & any two anatomical structures       Identification- 0.5
+           related to the Marma                                                         Pariman – 0.5
+  2
+                                                                                        Anatomical structure -
+                                                                                        1
+           Identify the Marma & write its applied aspect                                Identification- 1
+  3
+                                                                                        Viddha-1
+ Topic- Bones, Muscles
+       Identify the bone & write its peculiarities (Any 2)                              Identification- 0.5
+  1    e.g.- Atlas vertebra                                                             Peculiarities- 1.5
+
+           Identify the indicated part on the bone & write its attachment (Any 2)       Identification- 1
+  2
+           e.g., Scapula spine                                                          Attachment- 1
+           Identify the side of the given bone & write side determination points        Side identification- 0.5
+  3
+                                                                                        Points- 1.5
+           Identify the side of the given bone & write its applied anatomy (Any 2       Identification-1
+  4
+           points)                                                                      Applied -1
+           Write the type of the given bone as per Ayurved & Modern science             Ayu. Type- 1
+  5
+           e.g., Tibia- Nalakasthi, long bone                                           Modern type- 1
+           Identify the indicated muscle on the bone & write whether it originates or   Muscle identification-
+  6        inserts there                                                                1
+                                                                                        Origin/insertion- 1
+           Identify the indicated muscle & write its action (Any 2)                     Identification- 1
+  7
+                                                                                        Action-1
+  8        Identify the indicated muscle& write its blood supply/nerve supply           Identification-1
+
+
+      47     Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+                                                                                    Supply-1
+           Identify the indicated muscle& write its applied anatomy                 Identification-1
+ 9
+                                                                                    Applied -1
+           Identify the bone and write any two processes                            Identification-1
+ 10
+                                                                                    Processes -1
+           Identify the bone and write any two angles                               Identification-1
+ 11
+                                                                                    Angle -1
+      Identify the bone and write any one peculiarity related to gender             Identification-1
+ 12
+      e.g., Hip bone, Clavicle, Sacrum                                              Peculiarities- 1
+Topic- Joints
+      Identify the joint & write its ligaments (Any 3)                              Identification- 0.5
+ 1
+                                                                                    Ligaments- 1.5
+           Identify the joint & write names of actions occurring there (Any 3)      Identification- 0.5
+ 2
+                                                                                    Actions- 1.5
+           Identify the joint & write the type of joint as per Ayurved & Modern     Identification- 1
+ 3         science                                                                  Ayu. Type- 0.5
+                                                                                    Modern type- 0.5
+           Identify the joint & write its clinical anatomy (Any two)                Identification- 1
+ 4
+                                                                                    Clinical anatomy-1
+           Identify the joint & write its relation (Any two)                        Identification- 1
+ 5
+                                                                                    Relation -1
+           Identify the joint & write the movements along with the muscle           Identification- 1
+ 6                                                                                  Movement -0.5
+                                                                                    Muscle – 0.5
+Topic- Organs
+      Identify the organ & write name of the Srotas related to it                   Identification- 1
+ 1
+                                                                                    Sroras-1
+           Identify the organ & write name of the kala related to it                Identification- 1
+ 2
+                                                                                    Kala-1
+           Identify the organ & write its Utpatti as per Ayurved                    Identification- 1
+ 3
+                                                                                    Utpatti-1
+           Identify the organ & write its visceral impressions (Any 3)              Identification- 0.5
+ 4
+                                                                                    Impressions-1.5
+           Identify the organ & write its blood/nerve supply                        Identification- 0.5
+ 5
+                                                                                    Supply-1.5
+           Identify the organ & write it’s the borders (Any two)                    Identification- 1
+ 6
+                                                                                    Borders -1
+           Identify the organ & write its surfaces (Any two)                        Identification- 1
+ 7
+                                                                                    Borders -1
+           Identify the organ& write its applied anatomy (Any 3 points)             Identification-0.5
+ 8
+                                                                                    Applied -1.5
+Topic- Radiology
+      Identify the X-ray & write the structures seen in it (Any 3)                  Identification- 0.5
+ 1
+                                                                                    Structures-1.5
+           Identify the view of the X-ray & write the marked structures (Any two)   Identification- 1
+ 2
+                                                                                    Structures-1
+Topic- Central Nervous System/ Sense organs
+      Name the lobes of the given organ                                             Each lobe – 0.5
+ 1
+      e.g., cerebrum                                                                Total -2
+
+
+      48     Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+           Identify the sense organ & write its nerve supply                           Identification- 1
+  2
+           e.g., tongue                                                                Supply-1
+           Identify the marked structure and write its applied aspect (Any two)        Identification- 1
+  3
+                                                                                       Applied aspect-1
+6 H - III Viva Voce (70 Marks)
+                 Recall Questions                 Comprehention Questions              Application Questions
+                     40 Marks                               20 Marks                         10 Marks
+      1. Sira-Dhamani-Strotas
+      2. Shariropakramaniya Sharir
+      3. Paribhasha Shaarir                    1. Nervous system
+      4. Praman Shaarira                       2. Endocrine system                1.   Garbha Sharir,
+      5. Anatomical terminologies              3. Lymphatic system                2.   Embryology
+      6. Kalaa Sharir                          4. Cardiovascular system           3.   Respiratory system
+      7. Indriya Sharir & Sensory              5. Urinary system                  4.   Digestive system
+         organ
+      8. Reproductive system
+                                                                                  e.g., Applied anatomy,
+      e.g., Definition, types, numbers,       e.g., Relations, Blood supply,
+                                                                                  Clinical anatomy, Surgical
+      planes, parts, Shlokas, etc.            Nerve Supply, Venous &
+                                                                                  anatomy, Congenital
+                                              Lymphatic drainage, etc.
+                                                                                  anomalies etc.
+7. Reference and Resourses
+   1. Parishadhya Shabdarth Sharir
+   2. Pratyaksha shaririram
+   3. Sharisthana of all Samhita
+   4. Sushrut Samhita Sharirshtana- Dr. Bhaskar Govind Ghanekar
+   5. Brihat Shariram Vaidyaratna- P.S. Varrier
+   6. Abhinava Shariram- Acharya Damodar Sharma Gaur
+   7. Manava Sharir (Revised Edition)- Prof. Dinkar Govind Thatte
+   8. Sharir Rachana Vigyan (English)- Vaidya P.G. Athawale
+   9. Manual of Practical Anatomy Cunnigham Practical Manual Vol-1, Vol-2, Vol-3
+   10. Clinical Anatomy in Ayurveda - Prof. D.G. Thatte & Prof. Suresh Chandra
+   11. Ayurvedic Human Anatomy - Prof. Dr. Giridhar M. Kanthi
+   12. Sharir Rachana Vigyan Vol I & II– Dr. Sunil Kumar Yadav
+   13. Regional Anatomy - B. D. Chaurasia
+   14. Rachana Sharir Vigyana - Dr. Mahendra Sing
+   15. Relevant chapters of Brihtrayee and Laghuthrayee
+   16. Gray's Anatomy
+   17. Text Book of Human Anatomy- Inderbir Singh
+   18. Clinical Anatomy- Richard S Snell
+   19. Fundamentals of Human Anatomy- Dr. Chakraborthy
+   20. Human Osteology - Poddar
+   21. A Handbook of Anatomical Terminology, Dr. Nidhi Shrivastava, Dr. Ravi Kumar Shrivastava, Dr. Rakesh
+       Kumar Sharma.
+
+      49     Rachana Sharir, I BAMS(Ayurvedacharya), NCISM
+

@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "5d8678a1814c0d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b019a23eddd9a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a56e6041b058f7b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
+                "viewState": {
+                  "x": 14.232292511894798,
+                  "y": -196.18476619442606,
+                  "zoom": -1.904676740000564
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Vata_Dosha_Master"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f9e86af55fbf0ac",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f5a62a03fcb58923",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "48c8f23b30531891",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "[\"marks_weightage\"]",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d155df2336de2f2a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "03662b815ddf37c4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "4b85fd0a1f102748",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "526df650ef77df6e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b79a986db8d8238",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0 - 🌌 Central Command.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3971ae4be1ded033",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "97d1bead65144e98",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "7902b03db64628e6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "google-drive-sync:Push to Google Drive": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3a56e6041b058f7b",
+  "lastOpenFiles": [
+    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.md",
+    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals.md",
+    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals.canvas",
+    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
+    "1 - 🌀 Chaos Stream.md",
+    "1 - 🧠 The Construct/📊 Social Media Tracker.md",
+    "1 - 🧠 The Construct/🤖 AI Core/⚙️ System Specifications.md",
+    "1 - 🧠 The Construct/🤖 AI Core/📊 System Analytics & Logs.md",
+    "1 - 🧠 The Construct/🤖 AI Core/🤖 Agent_Audit_Log.md",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/⚔️ The Bridge Protocol.md",
+    "1 - 🧠 The Construct/📜 The Saga/2026-01-January.md",
+    "1 - 🧠 The Construct/🧠 Contexts/🔬 Context Scholar.md",
+    "The Blueprints/🔥 Protocol True Learning.md",
+    "0 - 🌌 Central Command.md",
+    "2 - 🧩 Input Stream.md",
+    "1 - 🧠 The Construct/🔮 Arcane Knowledge/🌐 The Global Lexicon.md",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/🎓 Tolerance Training.md",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/🏷️ The Labeling Protocol.md",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/🔥 Sadhana Practice.md",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/🧘 Meditation.md",
+    "The Blueprints/🔥 Protocol Deep Dive.md",
+    "1 - 🧠 The Construct/🔬 The Scholar's Study/🧠 The Psychology of Letting Go.md",
+    "1 - 🧠 The Construct/🔬 The Scholar's Study/🤖 AI Use Cases for Professionals.md",
+    "1 - 🧠 The Construct/🧠 Contexts/🏗️ Context Architect.md",
+    "1 - 🧠 The Construct/2 - 🧩 Input Stream/YT_Scopaesthesia_challenges_the_limits_of_consciousness__Rupert_Sheldrake__IAI.md",
+    "1 - 🧠 The Construct/2 - 🧩 Input Stream",
+    "temp_trans.en.vtt",
+    "temp_trans.en.vtt.part",
+    "0 - Academic/Index.md",
+    "0 - Academic/🎓 BAMS Master Dashboard.md",
+    "0 - Academic/📚 BAMS Resources/Sanskrit_Syllabus_Raw.txt",
+    "0 - Academic/📚 BAMS Resources/SA_Syllabus_Raw.txt",
+    "0 - Academic/📚 BAMS Resources/RS_Syllabus_Raw.txt",
+    "0 - Academic/📚 BAMS Resources/PV_Syllabus_Raw.txt",
+    "0 - Academic/📚 BAMS Resources/KS_Syllabus_Raw.txt",
+    "0 - Academic/📚 BAMS Resources",
+    "Archive/PDFs/NCiSM_I BAMS_Ay UG-SA1.pdf",
+    "ks_p54_75-075.png",
+    "ks_p54_75-074.png",
+    "ks_p54_75-073.png",
+    "ks_p54_75-072.png",
+    "ks_p54_75-071.png",
+    "ks_p54_75-070.png",
+    "ks_p54_75-069.png",
+    "ks_p54_75-068.png",
+    "ks_p54_75-067.png",
+    "ks_p54_75-066.png",
+    "0 - Academic/🦴 Rachana Sharir/1 - Osteology/Clavicle.canvas",
+    "0 - Academic/🦴 Rachana Sharir/1 - Osteology/Clavicle_v2.canvas"
+  ]
+}

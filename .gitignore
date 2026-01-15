@@ -1,0 +1,9 @@
+# Obsidian sensitive files
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+.obsidian/plugins/google-drive-sync/data.json
+
+# System files
+.trash/
+*.log
+tmp/

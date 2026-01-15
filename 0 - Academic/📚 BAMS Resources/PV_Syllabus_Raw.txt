@@ -1,0 +1,2653 @@
+   COURSE CURRICULUM FOR FIRST PROFESSIONAL BAMS
+               (PRESCRIBED BY NCISM)
+
+
+
+       शास्त्रं ज्योत िः प्रकाशार्थं दशशनं बुद्धिरात्मनिः|
+
+
+                      PADARTHA VIJNANAM
+                        (SUBJECT CODE- AyUG-PV)
+FUNDAMENTAL PRINCIPLES OF AYURVEDA AND QUANTUM
+                  MECHANICS
+       (Applicable from 2021-22 batch onwards for 5 years or until further
+                      notification by NCISM, whichever is earlier)
+
+
+
+
+                            BOARD OF AYURVEDA
+     NATIONAL COMMISSION FOR INDIAN SYSTEM OF MEDICINE
+                     NEW DELHI-110058
+                                           NCISM
+
+
+                     I professional Ayurvedacharya
+                                 (BAMS)
+
+
+                               Subject Code: AyUG-PV
+
+                                    Padartha Vijnanam
+ FUNDAMENTAL PRINCIPLES OF AYURVEDA AND QUANTUM MECHANICS
+
+
+
+                         Total number of Teaching hours: 230
+
+Lecture hours (LH) - Theory
+                                                                            90 Hours
+Paper I                                    45 Hours         90 Hours
+                                                                              (LH)
+Paper II                                   45 Hours
+Non-Lecture hours (NLH) – Theory
+Paper I                                    70 Hours         140 Hours       140 Hours
+Paper II                                   70 Hours                           (NLH)
+Non-Lecture hours (NLH) - Practical                          Hours
+
+
+
+
+                      Examination (Papers & Mark Distribution)
+
+
+                                                      Practical Component Marks
+    Item          Theory Component Marks
+                                                Practical     Viva    Elective    IA
+Paper I                       100                                        10
+                                                   100           60               30
+Paper II                      100                                     (Set-FB)
+Sub-Total                     200                                   200
+Total marks                                       400
+
+
+
+
+        2     Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+PREFACE
+
+         All Medical sciences whether ancient or modern, needs frequent updating. Acharya Vagbhata
+stresses upon reform of Ayurveda according to the present time (yuganurupasandarbha). The syllabus of
+Ayurveda also needs reformation for effective dissemination of principles of Ayurveda which is strongly
+based on Padartavijnanam. Acharya Vagbhata says one who seeks long life should respect Ayurveda by
+four strategies that are knowedge (Adhiti), comprehension(Bodha)skill(Acharana) and
+Attitude(pracharana).These teaching methodologies are evolved from the ancient upanishadic way of
+teaching(Adhyapanavidhi).The new principles of teaching strategies of blooms taxonomy correlate with
+the ancient way of teaching and the syllabus of Padarthavijnanam has been revamped according to the
+need of hour.
+         Padartha Vijnanam is a unique and mandatory subject needed for learning the stream of Ayurveda.
+It is the combination of science and philosophy. One can say that the science and philosophy are the two
+sides of the same coin. The search behind “existence of world/self” when progresses outward it travels
+the path of science and when this search is inwards it becomes philosophy. Thus, Padartha Vijnanam is
+an essential base of Ayurveda education. When the foundation becomes strong building also becomes
+strong.
+         Padartha Vijnanam not only provides the platform to understand Ayurveda better but it also helps
+the students to appreciate the moral values beneficiating them in developing the personality. As mentioned
+in graduate attributes this subject helps the student to become eloquent communicator and self-directed
+learner who constantly endeavors to advance knowledge and skills to improve healthcare and social well-
+being.
+         This syllabus reform of Padartha Vijnanam has taken care of adopting the modern teaching-
+learning methodology well-merging with the ancient one. This will definitely enhance the understanding
+of the subject in a better way.
+
+        Introduction of practicals is the zest for the subject. As we all know- “I hear, and I forget. I see
+and I remember. I do, and I understand”. The teaching learning process must be joyful along with lecture
+methods like group discussions, debate, roleplay and PBL. They are also mentioned and the flexibility is
+kept. Here in this syllabus, the activity book is introduced to induce activity-based learning. This will
+definitely create the interest in the subject. There are some self-learning activities also which will induce
+the thirst for the knowledge in the student. This will help the student to understand theoretical concepts in
+a lucid way and also provides hands on experience
+
+
+
+
+           3   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Index
+Course Code and Name of Course .............................................................................................................................5
+Table 1- Course learning outcomes and matched PO. ...............................................................................................5
+Table 2 : Contents of Course AyUG-PV....................................................................................................................6
+Paper I ........................................................................................................................................................................6
+Paper II .......................................................................................................................................................................8
+Table 3: Learning objectives (Theory) of Course AyUG-PV ..................................................................................10
+Paper I ......................................................................................................................................................................10
+Paper II .....................................................................................................................................................................27
+List of Practicals.......................................................................................................................................................41
+Table 4: Learning objectives (Practical) of AyUG-PV ............................................................................................46
+Table 5: Non Lecture Activities Course AyUG-PV.................................................................................................58
+Table 6: Assessment Summary AyUG-PV ..............................................................................................................58
+6 A - Number of Papers and Marks Distribution .....................................................................................................58
+6 B - Scheme of Assessment (formative and Summative) .......................................................................................58
+6 C - Calculation Method for Internal assessment Marks (30 Marks) .....................................................................59
+6 D -Evaluation Methods for Periodical Assessment...............................................................................................59
+6 E- Paper Layout ....................................................................................................................................................60
+Paper-I ......................................................................................................................................................................60
+Paper-II.....................................................................................................................................................................60
+6 F- Disribution of Theory Exam .............................................................................................................................61
+Paper I ......................................................................................................................................................................61
+Paper II .....................................................................................................................................................................61
+6 G- Question paper blue print .................................................................................................................................62
+Paper I – ...................................................................................................................................................................62
+Paper II .....................................................................................................................................................................63
+6 H Distribution of Practical Exam ..........................................................................................................................64
+7. References /Resourses..........................................................................................................................................65
+
+
+
+
+                   4     Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Course Code and Name of Course
+
+         Course code               Name of Course
+
+         AyUG-PV                   Padartha Vijnanam (Fundamental Principles of Ayurveda
+                                   and Quantum Mechanics)
+
+
+
+AyUG-PV Course
+Table 1- Course learning outcomes and matched PO.
+
+                                                                                 Course learning
+         Course learning Outcomes (CO) AyUG-PV                                  Outcome matched
+  CO     At the end of the course AyUG-PV, the student should be able to-         with program
+                                                                                learning outcomes.
+
+
+ CO 1    Illustrate the scope and utility of Ayurveda                           PO1
+         Explain Philosophical foundation of Ayurveda, Principles
+ CO 2    (Siddhantha) of Darshana along with their similarities and relevance   PO1, PO2, PO6
+         in Ayurveda and contemporary sciences.
+
+ CO 3    Analyse and interpret Padartha (Prameya) in Darshana and Ayurveda. PO1, PO2, PO9
+         Recognize their applications in Ayurveda.
+          Distinguish, analyse and apply concept of Pramana shastra
+ CO 4    (Epistemology) in Darshana and Ayurveda. Demonstrate their         PO1, PO2, PO9
+         applications in Ayurveda.
+
+ CO 5    Analyse and apply concept of Karya Karana Bhava in Ayurveda.           PO1, PO2, PO9
+
+
+
+
+         5   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Table 2 : Contents of Course AyUG-PV
+
+ Sr A2                                                           B2     C2      D2      E2
+ No List of Topics AyUG-PV                                       Term   Marks   Lecture Non-
+                                                                                hours   Lecture
+      Paper I                                                                           hours
+ 1     Ayurveda Nirupana
+      1.1 Lakshana of Ayu, composition of Ayu.
+      1.2 Lakshana of Ayurveda. Swaroopa and Prayojana of          I
+      Ayurveda                                                                    5         6
+      1.3 Lakshana and classification of Siddhanta.
+      1.4 Introduction to Basic Principles of Ayurveda and
+      their significance.
+ 2     Padartha and Darshana Nirupana
+      2.1 Padartha Lakshana, Enumeration and classification
+      of Padartha, Bhava and Abhava Padartha, Padartha
+      according to Acharya Charaka (Karana-Padartha).                     25
+      2.2 Etymological derivation of the word “Darshana”.
+      Classification and general introduction to 9 Schools of
+      Indian Philosophy with an emphasis on: Nyaya,
+      Vaisheshika, Sankhya ,Yoga, Meemamsa and Vedanta             I              10       14
+      darshana.
+      2.3 Ayurveda as unique and independent school of
+      thought (philosophical individuality of Ayurveda).
+      2.4 Principles and examples in contemporary sciences
+      which will enhance understanding concept of Padartha.
+      2.5 Relevance of Study of Darshana and Padartha
+      Vignana in Ayurveda
+ 3.    Dravya vijnaneeyam
+      3.1 Dravya: Lakshana, Classification and Enumeration
+      3.2 Panchabhuta: Various theories regarding the creation
+      (theories of Taittiriyopanishad, Nyaya-Vaisheshika,
+      Sankhya-Yoga, Sankaracharya, Charaka and Sushruta),
+      Lakshana and qualities of each Mahabhoota.
+      3.3 Kala: Etymological derivation, Lakshana , division /
+      units and significance.
+      3.4 Dik: Lakshana ,division and significance.
+      3.5 Atma: Lakshana, classification, seat, Gunas, Linga
+      according to Charaka, the method / process of knowledge
+      formation (atmanah jnasya pravrittih).
+      3.6 Purusha: According to Ayurveda - Ativahikapurusha/       II     48      14       20
+      Sukshmasharira/ Rashipurusha/ Chikitsapurusha/
+      Karmapurusha/ Shaddhatvatmakapurusha.
+      3.7 Manas: Lakshana, Synonyms, Qualities, Objects,
+      Functions, dual nature of mind (ubhayaatmakatvam), as a
+      substratum of diseases,Influence of Panchabhoutika
+      aahara and aushadha (penta-elemental diet)on manas.
+      3.8 Role of Panchamahabhuta and Triguna in
+      Dehaprakriti and Manasaprakriti respectively.
+      3.9 Tamas as the tenth Dravya.
+      3.10 Practical study/Application and Importance of each
+      Kaarana dravya in Ayurveda.
+      3.11 Principles and examples in contemporary sciences
+
+
+           6    Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+     which will enhance understanding concept of Kaarana
+     dravya.
+4.    Guna vijnaneeyam
+     4.1 Etymological Derivation, Classification and
+     Enumeration according to various Darshana and
+     Charaka,
+     4.2 Lakshana and Classification of Sartha Guna,
+     Gurvadiguna, Paradiguna, Adhyatmaguna (41 Guna)                      4   6
+     4.3 Gunapradhanyata (Importance of Guna)
+     4.4 Practical / clinical application of each Guna in      II
+     Ayurveda
+     4.5 Principles and examples in contemporary sciences
+     which will enhance understanding concept of Guna.
+5.   Karma vijnaneeyam
+     5.1 – Introduction of concept of Karma According to
+     Darshanaand Ayurveda
+     – Classification of Karma                                            2   4
+     5.3 - Practical application of karma                      II
+     5.4 - Principles and examples in contemporary sciences
+     which will enhance understanding concept
+6.   Samanya vijnaneeyam
+     6.1 – Introduction of concept of Saamaanya According to
+     Darshana and Ayurveda.
+     – Classification of Saamaanya                             III        3   6
+     6.3 - Practical application of saamaanya
+     6.4 - Principle and examples in contemporary sciences
+     which will enhance understanding theconcept of
+     Saamanya.
+7.   Vishesha vijnaneeyam
+     7.1 – Introduction of concept of Vishesha according to
+     Darshana and Ayurveda
+     7.2 - Classification of Vishesha                          III        3   6
+     7.3 - Practical Application of vishesha
+     7.4- Principles and examples in contemporary sciences
+     which will enhance understanding the concept of
+     Vishesha                                                        27
+8.   Samavaya vijnaneeyam
+     8.1 – Introduction of concept of Samavaaya According
+     toDarshana and Ayurveda.
+     8.2 – Practical application of Samavaaya                  III        2   4
+     8.3- Principles and examples in contemporary sciences
+     which will enhanceunderstanding theconcept of
+     Samavaya
+9    Abhava vijnaneeyam
+     9.1 – Introduction of concept of Abhaava According to
+     Darshana and Ayurveda.
+     9.2 – Classification of Abhaava.                          III        2   4
+     9.3 – Practical application of Abhaava
+     9.4- Principles and examples in contemporary sciences
+     which will enhance understanding the concept of
+     Abhava.
+
+
+
+
+          7   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Paper II
+    A2 List of Topics – AyUG-PV                             B2     C2      D2        E2
+                                                            Term   Marks   Lecture   Non-Lecture
+                                                                           hours     hours
+1    Pariksha
+     1.1. Definition, Significance, Necessity and Use of
+          Pariksha.
+     1.2. Definition of Prama, Aprama, Prameya,
+          Pramata, Pramana.
+     1.3. Significance and importance of Pramana,
+          Enumeration of Pramana according to
+          different schools of Philosophy.
+     1.4. Four types of methods for examination in            I               6           12
+          Ayurveda         (Chaturvidha-Parikshavidhi),
+          Pramana in Ayurveda.
+     1.5. Subsudation of different Pramanas under three
+          Pariksha.
+     1.6. Practical application of methods of
+                                                                    26
+          examination (Parikshavidhi) in Nidan and
+          Chikitsa.
+
+2    2. Aptopdesha Pariksha/Pramana
+     2.1. Lakshana of Aptopadesha, Lakshana ofApta.
+     2.2. Lakshana of Shabda, and its types.
+     2.3. Shabdavritti-Abhidha, Lakshana, Vyanjana
+          and Tatparyakhya.Shaktigrahahetu.
+     2.4. Vaakya:                        Characteristics,     I               6           10
+          Vaakyarthajnanahetu- Aakanksha, Yogyata,
+          Sannidhi.
+     2.5. Importance of Aptopadesha in maintaining
+          Health, Prevention of Diseases, Diagnostics,
+          Therapeutics and Research.
+3.   3. Pratyaksha Pariksha/Pramana
+     3.1. Lakshana of Pratyaksha, types of Pratyaksha-
+          Nirvikalpaka- Savikalpaka with description,
+          description of Laukika and Alaukika types and
+          their further classification.
+     3.2. Indriya-prapyakaritvam,        six        types
+          ofSannikarsha.
+     3.3. Indriyanam lakshanam, classification and
+          enumeration of Indriya. Description of              II    42        8           14
+          Panchapanchaka, Penta-elemental nature of
+          Indriya (Panchabhautikatwa of Indriya) and
+          similarity in sources (Tulyayonitva) ofIndriya.
+     3.4. Trayodasha            Karana,       dominance
+          ofAntahkarana.
+     3.5. Hindrances in direct perception (pratyaksha-
+          anupalabdhikaarana), enhancement of direct
+          perception       (Pratyaksha)   by      various
+
+
+          8   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+          instruments/ equipments, necessity of other
+          Pramanas in addition to Pratyaksha.
+     3.6. Practical study/ application of Pratyaksha in
+          Sharir, Nidan (Diagosis), Chikitsa(Treatment)
+          and Anusandhan (Research).
+4.    4. Anumanapariksha/Pramana
+     4.1. Lakshana of Anumana. Introduction of
+          Anumiti, Paramarsha, Vyapti, Hetu, Sadhya,
+          Paksha, Drishtanta. Types of Anumana
+          mentioned by Charaka and Nyayadarshana.
+     4.2. Characteristics and types of Vyapti.
+     4.3. Lakshana and types of Hetu, Description of         II         10   15
+          Ahetu and Hetwabhasa.
+     4.4. Characteristics and significance of Tarka
+          (logic).
+     4.5. Practical      study/      application     of
+          Anumanapramana in Sharir, Nidan, Chikitsa
+          and Anusandhan.
+5.    5. Yuktipariksha/Pramana
+     5.1. Lakshana and description.
+     5.2. Importance in Ayurveda.                            III        2    2
+     5.3. Practical study and utility in diagnostics,
+          therapeutics and research.
+
+6.    6. UpamanaPramana
+     6.1. Lakshana.                                          III        2    4
+     6.2. Application in Sharir, diagnostics, therapeutics
+          and research.
+7.    Karya- Karana Siddhanta
+      7.1. Lakshana of Karya and Kaarana. Types of
+      Kaarana.                                                     32
+      7.2. Significance of Karya and Kaarana in
+      Ayurveda.
+      7.3.    Different    opinions     regarding      the
+      manifestation of Karya from Kaarana:
+      Satkaryavada,      Parinamavada,      Vivartavada,     III        11   13
+      Asatkaryavada, Arambhavada, Paramanuvada,
+      Kshanabhanguravada, Pilupaka, Pitharpaka,
+      Anekantavada,                      Swabhavavada,
+      Swabhavoparamavada. Importance/ Utility of
+      each of these in Ayurveda
+      7.4 Study of cause effect relationship, causality,
+      causation in Contemporary sciences.
+
+
+
+
+          9   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+  Table 3: Learning objectives (Theory) of Course AyUG-PV
+
+
+Paper I
+  A3                B3                    C3               D3            E3         F3             G3       H3             I3     J3
+ Course      Learning Objective        Domain/sub        Must to       Level    T-L method     Assessment Format           Te   Integ
+outcome                                                  know/         Does/                                ive            rm   ration
+              (At the end of the                       desirable to    Shows                              /summ
+             session, the students                     know/Nice        how/                               ative
+              should be able to)                        to know        Knows
+                                                                        how/
+                                                                       Know
+Topic 1- Ayurveda Nirupana Time (Lecture: - _5 hours Non lecture 6 hours)
+
+CO1        Describe the Nirukti       Cognitive/       Must Know      Knows    Lecture         Written and   F and S
+           (etymology) and            Recall                                   Group             Viva
+           Definition of Ayu                                                   discussion                              I
+
+
+CO1        Describe the               Cognitive/       Must Know      Knows    Lecture         Written and   F and S
+           components of Ayu          Recall                                   Group             Viva
+                                                                               Discussion                              I
+                                                                               Enquiry Based
+                                                                               learning
+CO1        Explain Synonyms of        Cognitive        Must Know      Knows    Lecture         Written and   F and S
+           Ayu with their meaning     Recall                                   Group             Viva                  I
+           and importance                                                      Discussion
+CO1        Distinguish between 4      Cognitive        Must Know      Knows    Lecture         Written and   F and S
+           types Ayu namely           Comprehensi                              Group           Viva, Quiz
+           Sukhayu, Dukhayu,          on                                       Discussion/                             I
+           Hitayu, Ahitayu                                                     Problem Based
+                                                                               Learning
+CO1        Realises that the          Affective        Must know      Knows    Group              viva         F
+           balance between hitayu                                              Discussion/                             I
+
+
+            10   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+       and Sukhayu will offer                                          Debate
+       better living
+CO1    Describe Lakshana of       Cognitive     Must Know      Knows   Lecture           Written and   Fand S
+       Ayurveda and Enlist        Recall                               Group               Viva                  I
+       Synonyms of Ayurveda                                            Discussion
+CO1    Explain different          Cognitive     Must Know      Knows   Lecture           Written and   F and S
+       Swarupa of Ayurveda        Comprehensi                          Group             Viva
+       and Discuss Ayurveda       on                                   Discussion/Prob   Open Book               I
+       Prayojana                                                       lem Based            Test
+                                                                       Learning
+CO1    Explain Trisutra of        Cognitive     Must Know      Knows   Lecture           Written and   F and S
+       Ayurveda and discuss       Comprehensi                          Group               Viva
+                                                                                                                 I
+       Nityatva (eternity) of     on                                   Discussion/
+       Ayurveda                                                        Debate
+CO1,   Define Siddhanta           Cognitive     Must Know      Knows   Lecture           Written and   F and S
+CO 2                              Recall                               Presentation        Viva                  I
+                                                                       Discussion
+CO1,   Distinguish the types of   Cognitive     Must Know      Knows   Lecture           Written and   F and S
+CO 2   Siddhanta                  Comprehensi                          Group               Viva,
+                                  on                                   Discussion/        Puzzle                 I
+                                                                       Enquiry Based
+                                                                       Learning
+CO1,   Elaborate the Basic        Cognitive     Must Know      Knows   Lecture/          Written and   F and S
+CO 2   Principles of Ayurveda     Comprehensi                          Group             Viva, quiz
+       like                       on                                   Discussion          PBA
+       Lokapurusha Samya                                               /Problem Based      CBA
+       Siddhanta                                                       Learning/
+       Panchamahabhoota                                                Flipped                                   I
+       Siddhanta                                                       Classroom
+       Tridosha Siddhanta
+       Samanya Vishesha
+       Siddhanta
+       Karya Karana Siddhant
+
+
+       11   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO1,       Justify the Application     Affective     Must know     Knows     Lecture           Written and   F and S
+CO 2       of Basic Principles in                                            Demonstration/      Viva
+                                                                                                                       I
+           Ayurveda                                                          Group
+                                                                             Discussion
+CO1,       Recite the concern verses   Cognitive     Desirable to Kmows      Audio clips,         Viva,      F and S
+CO 2       from Tarkasangraha and      Recall          know                  classroom          recitation             I
+           Charak Samhita                                                    recitation        competition
+Topic 2- Padartha and Darshana Nirupana Time (Lecture:- _10__ hours Non lecture __14_hours)
+CO1,       Classify padartha,          Cognitive     Must Know     Knows     Lecture/          Written and   F&S
+CO 2       differentiate bhava,        Recall                                Discussions         Viva,
+           abhava padartha and                                               PBL                puzzle                 I
+           Appreciate Shat karana
+           of Acharya Charaka.
+CO1,       Discuss similarity and      Cognitive     Desirable to Knows      Lecture/          Written and   F&S
+CO 2       dissimilarity of            Comprehensi     Know                  Discussions/        Viva
+                                                                                                                       I
+           padartha                    on                                    Activity based
+                                                                             learning
+CO2        Explain nirukti and         Cognitive     Must Know     Knows     Lecture           Written and   F&S
+           vyakhya (definition) of     Recall                                                    Viva                  I
+           darshana
+CO2        Describe Origin of          Cognitive     Must know     Knows     Lecture / Group   Written and   F&S
+           darshana and Explain        Comprehensi                 how       Discussion        Viva, Quiz
+                                                                                                                       I
+           Importance of darshana      on
+           (prayojana)
+CO1,       Analyse terms viz -         Cognitive       Nice to     Knows     Lecture / Group   Written and   F&S
+CO 2       philosophy,                 Comprehensi     know                  Discussion/         Viva
+           metaphysics, aesthetics,    on                                    Activity Based
+                                                                                                                       I
+           epistemology,                                                     learning
+           psychology in relation
+           with darshana
+CO2        Classify darshana and       Cognitive     Must Know     Knows     Lecture /         Written and   F&S
+           differentiate between       Recall                                Enquiry Based       Viva
+                                                                                                                       I
+           asthika, nasthika,                                                Learning
+           asthikanasthika
+
+           12   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+       darshana
+
+CO1,   Enumerate darshana         Cognitive     Must Know      Knows   Lecture/ Role      Written and   F&S
+CO 2   relevant for Ayurveda      Recall                               play/Group           Viva,
+       study and mention the                                           Discussion          Puzzle             I
+       pioneers of each
+       darshana
+CO1,   Outline the reason for     Cognitive     Must Know      Knows   Lecture/           Written and   F&S
+CO 2   study of darshana in       Comprehensi                  how     Problem Based      Viva, Open
+       Ayurveda and               on                                   Learning/ Group    Book Test
+                                                                                                              I
+       Comprehend                                                      discussion/Tutor
+       Philosophical                                                   ial
+       foundation of Ayurveda
+CO2    Explain meaning of         Cognitive     Must Know      Knows   Lecture Group      Written and   F&S
+       nyaya and synonyms of      Recall                               discussion           Viva              I
+       nyayadarshana
+CO2    Enumerate nyayoktha        Cognitive     Desirable to Knows     Lecture            Written and   F&S
+       16 padarthas, 12           Recall          Know                 /Enquiry Based       Viva              I
+       prameyas                                                        Learning
+CO2    Recall the content of      Cognitive       Nice to      Knows   Lecture            Written and   F&S
+       nyaya sutra                Recall          know                                      Viva              I
+
+CO2    Outline salient features   Cognitive     Must Know      Knows   Lecture/ Group     Written and   F&S
+       of nyayadarshana viz-      comprehensi                          discussion /       Viva , Quiz
+       chaturvida pramana,        on                                   Activity Based                         I
+       pitharapaka,                                                    Learning
+       arambhavada.
+CO2    Explain meanings of        Cognitive     Must Know      Knows   Lecture/           Written and   F&S
+       vaisheshika and            Recall                                                    Viva              I
+       synonyms
+CO2    Recall the content of      Cognitive       Nice to      Knows   Lecture            Written and   F&S
+       vaisheshika sutra          Recall          Know                                      Viva              I
+
+
+
+
+       13   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO2    Identify salient features   Cognitive     Must Know     Knows   Lecture group      Written and   F&S
+       of vaisheshika darshana     comprehensi                         discussion/Activ   Viva, quiz,
+       viz-shatpadartha,           on                                  ity based            puzzle            I
+       paramanuvada,                                                   learning
+       peelupakavada
+CO2    Explain the meaning of      Cognitive     Must Know     Knows   Lecture            Written and
+       sankhya                     Recall                                                   Viva              I
+
+CO2    Enumerate, define and       Cognitive     Must Know     Knows   Lecture            Written and   F&S
+       categorise 25 tatvas        Recall                              discussion         Viva puzzle         I
+
+CO2    Recall the                  Cognitive     Must Know     Knows   Lecture/ Inquiry   Written and   F&S
+       trividhadukha, triguna,     Recall                              based learning       Viva              I
+       satkaryavada
+CO2    Define yoga and             Cognitive     Must Know     Knows   Lecture Group      Written and   F&S
+       explain ashtangayoga        comprehensi                         discussion/demo    Viva, quiz          I
+                                   on                                  nstration
+CO2    Recall content of yoga      Cognitive      Nice to      Knows   Lecture            Written and   F&S
+       sutra                       Recall         know                                      Viva              I
+
+CO2    Enumerate chittavrutti,     Cognitive     Must Know     Knows   Lecture Debate     Written and   F&S
+       panchaklesha,               Recall                              /Group             Viva, quiz          I
+       ashtasiddhi                                                     Discussion
+CO2    Recall different type of    Cognitive      Nice to      Knows   Lecture            Written and   F&S
+       yoga                        Recall         know                 Self-Directed      Viva, open
+                                                                                                              I
+                                                                       learning/Activit    book test
+                                                                       y based learning
+CO1,   Outline the salient         Cognitive     Must Know     Knows   Lecture            Written and   F&S
+CO 2   features of meemamsa        comprehensi                         Group              Viva, Quiz
+       darshana and Vedanta        on                                  Discussion/
+                                                                                                              I
+       darshana Viz. karma                                             Debate
+       siddhanta, atma, maya,
+       vivartavada,
+
+
+
+       14   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO1,   Explain similarity         Cognitive     Must Know      Knows   Lecture            Written and    F&S
+CO 2   between Nyaya,             comprehensi                  how     discussion           Viva
+       vaisheshika, Sankyha,      on                                   PBL/ Flip
+                                                                                                               I
+       yoga, meemamsa and                                              classroom
+       Vedanta darshana with
+       Ayurveda
+CO1,   Explain Charvaka,          Cognitive     Must Know      Knows   Lecture            Written and    F&S
+CO 2   Jaina and Bouddha          comprehensi                          Group                Viva
+                                                                                                               I
+       darshana and their         on                                   Discussion
+       influence in Ayurveda
+CO1,   Demonstrate Ayurveda       Cognitive     Must Know      Knows   Lecture/ Group     Written and    F&S
+CO 2   as unique and              Comprehensi                  how/    Discussions          Viva
+       independent school of      on                                   PBL
+                                                                                                               I
+       thought (philosophical     Affective
+       individuality of
+       Ayurveda).
+CO 1   Compare the the            Cognitive     Nice to        Knows   Lecture with       Puzzle, viva    F
+CO 2   Srishtiutpatti krama by    Comprehensi   Know                   Videos, Group
+       different darshanas with   on                                   discussion/ self
+       contemporary theories                                           learning
+       like- Big Bang, The                                                                                     I
+       multiverse, brane
+       world, the hylographic
+       universe, Simulation
+       theory etc
+CO 1   Respect ancient            Affective     Must know      Know    Discussion         Discussion      F
+       philosophy and                                                                      Debate              I
+       Ayurveda
+CO1,   Enumerate padartha         Cognitive     Desirable to Knows     Lecture            Written and    F&S
+CO 2   according to different     Recall          Know                 Group                Viva,              I
+       schools of thought                                              Discussion          Puzzle
+CO1,   Find principles and        Cognitive/      Nice to      knows   Lecture/                -          F
+CO 2   examples in                Comprehensi     know                 Discussions/                            I
+       contemporary sciences      on                                   Self-learning,
+
+
+       15   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+           which will enhance
+           understanding concept
+           of Padartha. For ex-
+           matter and energy.
+CO1,       Analyse role of            Cognitive /   Must Know      Knows         Lecture/          Written and   F&S
+CO 2       padartha in darshana       Comprehensi                  how           Seminars /PBL     Viva, Open
+           and in Ayurveda and        on                                                           Book Test
+                                                                                                                           I
+           Demonstrate the role of
+           Padarthavijnana in
+           Ayurveda
+CO2        Recite concern verses      Cognitive     Desirable to kmows           Edutainment          Viva,       F&S
+                                      Recall          know                       Audio clips,       recitation
+                                                                                                                           I
+                                                                                 classroom         competition
+                                                                                 recitation
+Topic-3 Dravya vijnaneeyam Time (Lecture:- __14_ hours Non lecture _20__hours)
+CO3        Explain Nirukti and        Cognitive     Must Know      Knows         Lecture           Written and   F and S
+           Paribhasha (definition)    Recall                                                         Viva                  II
+           of Dravya
+CO3        Classify Dravya and        Cognitive     Must Know      Knows         Lecture           Written and   F and S
+           Differentiate between      Recall                                     Group               Viva,
+           Karana and Karya                                                      Discussion/        Puzzle                 II
+           dravya                                                                Enquiry Based
+                                                                                 Learning
+CO3        Enumerate Darvya as        Cognitive     Must Know      Knows         Lecture           Written and   F and S
+           per different schools of   Recall                                     Group               Viva,                 II
+           thoughts                                                              Discussion         puzzle
+CO3,       Value Practical            Affective     Desirable to Knows           Lecture           Written and   F and S
+CO1        application of study of                    know       how              Group              Viva                  II
+           Dravya in Ayurveda                                                    Discussion
+CO3        Explain the various        Cognitive/    Must Know      Knows         Lecture           Written and   F and S
+           theories (theories of      Comprehensi                                 Group            Viva, Quiz
+                                                                                                                           II
+           Taittiriyopanishad,        on                                         Discussion
+           Nyaya-Vaisheshika,                                                    /Activity Based
+
+
+           16   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+       Sankhya-Yoga,                                                   Learning
+       Sankaracharya, Charaka
+       and Sushruta) regarding
+       creation of
+       Panchamahabhoota
+CO3    Describe Prithvi        Cognitive /     Must Know       Knows   Lecture          Written and   F and S
+       Mahabhoota              Comprehensi                             Seminar/ Group     Viva
+       Explain qualities of    on                                      Discussion                               II
+       Prithvi Mahabhoota
+
+CO3    Describe Aap              Cognitive,    Must Know       Knows   Lecture          Written and   F and S
+       Mahabhoota                Comprehensi                           Seminar/ Group     Viva
+       Explain qualities of Ap   on                                    Discussion                               II
+       Mahabhoota
+
+CO3    DescribeTeja              Cognitive,    Must Know       Knows   Lecture          Written and   F and S
+       Mahabhoota                Comprehensi                           Seminar/ Group     Viva
+       Explain qualities of      on                                    Discussion                               II
+       Teja Mahabhoota
+
+CO3    Describe Vayu             Cognitive,    Must Know       Knows   Lecture          Written and   F and S
+       Mahabhoota                comprehensi                           Seminar/ Group     Viva
+       Explain qualities of      on                                    Discussion                               II
+       Vayu Mahabhoota
+
+CO3    Describe Aakash           Cognitive,    Must Know       Knows   Lecture          Written and   F and S
+       Mahabhoota.               Comprehensi                           Seminar/ Group     Viva
+       Explain qualities of      on                                    Discussion                               II
+       Aakash Mahabhoota
+
+CO3,   Value Practical           Affective     Must know       Knows   Lecture          Written and   F and S
+CO1    application of                                                  Group            Viva, Open
+                                                                                                                II
+       Panchamahabhoota in                                             Discussion,      Book Test
+       Ayurveda                                                        Demonstration
+
+
+       17   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO2    Compare elementary           Cognitive/       NK        Know    Video clips,         Quiz        F
+       particles/subatomic          Recall                             discussions
+                                                                                                             II
+       particles with                                                  SDL
+       Tanmatra/triguna.
+CO3,   Define the term Kala         Cognitive/    Must know    Knows   Lecture           Written and   F&S
+CO1    from various darshanas       Recall                                                 Viva              II
+       and Ayurveda.
+CO3    Explain                      Cognitive/    Must know    Knows   Lecture           Written and   F&S
+       classification/types of      Recall                                                 Viva              II
+       Kala
+CO3,   Find illustrations of        Cognitive/    Must know    Knows   Lecture           Written and   F&S
+CO1    kala explained in            Comprehensi                        /Activity Based     Viva              II
+       Ashtang Hridaya.             on                                 Learning
+CO3,   Give examples of             Cognitive/    Must know    Knows   Problem Based     Written and   F&S
+CO2    importance of Kala in        Recall                     how     Learning/         Viva, Quiz
+       Ayurveda and time as per                                                                              II
+CO1                                                                    Group
+       contemporary sciences                                           Discussion
+CO3    Define the term Dik.         Cognitive/    Must know    Knows   Lecture           Written and   F&S
+       Explain classification/      Recall                             /Activity Based     Viva,             II
+       division of Dik.                                                Learning           puzzle
+CO3,   Illustrate significance of   Cognitive/    Must know    Knows   Lecture           Written and   F&S
+CO1    Dishas in Ayurveda with      Comprehensi                how     /Seminar            Viva              II
+       examples.                    on
+CO3    Find illustrations of Dik     Cognitive/   Must know    Knows   Group             Written and   F&S
+       explained in                 Comprehensi                how     Discussion        Viva, Open          II
+       Ashtangahridaya.             on                                                    book test
+CO3    Define the term Atma,        Cognitive/    Must know    Knows   Lecture           Written and   F&S
+                                    Recall                                                  Viva             II
+
+
+CO3    Explain atma at              Cognitive/    Must know    Knows   Lecture           Written and   F&S
+       different levels, seat,      Recall                                                 Viva              II
+       Gunas of Atma,
+
+
+
+       18   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO1    Explain Atma Linga        Cognitive/     Must know     Knows   Lecture /         Written and   F&S
+CO3   according to Charaka       comprehensi                          Flipped             Viva              II
+      Samhita.                   on                                   Classroom
+CO3   Describe the method /      Cognitive/     Must know     Knows   Lecture/          Written and   F&S
+      process of knowledge       Comprehensi                  how     Demonstration/      Viva              II
+      formation (atmanah         on
+      jnasya pravrittih).
+CO3   Describe Purusha as        Cognitive/     Must know     Knows   Lecture           Written and   F&S
+      mentioned in Ayurveda      Recall                                                   Viva              II
+
+CO3   Differentiate              Cognitive/     Must know     Knows   Lecture / Group   Written and   F&S
+      Ativahikapurusha/          Comprehensi                  how     discussions         Viva
+      Sukshmasharira/            on
+      Rashipurusha/                                                                                         II
+      Chikitsapurusha/
+      Karmapurusha/ Shad-
+      dhatvatmaka-purusha.
+
+CO3   Recognize and state        Affective      Desirable to Knows    Group                viva        F
+      significance of                             know                Discussions/
+                                                                                                            II
+      Atmavijnanam                                                    Problem Based
+                                                                      Learning
+CO3   Define term Manas,         Cognitive/Re   Must know     Knows   Lecture /         Written and   F&S
+      Enlist synonyms,           call and                             Activity Based      Viva.
+                                 Comprehensi                          Learning/Debate    Puzzle
+      Explain it’s Guna.         on                                                                         II
+      Karma, Vishay.
+      Explain dual nature of
+      mind.
+      (ubhayaatmakatvam),
+CO3   Explain influence of       Cognitive/     Must know     Knows   Lecture/          Written and   F&S
+      Panchabhoutika aahara      Recall                       how     discussions/      Viva. Open          II
+      and aushadha (penta-                                            PBL               Book Test
+      elemental diet) on manas
+
+
+
+
+      19   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO3        Recognizes the utility of   Affective      Must Know     Knows   Case Based            viva       F &S
+           Knowledge of Mana                                                learning                                II
+
+CO3,       Explain Concept of mind     Cognitive/      Nice to      Knows   Discussions/       Written and     F
+CO1        in other sciences.          Recall           know                Videos               Viva               II
+
+CO1        Explain Role of             Cognitive/     Must know     Knows   Lecture /          Written and   F&S
+           Panchamahabhuta and         Comprehensi                  how     discussions/ C B     Viva
+           Triguna in Dehaprakriti     on                                   L                                       II
+           and Manasaprakriti
+           respectively.
+CO3        Discuss the role of Tamas   Cognitive/Co   Desirable to Know     Lecture            Written and   F&S
+           as the tenth Dravya         mprehension      know                Edutainment          Viva               II
+                                                                            Role Play
+CO3        Realize Practical           Affective      Desirable to Know     Group              Written and   F&S
+           application of study of                      know                Discussions/       Viva, quiz
+           dravya in Ayurveda                                               Case Base                               II
+                                                                            Learning/
+                                                                            Demonstration.
+CO3        Recite Dravya Granth of     Cognitive      Desirable to kmows    Audio clips/         Viva,        F&S
+           Tarka Sangrah& defn         Recall           know                classroom          Recitation
+           from Charak                                                      recitation         Competetio
+                                                                                                   n
+CO3.       Discuss principles and   Cognitive/Co        Nice to     Know    Lecture/           Open book       F
+CO2        examples in contemporary mprehension         know                Discussions/         testh
+           sciences which will                                              Self-learning
+           enhance understanding                                            activity                                II
+           the concept of Karana
+           dravya. For ex- Quantum
+           Physics
+Topic -4 Guna vijnaneeyam Time (Lecture:-4 hours Non lecture 6 hours)
+CO3        Define Guna and         Cognitive          Must know     knows   Lecture            Written and   F&S
+           classify Guna according Recall                           how     /Demonstration       Viva
+                                                                                                                    II
+           to various Darshanas
+           and Charaka Samhita
+
+
+
+            20   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO3   Explain the Lakshana       Cognitive     Must know      Knows   Lecture / Group   Written and   F&S
+      of indriyartha Gunas       Comprehensi                  how     Discussion          Viva              II
+      with examples.             on
+CO3   Discuss the Lakshana       Cognitive     Must know      Knows   Lecture           Written and   F&S
+      of Gurvadi Guna with       Comprehensi                  how     /Seminar/ Group     Viva,             II
+      examples.                  on                                   Discussion         puzzle
+
+CO3   Explain the Lakshana       Cognitive     Must know      Knows   Lecture           Written and   F&S
+      of Paradi Guna with        Comprehensi                  how     /Seminar/ Group     Viva,
+      examples.                  on                                   Discussion         Puzzle             II
+
+
+CO3   Describe the Lakshana Cognitive          Must know      Knows   Lecture         Written         F&S
+      of Adhyatma Guna with Comprehensi                       how     /Seminar/ Group And Viva
+      examples.             on                                        Discussion                            II
+
+
+CO3   Appreciate the             Affective     Must know      Knows   Discussion        Written       F&S
+      importance of Guna                                                                Discussion          II
+      (Gunapradhanyata)                                                                 viva
+CO3   Describe the practical     Cognitive     Must know      Knows   Lecture /         Written       F&S
+      application of             Comprehensi                  how     Demonstration/    And Viva
+      Indriyartha Gunas in       on                                   Case based                            II
+      diagnosis of disease and                                        learning
+      Treatment
+CO3   Describe the practical     Cognitive     Must know      Knows   Lecture /         Written       F&S
+      application of Gurvadi     Comprehensi                  how     Demonstration/    And Viva
+      Guna in diagnosis of       on                                   Case based                            II
+      disease and Treatment                                           learning
+
+CO3   Describe the practical     Cognitive     Must know      Knows   Lecture /         Written       F&S
+      application of Paraadi     Comprehensi                  how     Demonstration/    And Viva
+                                                                                                            II
+      Gunas.                     on                                   Activity based
+                                                                      learning
+
+
+      21   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO3        Describe the practical   Cognitive       Must know      knows     Lecture /         Written     F&S
+           application of           Comprehensi                    how       Demonstration/    And Viva
+                                                                                                                    II
+           Adhyatma Guna .          on                                       Problem Based
+                                                                             Learning
+CO3        Recite the concern       Cognitive       Desirable to kmows       Audio clip/       viva        F&S
+           verses from              Recall            know                   classroom                     Recitati
+           TarkaSangrah and                                                  recitation                    on       II
+           Charak Samhita                                                                                  competi
+                                                                                                           tion
+CO1         Discuss Principles and  Cognitive        Nice to      Knows       Lecture/                -        F
+CO2         examples in             Comprehensi       know                    Discussions/
+            contemporary sciences   on                                        Self-learning
+                                                                                                                    II
+            which will enhance                                                activity
+            understanding the
+            concept of Guna.
+Topic - 5. Karma vijnaneeyam Time (Lecture:- __2_ hours Non lecture _4__hours)
+CO3          Define Karma acco. to Cognitive       Must know Knows            Lecture          Written      F&S
+            various Darshana and    Recall                                                      And Viva            II
+            Ayurveda.
+CO3         Compare the Karma       Cognitive      Must know Knows            Lecture/ Group   Written      F&S
+            Lakshana                Comprehensi                               discussion/       And Viva
+            (characteristics) from  on                                        Flipped                               II
+            Charaka Samhita and                                               Classroom
+            Darshana
+CO3         Explain the types of    Cognitive      Must know Knows            Lecture and      Written      F&S
+            Karma                   Comprehensi                               discussion,      And Viva             II
+                                    on                                        demonstration
+CO3         Describe the process of Cognitive      Desirable to Knows         Lecture and      Written      F&S
+            production and          Comprehensi       know        how         demonstration     And Viva
+                                                                                                                    II
+            destruction of Laukika  on
+            Karma with one
+
+
+           22   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+           example.
+
+CO3        Describe the                Cognitive     Must know      Knows   Lecture and        Written      F&S
+           Adhyaatmika karma and       Comprehensi                  how     discussion          And Viva
+                                                                                                                    II
+           its causal relationship     on
+           with health and disease.
+CO3        Enlist the other types of   Cognitive     Must know      Knows   Lecture and        Written        S
+           processes or                Recall                       how     discussion/ Self    And Viva
+           pharmacological                                                  Directed
+           actions which came                                               Learning
+           under the title of Karma                                                                                 II
+           in Ayurveda. Viz:
+           Panchakarma,
+           Shastrakarma,
+           Lekhana, Bruhana etc.
+CO3        Recite the concern          Cognitive     Desirable to kmows     Audio clip/        viva        F&S
+           verses from                 Recall          know                 classroom                      Recitati
+           TarkaSangrah and                                                 recitation/                       on    II
+           Charak Samhita                                                   Edutainment                    competi
+                                                                                                             tion
+CO1          Discuss principles and    Cognitive       Nice to      Knows   Lecture/                  -        F
+CO2          examples in               Recall          know                 Discussions/
+             contemporary sciences                                          Self-learning
+                                                                                                                    II
+             which will enhance
+             understanding the
+             concept of Karma.
+Topic - 6 . Samanya vijnaneeyam
+ Time (Lecture:- _3__ hours Non lecture _6__hours)
+           Explain the                 Cognitive     Must know      Knows   Lecture            Written      F&S
+CO3        Samanya(According to        Comprehensi                                              And Viva            III
+           Ayurveda &Darshana)         on
+           Distinguish the             Cognitive     Must know      Knows   Lecture and        Written      F&S
+CO3        Samanya concept of          Comprehensi                          discussion          And Viva            III
+           Ayurveda from               on
+
+            23   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+           Darshana.
+
+           Describe the Anuvrutti     Cognitive      Desirable to knows     Lecture and         Written     F&S
+CO3        Buddhi                     Recall           know                 discussion                                III
+
+           Explain the types of       Cognitive      Must know Knows        Lecture and       Written       F&S
+           Samanya (Acc. To           Recall                                discussion/       And Viva
+CO3                                                                                                                   III
+           Ayurveda and                                                     Flipped
+           Darshana)                                                        Classroom
+           Explain the importance     Cognitive      Must know      Knows   Lecture and       Written         S
+CO3
+           of samanya in diagnosis    Comprehensi                           discussion/Case   And Viva                III
+           and treatment              on                                    Based Learning    ,Quiz
+
+           Identify the examples      Cognitive      Must know      Knows   Lecture and       Written         S
+           of Dravya-guna-karma       Comprehensi                   how     Demonstration/    And Viva ,
+CO3        Samanya with each          on                                    Group             Open Book               III
+           DOSHA-DHATU-                                                     Discussion        Test
+           MALA
+CO3        Recite the concern         Cognitive      Desirable to kmows     Audio clip/       viva         F&S
+           verses from                Recall           know                 classroom                      Recitati
+           TarkaSangrah and                                                 recitation                     on
+           Charak Samhita                                                                                  competi
+                                                                                                           tion
+             Discuss principle and    Cognitive        Nice to      knows   Self -Directed           -         F
+             examples in              Comprehensi      know                 learning
+             contemporary sciences    on
+CO1          which will enhance                                                                                       III
+             understanding the
+             concept of Samanya.
+             For ex-system biology
+Topic - 7 . Vishesh vijnaneeyam
+ Time (Lecture:- __3_ hours Non lecture __6_hours)
+           Explain Vishesha           Cognitive      Must know      Knows   Lecture and       Written       F&S
+CO3        According to Ayurveda      Comprehensi                           Group              And Viva               III
+           &Darshana                  on                                    Discussion
+
+            24   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+       Distinguish Vishesha       Cognitive     Must know      Knows   Lecture and      Written and   F&S
+CO3    concept of Ayurveda        Comprehensi                          Group              Viva              III
+       from Darshana.             on                                   Discussion
+       Describe the Vyavrutti     Cognitive     Desirable to   knows   Lecture and        Written     F&S
+CO3    Buddhi                                     know                 discussion                           III
+                                  Recall
+       Explain Vishesha in the    Cognitive     Nice to know   knows   Lecture            Written     F&S
+CO3    context of Mahabhoota      Recall                                                                    III
+       Paramanu
+       Discuss the Viruddha       Cognitive     Must know      Knows   Lecture and       Written      F&S
+       Vishesha and               Comprehensi                  how     discussion,      And Viva
+CO3    Aviruddha Vishesh          on                                   demonstration                        III
+       aand other types of
+       Vishesha
+       Explain the statement      Cognitive     Must know      Knows   Lecture,          Written      F&S
+CO3    “Pravruttirubhayasyatu     Comprehensi                  how     Problem Based      Viva              III
+       ”                          on                                   Learning
+       Provide different          Cognitive     Must know      Knows   Lecture/          Written,     F&S
+       classifications of         recall                       how     Activity Based   Viva, Open
+CO3    vishesha and their                                              Learning         Book Test           III
+       utility in Diagnosis and
+       Treatment.
+       Identify the examples      Cognitive     Must know      Knows   Lecture and       Written       S
+       of Dravya-guna-karma       Comprehensi                  how     demonstration/   And Viva
+CO3    Vishesha with each         on                                   Game Based          Quiz             III
+       DOSHA-DHATU-                                                    Learning
+       MALA
+       Describe principles and    Cognitive       Nice to      knows   Lecture/            viva-       F
+       examples in                Comprehensi     know                 Discussions/
+       contemporary sciences      on                                   Self-learning
+CO1,
+       which will enhance                                              activity                             III
+CO2
+       understanding the
+       concept of Vishesha
+       For ex- System Biology
+
+
+
+       25   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO3        Recite the concern          Cognitive      Desirable to kmows    Audio clip/        viva       F&S
+           verses from                 Recall           know                classroom                     Recitati
+           TarkaSangrah and                                                 recitation                       on    III
+           Charak Samhita                                                                                 competi
+                                                                                                            tion
+Topic - 8. Samavay vijnaneeyam
+ Time (Lecture:- __2_ hours Non lecture _4__hours)
+           Explain Samavaya            Cognitive      Must know     Knows   Lecture         Written        F&S
+CO3        (Acc. To Ayurveda and       Recall                                                And Viva              III
+           Darshana)
+           Describe the eternal        Cognitive      Must know     Knows   Lecture and     Written        F&S
+CO3        relation between            Comprehensi                  how     demonstration    And Viva              III
+           ayutasiddhavritti           on
+           Discuss principles and   Cognitive           Nice to     knows   Lecture/             -           F
+           examples in contemporary Recall              know                Discussions/
+CO1
+           sciences which will                                              Self-learning                          III
+CO2
+           enhance understanding                                            activity
+           the concept of Samavaya
+CO3        Recite the concern       Cognitive         Desirable to kmows    Audio clip/        Viva,      F&S
+           verses from              Recall              know                classroom        Recitation
+            TarkaSangrah and                                                recitation      competition
+            Charak Samhita
+Topic - 9. Abhav vijnaneeyam
+ Time (Lecture:- __2_ hours Non lecture __4_hours)
+           Define Abhava               Cognitive      Must know     Knows   Lecture and     Written        F&S
+CO3                                    Recall                               discussion       And Viva              III
+
+           Discuss the supportive      Cognitive      Must know     Knows   Lecture         Written        F&S
+           and contradictory views     comprehensio                 How     Group
+CO3        for the acceptance of       n                                    Discussion/      And Viva              III
+           Abhava as a Padartha                                             debate
+
+           Explain the view of         Cognitive      Must know     Knows   Lecture         Written        F&S
+CO3        Ayurveda about Abhava                                            demonstration    And Viva              III
+                                       Recall
+
+
+            26   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+           Explain the four types       Cognitive      Must know       Knows   Lecture            Written       F&S
+CO3        of Abhava                    Recall                                 ,Activity Based    And Viva ,              III
+                                                                               Learning             Puzzle
+           Demonstrate the utility of   Cognitive      Must know       Knows   Lecture, Group     Written       F&S
+           the knowledge of Abhava      Comprehensi                    how     discussions
+CO3                                                                                                                       III
+           in Ayurveda                  on                                     Problem Based       And Viva
+                                                                               Learning
+           Discuss principles and   Cognitive            Nice to       knows   Lecture/                  -        F
+           examples in contemporary Recall               know                  Discussions/
+CO1
+           sciences which will                                                 Self-learning                              III
+CO2
+           enhance understanding                                               activity
+           the conceptof Abhava
+CO3        Recite the concern       Cognitive          Desirable to kmows      Audio clip/        viva         F&S
+           verses from                  Recall           know                  classroom                       Recitati
+           TarkaSangrah and                                                    recitation                      on
+           Charak Samhita                                                                                      compet
+                                                                                                               etion
+Paper II
+
+   Topic 1- (Pariksha) Time (Lecture:- 6 hours Non lecture 12 hours)
+
+CO4        Describe Pariksha            Cognitive/     Must know       Knows   Lecture/Group      Written        F&S      I
+                                        Recall                                 Discussion          And Viva
+           Explain the necessity &      Cognitive      Must know       Knows   Lecture/Problem    Written        F&S      I
+CO4
+           significance of pariksha     Comprehensi                    how     Based               And Viva
+                                        on                                     Learning/Debate
+CO4        Describe Buddhi and its      Cognitive /    Must know       Knows   Lecture/Activity   Written        F&S      I
+           classification               Recall                                 based learning       And Viva
+           Describe Prama,              Cognitive /    Must know       Knows   Lecture/           Written        F&S      I
+CO4        Prameya, Pramata,            Recall                                 Activity based     And Viva,
+           Pramana and                                                         learning           open book
+           differentiate Prama and                                                                test
+           Aprama
+
+
+
+
+           27   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+      Describe the               Cognitive /   Must know      Knows   Problem based       Written       F&S   I
+CO4   Significance of            comprehensi                  how     learning            And Viva
+      Pramana                    on
+
+      Enumerate Pramana          Cognitive /   Must know      Knows   Lecture             Written       F&S   I
+CO4
+      according to different     Recall                                                   And Viva,
+      schools of philosophy.                                                              puzzle
+      Enumerate Pariksha as      Cognitive /   Must know      Knows   Lecture/            Written       F&S   I
+CO4
+      per Ayurveda.              Recall                               Enquiry based       And Viva
+                                                                      learning
+      Describe the Pramana       Cognitive /   Must know      Knows   Lecture/ group      Written       F&S   I
+      accepted by different      Recall                               discussion          And Viva,
+CO4
+      schools of Philosophy                                                               quiz
+      with one example each.
+
+      Describe 4 Pariksha        Cognitive /   Must know      Knows   Lecture/ activity   Written       F&S   I
+CO4
+      explained by Ayurveda      Recall                               based learning      And Viva,
+      with one example each                                                               puzzle
+      Justify the inclusion of   Cognitive /   Must know      Knows   Problem based       Written       F&S   I
+CO4   Pramanas under three       Comprehensi                  how     learning and        And Viva
+      Pariksha                   on                                   flipped
+                                                                      classroom
+      Describe the practical     Cognitive /   Must know      Knows   Case based          Written,      F&S   I
+CO4
+      application of Pariksha    Recall                               learning/ Group     open book
+      Vidhi in Diagnosis and                                          discussion          test
+      Treatment.                                                                          And Viva
+      Establish that the         Affective     Must know      knows   Group               Viva          F&S   I
+CO4   Pramanas are tool to                                            discussion
+      gain the knowledge
+      Recite the concern         Cognitive     Desirable to kmows     Audio clips,        Viva,         F&S   I
+      Verses from                Recall          know                 classroom           Recitation
+CO4
+      Tarkasangrah &                                                  Recitation          competetion
+      CharakSamhita
+
+
+
+      28   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+7. Topic 2- (Aptopdesha Pariksha/Pramana) Time (Lecture:- __6_ hours Non lecture _10__hours)I
+CO 4       Describe Apta and      Cognitive /  Must know Knows             Lecture            Written      F&S
+                                                                                                                 I
+           Aptopadesh             Recall                                                       And Viva
+           Describe the           Cognitive /  Must know Knows             Case based         Written      F&S
+CO 4       significance of        Recall                                   learning/ Group     And Viva
+                                                                                                                 I
+           Aptopadesha in                                                  discussion
+           Chikitsa
+CO 4       Define the             Cognitive /  Must know Knows             Lecture            Written      F&S
+           term Shabda            Recall                                                       And Viva          I
+
+           Describe types of      Cognitive /  Must know Knows             Lecture/           Written      F&S
+CO 4
+           Shabda                 Recall                                   Activity based      And Viva          I
+                                                                           learning
+           Define the term Shaba  Cognitive /  Must know Knows             Lecture/ group     Written      F&S
+CO 4
+           artha bodhaka          Recall                                   discussion          And Viva          I
+           Vrutti
+           Enumerate Shabaartha   Cognitive /  Must know Knows             Lecture/           Written      F&S
+CO 4
+           bodhaka                Recall                                   Activity based      And Viva,         I
+           vrutti                                                          learning               quiz
+           Define Abhidha         Cognitive /  Must know Knows             Lecture/           Written      F&S
+CO 4
+           Vrutti with            Recall                                   Activity based      And Viva          I
+           illustration                                                    learning
+           Define Lakshana        Cognitive /  Must know Knows             Lecture/           Written      F&S
+CO 4
+           Vrutti with examples   Recall                                   Activity based      And Viva          I
+                                                                           learning
+           Enumerate the types of Cognitive /  Must know Knows             Lecture/           Written      F&S
+CO 4       Lakshanavrutti and     Recall                                   Activity based      And Viva
+                                                                                                                 I
+           define each of them                                             learning
+           with example
+           Define Vyanjana vrutti Cognitive /  Must know Knows             Lecture/           Written      F&S
+CO 4
+           with                   Recall                                   Activity based      And Viva          I
+           example                                                         learning
+CO 4       Define Tatparyakhya    Cognitive /  Must know Knows             Lecture/           Written      F&S
+           vrutti with            Recall                                   Activity based      And Viva          I
+
+
+           29   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+       example                                                         learning
+
+       Define the term         Cognitive /     Must know       Knows    enquiry based    Written      F&S
+       Pada with               Recall                                  learning           And Viva
+CO 4
+       specification to                                                                                     I
+       Shakti and enumerate
+       the types of Pada
+       Enumerate               Cognitive /     Must know       Knows   Lecture/ group    Written      F&S
+CO 4   Shaktigraha hetu        Recall                                  discussion/        And Viva,
+                                                                                                            I
+                                                                       Problem based       puzzle
+                                                                       learning
+       Describe Shakti graha   Cognitive /     Must know       Knows   Lecture/          Written      F&S
+CO 4   hetu                    Recall                                  Tutorial/Proble    And Viva
+                                                                                                            I
+                                                                       m based
+                                                                       learning
+       Enumerate               Cognitive /     Must know       Knows   Lecture/ group    Written      F&S
+CO 4   Vaakyarthajnana hetu    Recall                                  discussion/        And Viva,
+                                                                                                            I
+                                                                       Problem based         quiz
+                                                                       learning
+       Define Akanksha with    Cognitive /     Must know       Knows   Lecture/          Written      F&S
+       example                 Recall                                  Activity based     And Viva
+CO 4
+                                                                       learning/                            I
+                                                                       Problem based
+                                                                       learning
+       Define Yogyata with     Cognitive /     Must know       Knows   Lecture/          Written      F&S
+       example                 Recall                                  Activity based     And Viva
+CO 4
+                                                                       learning/                            I
+                                                                       Problem based
+                                                                       learning
+       Define Sannidhi with    Cognitive /     Must know       Knows   Lecture/          Written      F&S
+       example                 Recall                                  Activity based     And Viva
+CO 4
+                                                                       learning/                            I
+                                                                       Problem based
+                                                                       learning
+
+       30   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+           Describe importance of    Cognitive/    Must know       knows    Lecture/           Written       F&S
+           Aptopadesha in            Comprehensi                            Activity based      And Viva,
+           maintaining Health,       on                                     learning/           open book
+CO 4                                                                                                               I
+           Prevention of diseases,                                          Problem based          test
+           diagnostics,                                                     learning
+           therapeutics and
+           research.
+           Recite the concern        Cognitive     Desirable to kmows       Audio clips,       Viva,         F&S   I
+           Verses from               Recall          know                   classroom          Recitation
+CO4
+           Tarkasangrah &                                                   Recitation         competetion
+           CharakSamhita
+
+
+
+Topic 3- Pratyaksha Pariksha/Pramana Time (Lecture:- __8_ hours Non lecture _14__hours)
+CO4        Define Pratyaksha         Cognitive /   Must know       Knows    Lecture/           Written       F&S
+                                     Recall                                 Tutorial/Activit    And Viva           II
+                                                                            y based learning
+CO4        Enumerate the types of    Cognitive /   Must know       Knows    Lecture/           Written       F&S
+           Pratyaksha                Recall                                 Activity based      And Viva           II
+                                                                            learning
+CO4        Describe types of         Cognitive /   Must know       Knows    Lecture/           Written       F&S
+           Pratyaksha                Recall                                 Activity based      And Viva,
+                                                                            learning/              quiz            II
+                                                                            Problem based
+                                                                            learning
+CO4        Describe                  Cognitive /   Must know       Knows    Lecture/ Flip      Written       F&S
+           Indriya                   comprehensi                            classroom/          And Viva,
+           Prapyakaritva             on                                     Problem based                          II
+           Mechanism of                                                     learning
+           sensory perception)
+CO4        Define Sannikarsha        Cognitive /   Must know       Knows    Lecture/           Written       F&S
+                                     Recall                                 Activity based      And Viva           II
+                                                                            learning
+
+
+           31   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO4   Describe the types of       Cognitive /   Must know     Knows   Lecture/           Written      F&S
+      Sannikarsha                 comprehensi                 how     Problem based       And Viva,         II
+                                  on                                  learning             puzzle
+
+CO4   Define Indriya              Cognitive /   Must know     Knows   Lecture/           Written      F&S
+                                  Recall                              Activity based      And Viva          II
+                                                                      learning
+CO4   Enumerate the types of      Cognitive /   Must know     Knows   Lecture/ role      Written      F&S
+      Indriya                     Recall                              play                And Viva          II
+
+CO4   Define Jnanendriya          Cognitive /   Must know     Knows   Lecture/           Written      F&S
+                                  Recall                              Activity based      And Viva          II
+                                                                      learning
+CO4   Enlist the functions of     Cognitive /   Must know     Knows   Problem based      Written      F&S
+      Karmendriya                 Recall                              learning            And Viva          II
+
+CO4   Describe the function of    Cognitive /   Must know     Knows   Lecture/           Written      F&S
+      Manas in relation to        Recall                              Problem based       And Viva          II
+      Jnanotpatti                                                     learning
+CO4   Justify the role of         Cognitive /   Must know     Knows    Problem based     Written      F&S
+      Manas as ubhayendriya       Comprehensi                 how     learning / Group    And Viva,
+                                                                                                            II
+      in relation with            on                                  discussion/Deba     open book
+      Jnanotpatti and Karma.                                          te                     test
+CO4   Enumerate                   Cognitive /   Must know     Knows   Lecture/           Written      F&S
+      Panchapanchaka and          Recall                              Problem based       And Viva,
+      describe its significance                                       learning / Group       quiz           II
+      with respect to                                                 discussion
+      Pratyaksha Jnana
+CO4   Enumerate and describe      Cognitive /   Must know     Knows   Group              Written      F&S
+      briefly the various         Comprehensi                         discussion/ role    And Viva,
+      theories of Darshana        on                                  play/debate         open book
+                                                                                                            II
+      and Ayurveda, which                                                                    test
+      highlight the
+      relationship of Indriya
+
+
+      32   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+      and Panchamahabhuta.
+
+CO4   Justify the specificity of   Cognitive /   Must know    Knows    Activity based    Written      F&S
+      Indriya for                  Comprehensi                how     learning/           And Viva
+      perceiving specific          on                                 Problem based                         II
+      Artha                                                           learning / Group
+                                                                      discussion
+CO4   Enumerate Trayodasha         Cognitive /   Must know    Knows   Lecture/Tutorial   Written      F&S
+      Karana                       Recall                             / Activity based    And Viva,         II
+                                                                      learning             puzzle
+CO4   Enumerate Antahkarana Cognitive /          Must know    Knows   Lecture/           Written      F&S
+                            Recall                                    Activity based      And Viva          II
+                                                                      learning
+CO4   Enumerate the                Cognitive /   Must know    Knows   Lecture/           Written      F&S
+      functions of                 Recall                             Activity based      And Viva          II
+      Antahkarana                                                     learning
+CO4   Illustrate the role          Cognitive /   Must know    Knows   Lecture/           Written      F&S
+      Antahkarana in               Comprehensi                how     Problem based       And Viva,
+      Jnanotpatti with             on                                 learning / Group    open book         II
+      example to highlight                                            discussion             test
+      the significance
+CO4   Describe the factors         Cognitive /   Must know    Knows   Activity based     Written      F&S
+      which create hindrance       Comprehensi                        learning/           And Viva,
+      for perception with an       on                                 Problem based        puzzle           II
+      illustration (pratyaksha-                                       learning / Group
+      anupalabdhikaarana)                                             discussion
+CO4   Enumerate a few              Cognitive /   Must know    Knows   demonstrations/    Written      F&S
+      equipments or aids           Recall                             Problem based       And Viva,
+      which help in                                                   learning / Group       quiz           II
+      enhancing the direct                                            discussion
+      perception
+CO4   Justify the necessity of     Cognitive /   Must know    Knows   Lecture/           Written      F&S
+      other pramana with           Application                how     Activity based      And Viva,         II
+      textual references and                                          learning/           open book
+
+      33   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+          illustrations                                                    Problem based           test
+                                                                           learning / Group
+                                                                           discussion
+CO4       Describe the practical      Cognitive /   Must know      Knows   Lecture/ case-      Written       F&S
+          application of              comprehensi                          based learning /     And Viva
+          Pratyaksha in Sharir,       on                                   Group                                   II
+          Nidan, Chikitsa and                                              discussion
+          Anusandhan (research).
+CO4       Justify the role            Cognitive /   Must know      Knows   Lecture/            Written       F&S
+          Pratyaksha                  Application                  how     Activity based       And Viva
+          (Observation and                                                 learning/
+                                                                                                                   II
+          interpretation skills for                                        Problem based
+          generalization of                                                learning / Group
+          results) in research                                             discussion
+CO4       Realizes importance as      Affective     Must know      Knows    Group discussion      Viva       F&S
+          well as limitation of                                                                                    II
+          Pratyaksha
+           Recite the concern   Cognitive      Desirable to kmows          Audio clips,        Viva,         F&S   II
+           Verses from          Recall             know                    classroom           Recitation
+CO4
+           Tarkasangrah &                                                  Recitation          competetion
+           CharakSamhita
+Topic 4 - Anumana pariksha/Pramana Time (Lecture:- _10__ hours Non lecture _15__hours)
+CO4        Describe Anumana     Cognitive /     Must know Knows            Lecture             Written       F&S   II
+                                Recall                                                          And Viva
+
+CO4       Define the terms with       Cognitive /   Must know      Knows   Lecture/ enquiry    Written       F&S   II
+          an example (Anumiti,        Recall                               based learning       And Viva,
+          Paramarsha, Vyapti,                                                                      quiz
+          Hetu, Sadhya, Paksha,
+          Drishtanta)
+CO4       Describe the types of       Cognitive /   Must know      Knows   Lecture/            Written       F&S   II
+          anumana                     Recall                               Activity based       And Viva,
+                                                                           learning/ group
+                                                                           discussion
+
+           34   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO4    Describe Pancha            Cognitive /   Must know      Knows   Lecture/           Written      F&S   II
+       Avayava Vakya              Recall                               gamification/       And Viva
+                                                                       Problem based
+                                                                       learning / Group
+                                                                       discussion
+CO4,   Associate                  Cognitive /   Desirable to Knows     Self directed      Written      F&S   II
+CO2    Contemporary method                        know       how       learning, /         And Viva,
+       of carrying out research   Comprehensi                          Problem based       open book
+       with Pancha Avayava        on                                   learning / Group       test
+       Vakya                                                           discussion
+CO4    Define vyapti              Cognitive /   Must know      Knows   Lecture/           Written      F&S   II
+                                  Recall                               Activity based      And Viva
+                                                                       learning
+CO4    Describe the types of      Cognitive /   Must know      Knows   Lecture/           Written      F&S   II
+       vyapti                     Recall                               Problem based       And Viva
+                                                                       learning
+CO4    Define hetu                Cognitive /   Must know      Knows   Lecture/           Written      F&S   II
+                                  Recall                               Activity based      And Viva
+                                                                       learning
+CO4    Describe the types of      Cognitive /   Must know      Knows    group             Written      F&S   II
+       hetu                       Recall                               discussion          And Viva
+
+CO4    Enlist Sad-hetu            Cognitive /   Must know      Knows   Lecture/         Written        F&S   II
+       Lakshana                   Recall                               Problem based     And Viva,
+                                                                       learning             quiz
+CO4    Define Hetwabhasa          Cognitive /   Must know      Knows   Lecture/         Written        F&S   II
+                                  Recall                               Problem based     And Viva
+                                                                       learning
+CO4    Explain the types of       Cognitive /   Must know      Knows   Lecture/Tutorial Written        F&S   II
+       Hetwabhasa                 Comprehensi                          group discussion And Viva,
+                                  on                                                    puzzle, quiz
+CO4    Describe Ahetu             Cognitive /   Must know      Knows   Lecture/         Written        F&S   II
+                                  Recall                               Activity based    And Viva
+                                                                       learning
+
+
+       35   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO4        Describe Tarkaas per        Cognitive /   Must know     Knows    Lecture            Written       F&S   II
+           Nyaya Sutra and Tarka       Recall                               Tutorial/           And Viva,
+           Sangraha                                                         Problem based          quiz
+                                                                            learning
+CO4        Distinguish between         Cognitive /   Must know     Knows     Enquiry based     Written       F&S   II
+           Tarka as Aprama and         Comprehensi                 how      learning/ group     And Viva
+           tool in Anumana             on                                   discussion/debat
+                                                                            e
+CO4        Justify the role of Tarka   Cognitive /   Must know     Knows    Activity based     Written       F&S   II
+           in Anumana                  Comprehensi                 how      learning/           And Viva,
+                                       on                                   Problem based       open book
+                                                                            learning / Group       test
+                                                                            discussion
+CO4        Demonstrate the           Cognitive / Must know Knows            Role play/         Written       F&S   II
+           practical applications of Application                how         Game based          And Viva,
+           Anumana Pariksha                                                 learning / Group    open book
+           (with few examples) in                                           discussion             test
+           Sharir, Nidan, Chikitsa
+           and Anusandhan
+           (research).
+           Recite the concern        Cognitive   Desirable to kmows         Audio clips,       Viva,         F&S   I
+           Verses from               Recall         know                    classroom          Recitation
+CO4
+           Tarkasangrah &                                                   Recitation         competetion
+           CharakSamhita
+   Topic 5 - Yukti pariksha/Pramana Time (Lecture:- _2__ hours Non lecture _2__hours
+
+CO4        Describe Yukti              Cognitive /   Must know     Knows    Lecture/           Written       F&S
+                                       Recall                               Activity based      And Viva
+                                                                                                                   III
+                                                                            learning/ Group
+                                                                            discussion
+CO4        Compare Yukti as an         Cognitive /   Must know     Knows    Lecture/           Written       F&S
+           independent Pariksha        Comprehensi                 how      Activity based      And Viva,
+                                                                                                                   III
+           and as a part of            on                                   learning/           open book
+           Anumana                                                          Problem based          test
+
+
+           36   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                                                           learning / Group
+                                                                           discussion
+CO4       Describe the              Cognitive /    Must know       Knows   Lecture /          Written       F&S
+          Importance of Yukti in    Recall                         how     Activity based      And Viva
+          Ayurveda                                                         learning/
+                                                                                                                  III
+                                                                           Problem based
+                                                                           learning / Group
+                                                                           discussion
+CO4       Describe the practical    Cognitive      Must know       Knows   Lecture/           Written       F&S
+          application of Yukti in   Recall                         how     Activity based      And Viva
+          Sharir, Nidan, Chikitsa                                          learning/
+                                                                                                                  III
+          and Anusandhan                                                   Problem based
+          (research).                                                      learning / Group
+                                                                           discussion
+           Recite the concern     Cognitive     Desirable to knows         Audio clips,       Viva,         F&S   III
+CO4        Verses from            Recall           know                    classroom          Recitation
+           CharakSamhita                                                   Recitation         competition
+8. Topic 6 – Upamana Pramana Time (Lecture:- __2_ hours Non lecture _4__hours)
+CO4        Define Upamana..Enlist Cognitive /   Must know Knows            Lecture/           Written       F&S
+           the types of Upaman    Recall                                   Activity based      And Viva           III
+                                                                           learning
+CO4        Describe the           Cognitive /   Must know Knows            Lecture/           Written       F&S
+           Importance of Upamana Recall                                    Problem based       And Viva
+                                                                                                                  III
+           in Ayurveda                                                     learning / Group
+                                                                           discussion
+CO4        Describe the practical Cognitive/    Must know Knows            Lecture/ Game      Written       F&S
+           applications of        Comprehensi                              based learning/     And Viva,
+           Upamana in Sharir,     on                                       Problem based          quiz            III
+           Nidan, Chikitsa and                                             learning / Group
+           Anusandhan.                                                     discussion
+           Recite the concern     Cognitive     Desirable to kmows         Audio clips,       Viva,         F&S   III
+CO4        Verses from            Recall           know                    classroom          Recitation
+           Tarkasangrah & Charak                                           Recitation         competition
+
+
+           37   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Topic 7 - Karya- Karana Siddhanta Time (Lecture:- _11__ hours Non lecture _13__hours)
+CO5        Define Karya and          Cognitive/     Must know      Knows     Lecture            Written and   F&S
+CO2        Karana.                   Recall                                  Tutorial             Viva
+           List types of Karana.                                                                                    III
+           Charakokta Dashvidha
+           Parikshya Bhava.
+CO5        Explain Charakokta        Cognitive/Co   Must know      Knows     Lecture/Problem    Written and   F&S
+           Dashvidha Parikshya       mprehension                             Based learning       Viva              III
+           Bhava.
+CO5        Describe the              Cognitive/     Must know      Knows     Lecture/problem    Written and   F&S
+CO2        significance of Karya     Comprehensi                   how       based activity       Viva
+                                                                                                                    III
+           and Kaarana in            on
+           Ayurveda
+CO5        Realises the utility of   Affective      Must know      Knows     Group                            F
+CO2        Charakokta Dashvidha                                              discussion/ Role
+           Parikshya Bhav in                                                 play/ Debate
+                                                                                                                    III
+           understanding
+           situations and taking
+           decisions
+CO5        Distinguish different     Cognitive /    Must know      Knows     Edutainment        Written and   F&S
+CO2        opinions regarding the    Application                   how       Role play/         Viva, quiz
+           manifestation of Karya                                            Debate group                           III
+           from Karana                                                       discussion/debat
+                                                                             e
+CO5        Analyse Satkaryavada      Cognitive /    Must know      Knows     Lecture &          Written and   F&S
+CO2        and relate it with        Application                   how       Group                Viva
+                                                                                                                    III
+           Ayurveda Siddhanta                                                Discussion/deba
+                                                                             te
+CO5        Analyse Asatkaryavada     Cognitive /    Must know      Knows     Lecture &          Written and   F&S
+CO2        & relate it with          Application                   how       Group                Viva
+                                                                                                                    III
+           Ayurveda Siddhanta                                                Discussion/deba
+                                                                             te
+
+
+
+           38   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+CO5   Analyse Parinamavada      Cognitive /   Must know       Knows   Lecture &         Written and   F&S
+CO2   & relate it with          Application                   how     Group               Viva              III
+      Ayurveda Siddhanta                                              Discussion
+CO5   Analyse Arambhavada       Cognitive /   Must know       Knows   Lecture &         Written and   F&S
+CO2   & relate it with          Application                   how     Group               Viva              III
+      Ayurveda Siddhanta                                              Discussion
+CO5   Analyse Paramanuvada      Cognitive /   Must know       Knows   Lecture &         Written and   F&S
+CO2   and relate it with        Application                   how     Group               Viva              III
+      Ayurveda Siddhanta                                              Discussion
+CO5   Explain Vivartavada       Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+CO2   and relate it with        Comprehensi                   how     Group               Viva              III
+      Ayurveda Siddhanta        on                                    Discussion
+CO5   Explain                   Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+CO2   Kshanabhangurvada         Comprehensi                   how     Group               Viva
+                                                                                                            III
+      and relate it with        on                                    Discussion
+      Ayurveda Siddhanta
+CO5   Explain Swabhavavada      Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+CO2   and relate it with        Comprehensi                   how     Group               Viva              III
+      Ayurveda Siddhanta        on                                    Discussion
+CO5   Explain Peelupakavada     Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+CO2   and relate it with        Comprehensi                   how     Group               Viva
+                                                                                                            III
+      Ayurveda Siddhanta        on                                    Discussion/deba
+                                                                      te
+CO5   Explain                   Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+      Pitharapakavada and       Comprehensi                   how     Group               Viva
+                                                                                                            III
+      relate it with Ayurveda   on                                    Discussion/deba
+      Siddhanta                                                       te
+CO5   Explain Anekantavada      Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+      and relate it with        Comprehensi                   how     Group               Viva              III
+      Ayurveda Siddhanta        on                                    Discussion
+
+C05   Explain                   Cognitive/    Must know       Knows   Lecture &         Written and   F&S
+CO2   Swabhavoparamavada.       Comprehensi                   how     Group               Viva              III
+                                on                                    Discussion
+
+
+      39   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        Recite the concern         Cognitive     Desirable to kmows     Audio clips,    Viva,         F&S   III
+CO5     Verses from                Recall          know                 classroom       Recitation
+CO2     Tarkasangrah &                                                  Recitation      competition
+        CharakSamhita
+CO5,    Value cause and effect     Affective     Must know      Knows   Debate/Group       Viva        F
+CO2     theory                                                          Discussion                          III
+
+CO 5,   Analyse cause effect       Cognitive /     Nice to      Knows   Self directed        -         -
+CO2     relationship, causality,   Comprehensi     know                 learning ,
+        causation in               on                                   Flipped
+                                                                                                            III
+        contemporary sciences                                           classroom,
+                                                                        Group
+                                                                        Discussions.
+
+
+
+
+        40   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+List of Practicals
+
+Course AyUG-PV : Practical List
+ Marks: 100
+ Hours:- 45 (included in non Lecture hours)
+   SN     Name of Topic/ Name of      Term      Activity / Practical
+                   Practical
+    P1 Ayurved Nirupan                I         Ayurved Perception identification: Ask the meaning of Ayurveda to your
+                                                parents, friends and family members (min 10) and write it, give your opinion on it.
+                                                Introduction to communication skills. Conduct of survey.
+      P2 Darshana and Padartha          I       •   Darshan concept development: Find and write names of different philosophies?
+                                                •   Discussions: meanings of philosophy, darshana, spirituality, religion. Are they
+                                                    same or different? Write in Activity Book.
+      P3 Hitayu/ Sukhayu lakshanas      I       •   Identification of characters of Hitayu, & Sukhayu in Healthy individuals.
+      P4 Dravya                         I       1. Identification of Guna and Karma.
+                                                   Make a list of 10 dravyas surrounding you and identify Guna and Karma in it.
+                                                2. Panchbhautik nature identification: Demonstrate the Panchamahabhuta in
+                                                   any five ahara dravya and five sharira dravya/ avayava with a neat labeled
+                                                   diagramme. (ex-cell, blood, vata, pitta, kapha etc).
+                                                3. Determination of Directions: Identify the directions in and enlist the content in
+                                                   each direction in your campus.
+                                                4. Conceptualize Time : Discussion and understanding of Kala as per Ayurved and
+                                                   contemporary sciences.
+                                                5. Categorization of Aushadhi dravya by dominance of Mahabhoot e.g. Parthiv /
+                                                   Jaleeya/ Agney/ Vayaveey/ Akasheey dravya with reasons.
+                                                6. Early Clinical Exposure(ECE): Visit the OPD, find the diseases common for
+                                                   different age groups ( balyavastha/ tarunyavastha/ vruddhavastha)
+
+
+
+
+          41   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+P5 Guna                          II      Identification:
+                                         Sartha Guna : Identify concept of Shabda, Sparsha, Rupa, Rasa, Gandha in Dravya.
+                                         Application and demonstration find the different therapies based on 5 Sartha
+                                         Gunas. e.g. Gandha. Shabda, Sparsha.
+                                         Observe /Experience/ Study / Read book or article present on (any one)
+                                         Aromatherapy- Gandha Chikitsa. Music therapy/ Mamtra Chikitsa -Shabda guna.
+                                         Sparsha- Touch therapy.
+                                         Gurvadi Guna: Identify guna in any five
+                                         ahara dravya : different vargas.
+                                         in Sharir dravya: dosha, dhatu mala.
+                                         Comparison Gurvadi gunas and corelate with concepts learned in Physics,
+                                         Chemistry and Biology.
+                                         Observation(survey) of the effects of Seasons on Gurvadi gunas in body, nature etc.
+                                         Paradi Guna and their application in five examples.
+                                         Atma Guna identification: Making or Framing their real life situations related to
+                                         Atma Guna(sukha, dukkha etc)
+P6 Karma                         II      Conceptualization Karma, its application in branch of Ashtanga Ayurveda.(
+                                         panchakrma/ Shastrakarma etc
+
+                                         Illustration: Make a collage of pictures/ photos depicting five types of karma and
+                                         their similarity with concepts learned in Physics, Chemistry etc.
+
+P7 Pratyaksha Praman             II      Observation: Note down the factors from Prakruti analysis which you can
+
+
+   42   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                            understand through pratyaksh ( like- colour, dry skin)
+                                            Identification: Find few identification marks for identification of herbs/ minerals
+                                            which need Pratyaksha.
+                                            ECE: Pramans in examination of patient and Diagnosis of disease.
+                                            Identifies the gunas which can be perceived by one sense (ekendriya) organ and
+                                            more than one sense organ (Dwiendriya etc).
+                                            Demonstrate with examples of Shabda,(snigdha/ ruksha etc) Sparsha (snigdha/
+                                            ruksha etc), Rupa, Rasa(taste threshold video), Gandha. (5 examples)
+
+P8 Pratyaksha Praman                II      Observation: Find out how one can overcome limitations of Pratyaksha by
+      Limitations                           advances in equipment. (microscopre, telescope etc)
+                                            Justification of use of various equipment in examination of patient and Diagnosis
+                                            of disease. (X ray, USG etc)
+P9     Anuman Praman                II      Application in Real life situation
+                                            Write 3 examples of Vyapti (associations)in real life.
+                                            Find and explain 5 examples of Anumana pramana as per types.
+                                            Write 3 examples of panchavayava vakya. Correlate it with practicals that you have
+                                            conducted.
+                                            Examples of Hetvabhas.(Any three)
+                                            Study use of inference in various sciences.
+P10    Samanya Vishesh Siddhant     III     Identification: Visit vanaushadhi udyan of your college. Find samanyatva and
+                                            visheshatva among plants.
+                                            Illustration : Make a chart of food articles and activities to illustrate the relationship
+                                            of samanya/vishesha with dosha-dhatu-malas.
+                                            Application: Make a list/ collection of seasonal vegetables and fruits which are
+
+      43   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                            Samanya/Vishesha with the dosha.(five examples)
+P11    Samvay                       III     Conceptualization Mention five real life examples of Nitya and anitya sambandha.
+P12    Abhav                        III     Application: Write five real life experiences of pragabhava, pradhwamsabhava,
+                                            atyantabhava and anyonyabhav.
+P13    Upman Praman                 III     Illustration : Upamana in practical life or with your prior learning. (Examples of
+                                            upamana from Ashtang Hridaya and Charak samhita)and prior learning (Examples
+                                            in Physics, chemistry etc)
+P14    Yukti Praman                 III     Conceptualization: How various factors influence the process of the decision
+                                            making?
+                                            Application : Write 5 examples of Yukti in practical life or with your prior
+                                            learning.
+                                            ECE: Role of Yukti in Sharir, Nidan, Chikitsa and Anusandhan.
+P15    Satkaryavad and other        III     Justification : Parinama vada: Describe 3 real life or with your prior learning
+      vadas                                 examples (Physics, Chemistry etc).
+                                            Justification of Satkarya vada.: Describe 3 real life or with your prior learning
+                                            examples.
+                                            Swabhavoparama vada : Describe 3 real life or with your prior learning examples.
+                                            Pakajotpatti siddhanta.: Write 3 examples of real life or with your prior learning.
+                                            Justification of Arambhavada Describe 3 real life or with your prior learning
+                                            examples
+P16    Cause and effect theory      III     Illustration: Karya Karan Bhav: Write Samavayi, asamavayi and Nimitta Karana of
+                                            a karya in real life examples (5 examples).
+                                            Examples learned in Physics, Chemistry, Biology.
+                                            Search Find out use of cause effect theory in other sciences.
+                                            Schematic representation of cause effect in any examples.
+
+      44   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                         Application: Assess the 10 factors of Charakokta Karyakarana bhava regarding any
+                                         task consider the task as karya
+                                         Remember and write theories of evolution you learned within and other than syllabus.
+A1 Other Activities in Journal. I,       1. Oral presentation: on allotted topic, PPT slides be made and Copy of slides be
+                                II,      pasted in activity book
+                                III.     2. Quiz: Participation of all students in Quiz on some topic of Padartha vijnana.
+                                         3. Recitation: Important shloka of padartha vijnana recitation everyday or
+                                         alternate days by students and written in diary.
+                                         4. Each student will do Pick and speak on topics of Padartha Vijnana.
+                                         5. e charts / animations etc.
+
+
+
+
+   45   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Table 4: Learning objectives (Practical) of AyUG-PV
+
+ Practical
+  A4                 B4                  C4      D4         E4             F4              G4          H4      I4      J4
+ Cours        Learning Objective       Domain/ Must       Level        T-L method       Assessmen   Formativ   Te   Integrati
+   e                                     sub     to       Does/                             t           e      rm      on
+ outco          (At the end of the             know/      Shows                                     /summati
+  me          session, the Students           desirab      how/                                        ve
+                should be able to)              le to     Knows
+                                               know/       how/
+                                              Nice to     Know
+                                               know
+             Practical1-Ayurved Nirupan Time (practical- 2 hours)
+
+ CO1              Define Ayurved       Cognitive     MK        knows    discussion        Viva       F&S       I
+                                        Recall
+
+
+ CO1          Conduct the survey to Psychom     MK        Shows        Demonstration/     Viva        F&S      I
+              identify the perception otor                               discussion
+               about Ayurved in the
+                      society
+             Practical2-Darshan and Padarth (Practical- 1hour)
+
+ CO2          Discuss and compare      Cognitive    MK         Knows                      Viva       F &S      I
+                                        / Recall                       Demonstration/
+                 the meanings of                                how
+                                                                        discussion/
+              philosophy, darshana,                                    brainstorming
+             spirituality, religion.
+ CO2         Find and write names of   Cognitiv     MK         Knows                      Viva        F&S      I
+                                                                       Demonstration/
+             different philosophies?   e/Recall                 how     discussion/
+                                                                       brainstorming
+ Practical - 3(hitayu/Sukhayu) Time (Practical/ Clinical 2 hours) :
+
+
+
+             46   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                                                 Demonstration/
+         Discuss characters of       Cognitive           Knows
+CO 1                                               MK            discussion/         Viva       F&S    I
+         hitayu, &Sukhayu            /Recall             how
+                                                                 brainstorming
+                                     Cognitive
+         Identifies characters of    /                   Knows
+CO 1     hitayu, &Sukhayu in                       MK            Demo/Practical      Viva       F& S   I
+                                     Compreh             How
+         healthy individuals
+                                     ension
+
+Practical 4- Dravya Time (Practical/ Clinical 6 hours)
+
+                                                                 Demonstration/
+         Define dravya, discuss      Cognitive           Knows
+CO1,3                                               MK           discussion/         Viva       F&S    I
+         nature of dravya            Recall              how
+                                                                 brainstorming
+         Identify pentaelemental     Cognitive/
+         nature of Ahar Dravya                                   Practical/Demon     Viva/
+CO1,3                                Comprehe       MK   Shows                                  F& S   I
+         Aushadh Dravya in given                                 stration          Practicals
+         examples                    nsion
+         Identify the Guna and Cognitive/
+                                                                 Practical/Demon
+CO1,3
+         Karma in the given Comprehe                MK
+                                                         Knows
+                                                                 stration
+                                                                                     Viva/
+                                                                                                F&S    I
+         dravya                nsion                     how                       Practicals
+
+         Categorize the
+         Aushadhi dravya by
+                                     Cognitive/
+         dominance of                                            Practical/Demon
+                                     Comprehe            Knows                       Viva/
+CO1,3    Mahabhoot e.g. Parthiv                     MK           stration                       F&S    I
+                                     nsion               how                       Practicals
+         /Jaleeya/ Agney/
+         Vayaveey/ Akasheey
+         dravya with reasons
+          Identify the directions
+                                     Cognitive/
+         in and enlist the content                               Practical/Demon
+                                     Comprehe            Knows                       Viva/
+CO1,3    in each direction in your                  MK           stration                       F&S    I
+                                     nsion               how                       Practicals
+         campus.
+
+         Discus the concept of Cognitive/                        Demonstration/
+CO1,3                                               MK   Knows                       Viva       F&S    I
+         Kala as per Ayurved and Recall                          discussion/
+
+
+         47   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+         contemporary sciences.                                        brainstorming
+
+
+         find    the    diseases
+         common for different
+                                 Cognitive/
+         age groups
+                                 Comprehe                      Knows   Early Clinical       Viva/
+CO1,3     (balyavastha/                                   MK
+                                                               how                        Practicals
+                                                                                                       F&S   I
+                                 nsion                                 Exposure.
+         tarunyavastha/
+         vruddhavastha)
+
+Practical - 5(Guna) Time (Practical/ Clinical 5 hours )
+                                                                       Demonstration/
+                                       Cognitive/              Knows
+CO 3     Discuss Guna,                                    MK           discussion/          Viva       F&S   II
+                                       Recall                  how
+                                                                       brainstorming
+         Identify Gunas in given       Cognitive/
+                                                               Knows                        Viva/
+CO 3     Ahar dravya.                  Comprehe           MK           Demo/Practical                  F&S   II
+                                                               How                        Practicals
+                                       nsion
+                                       Cognitive/
+         Identify Gunas in given                                       Practical/Demon
+                                       Comprehe                Knows                        Viva/
+CO 3     Sharir dravya.                                   MK           stration                        F&S   II
+                                       nsion                   how                        Practicals
+
+                                                                       Demonstration
+                                       Cognitive/                      of Dravyas like-
+         Identify the specification                                                         Viva/
+                                       Comprehe                Knows   kutki, gojihva,
+CO 3     of Shabda, Sparsha, Rupa,                        MK                              Practicals   F&S   II
+                                       nsion                   how     guduchi,
+         Rasa, Gandha in Dravy
+                                                                       yashtimadhu,
+                                                                       sariva etc.
+         find the different
+         therapies based on 5          Cognitive/                      Demonstration/
+         Sartha Gunas.                 Comprehe                        discussion/          Viva/
+CO 3                                                      DK   knows                                   F&S   II
+                                       nsion                           brainstorming      Practicals
+         e.g.Gandha. Shabda,
+         Sparsha.
+
+
+          48   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        Observe and record the
+                                   Cognitive/                    Practical/Demon
+        effects of Seasons on                           Knows                        Viva/
+CO 3                               analysis       MK
+                                                        how
+                                                                 stration
+                                                                                   Practicals
+                                                                                                F&S   II
+        Gurvadi gunas in body
+        and nature
+         Correlate Gurvadi
+        gunas with concepts        Cognitive/                    Demonstration/
+                                   comprehens           Knows    discussion/         Viva/
+CO 3    learned in Physics,                       MK                                            F&S   II
+                                   ion                  how      brainstorming     Practicals
+        Chemistry and Biology.
+
+        Identify the paratva-      Cognitive/
+                                                                 Practical/Demon
+        aparatva in five           Comprehe             Knows                        Viva/
+CO 3                                              MK             stration                       F&S   II
+                                   nsion                how                        Practicals
+        examples
+        Perform the Sanskar
+                                                                 Practical/Demon
+        (toyasannikarsha/vasan/    Psychomot                                         Viva/
+CO 3                                              MK    Shows    stration                       F&S   II
+                                   or                                              Practicals
+        Bhavana)
+        Frame the real life
+                                                                 Demonstration/
+        situations related to      Cognitive/
+                                                        Knows    discussion/         Viva/
+CO 3                               Comprehe       MK                                            F&S   II
+        Atma Guna(sukha,                                how      brainstorming     Practicals
+                                   nsion
+        dukkha etc)
+
+Practical -6 Karma Time (Practical/ Clinical 3 hours)
+                                                                 Demonstration/
+                                   Cognitive/           Knows
+CO 3    Discuss Karma                             MK             discussion/         Viva       F&S   II
+                                   Recall               how
+                                                                 brainstorming
+                                   Cognitive/           Knows    Demonstration/      Viva/
+CO 3                                              MK                                            F&S   II
+        Classify Karma in given    Comprehe             how      Practical         Practicals
+
+
+         49   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        examples (               nsion
+        panchakarma/Shastrakarm
+        a)
+        Illustrate five types of Cognitive/                          Practical/Demon
+                                                          Knows                          Viva/
+CO 3    Karma in collage of        Comprehe       MK                 stration                       F&S   II
+                                                          how                          Practicals
+        pictures/ photos           nsion
+        compare Karma with         Cognitive/
+                                                                     Practical/Demon
+        concepts learned in        Comprehen                                             Viva/
+CO 3                                              MK      Knows      stration                       F&S   II
+        Physics, Chemistry etc.    sion                                                Practicals
+
+Practical – 7 Pratyaksha Praman Time (Practical/ Clinical 5 hours)
+                                                                     Demonstration/
+        Discuss Pratyaksha         Cognitive/             Knows
+CO4                                               MK                 discussion/         Viva       F&S   II
+        Praman                     Recall                 how
+                                                                     brainstorming
+        Find identification
+                                   Cognitive/
+        marks for identification                          Knows      Demonstration/      Viva/
+CO4                                Comprehe       MK                                                F&S   II
+        of herbs/ minerals                                how        Practical         Practicals
+                                   nsion
+        which need Pratyaksha.
+        Note down the factors      Cognitive/
+                                                                     Practical/Demon
+        from Prakruti analysis     Comprehe               Knows                          Viva/
+CO4                                               MK                 stration                       F&S   II
+        which need pratyaksh (     nsion                  how                          Practicals
+        like- colour, dry skin)
+        Discuss the use of
+        pratyaksha in              Cognitive/
+        examination of patient     Comprehe               Knows                          Viva/
+CO4                                               MK                 ECE/ discussion                F&S   II
+                                   nsion                  how                          Practicals
+        and Diagnosis of
+        disease.
+        identifies with                                              Practical/Demon
+                                   Cognitive/
+        examples of                                                  stration/ Shabd
+                                   Comprehe               Knows                          Viva/
+CO4     Shabda,(snigdha/                          MK                 from                           F&S   II
+                                   nsion                  how                          Practicals
+        ruksha etc) Sparsha                                          recordings,
+        (snigdha/ ruksha etc),                                       (snigdha/
+
+         50   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        Rupa, Rasa(taste                                             ruksha etc)
+        threshold video),                                            Sparsha by
+        Gandha.                                                      touching or
+                                                                     instruments.
+                                                                     (snigdha/
+                                                                     ruksha etc),
+                                                                     Rupa,
+                                                                     Rasa(taste
+                                                                     threshold
+                                                                     video),
+                                                                     Gandha.(intens
+                                                                     ity of Smell)
+
+        Identifies the gunas
+        which can be perceived
+        by one sense               Cognitive/                        Demonstration/
+                                   Comprehe               Knows      discussion/         Viva/
+CO4     (ekendriya) organ and                     MK                                                F&S   II
+                                   nsion                  how        brainstorming     Practicals
+        more than one sense
+        organ (Dwiendriya etc).
+
+
+Practical -8 Pratyaksha Badhakar Bhav Time (Practical/ Clinical 2 hours)
+        Discuss Pratyaksha
+        Badhakar Bhav              Cognitive/r
+CO4                                               MK      Knows      Lecture             Viva       F&S   II
+        (limitations of            ecall
+        pratyaksha.)
+                                                                     Demonstration/
+                                   Cognitive/                        Practical.
+        Identify and classifies
+                                                          Knows      Ask examples or     Viva/
+CO4     Pratyaksha badhakar        Comprehe       MK                                                F&S   II
+                                                          how        encourage to      Practicals
+        Bhav in given examples.    nsion                             identify
+                                                                     examples.
+
+
+
+         51   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        Justify the use of
+        various equipment in        Cognitive/                     Demonstration/
+                                                                   discussion/
+        examination of patient      Comprehe             Knows                          Viva/
+CO4                                               MK               brainstorming/                   F&S   II
+                                    nsion                how                          Practicals
+        and Diagnosis of                                           Video Clips
+
+        disease.
+
+Practical -9 Anuman praman Time (Practical/ Clinical 5 hours )
+                                                                   Demonstration/
+                                    Cognitive/
+CO4     Discuss Anuman praman                     MK     Knows     discussion/          Viva        F&S   II
+                                    Recall
+                                                                   brainstorming
+CO4                                                                Demonstration/
+                                    Cognitive/                     Practical, Ask
+        Identify and classify                                                        Practical/De
+                                                                   examples or
+        Anuman praman with          Comprehe      MK     knows                       monstration    F&S   II
+                                                                   encourage to
+        type in given examples.     nsion                          identify
+                                                                   examples.
+CO4     Find and discuss                                           Practical/Demon
+                                    Cognitive/                     stration. Ask
+        examples of Vyapti                                         examples or       Practical/De
+                                    Comprehe             Knows
+                                                  MK               encourage to      monstration    F&S   II
+        (associations)in real       nsion                how
+                                                                   identify
+        life.                                                      examples.
+
+CO4     Apply panchavayava
+                                    Cognitive/
+        vakya for drawing                                          Practical/Demon   Practical/De
+                                    Comprehe             Knows
+                                                  MK               stration          monstration    F&S   II
+        inference in                nsion                how
+        practicals conducted
+        Identify and discuss        Cognitive/                     Practical/Demon
+                                                                   stration. Ask     Practical/De
+        Hetvabhas in given          Comprehe             Knows
+CO4                                               MK               examples or       monstration    F&S   II
+                                    nsion                how
+        examples                                                   encourage to
+                                                                   identify
+
+
+         52     Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                                                      examples.
+
+
+        Draw inference in                                             Demonstration/
+                                   Cognitive/                                           Practical/De
+                                                                      discussion/
+CO4     various sciences on the    recall         MK      knows                         monstration     F&S   II
+                                                                      brainstorming
+        basis of Vyapti.
+Practical -10 Samanya Vishesh Siddhant Time (Practical/ Clinical 5 hours)
+                                                                      Demonstration/
+        Discuss Samanya vishesh    Cognitive/
+CO 3                                              MK      Knows       discussion/           Viva        F&S   III
+        Siddhant                   Rcall
+                                                                      brainstorming
+                                                                      Demonstration/
+        Identify and classifies    Cognitive/                         Practical/ Ask
+        Samanya vishesh                                   Knows       examples or          Viva/
+CO 3                               Comprehe       MK                                                    F&S   III
+        Siddhant with type in                             how         encourage to        Practical
+        given examples.            nsion                              identify
+                                                                      examples.
+         Identify samanyatva
+                                   Cognitive/
+        and visheshatva among                                         Practical/Demon
+                                   Comprehe               Knows                            Viva/
+CO 3    plants in Vanaushadhi                     MK                  stration.                         F&S   III
+                                   nsion                  how                            Practicals
+        udyan
+
+        Make a chart/ eChart of
+        food articles and
+                                   Cognitive/
+        activities to illustrate                                      Practical/Demon   Presentation/
+                                   Comprehe               Knows
+CO 3    the relationship of                       MK                  stration             Viva/        F&S   III
+                                   nsion                  how
+        samanya/vishesha with                                                            Practicals
+        dosha-dhatu-malas.
+
+        Make a poster seasonal
+                                   Cognitive/
+        vegetables and fruits                                                           Presentation
+                                   Comprehe               Knows       Practical
+CO 3    which are                                 MK                                       /Viva/       F&S   III
+                                   nsion                  how
+        Samanya/Vishesha with                                                            Practicals
+        the dosha.
+Practical -11 Samavay Time (Practical/ Clinical 1 hour)
+
+
+         53   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+                                                                        Demonstration/
+                                    Cognitive/
+CO 3     Discuss Samavay                            MK      Knows       discussion/        Viva       F&S   III
+                                    Recall
+                                                                        brainstorming
+         Mention five real life                                         Demonstration/
+                                    Cognitive/                          Practical/ Ask
+         examples of Nitya and                              Knows       examples or       Viva/
+CO 3                                Comprehe        MK                                                F&S   III
+         anitya sambandha.                                  how         encourage to     Practical
+                                    nsion                               identify
+                                                                        examples.
+Practical -12 Abhav Time (Practical/ Clinical 1 )
+                                                                        Demonstration/
+                                    Cognitive/              Knows
+CO 3     Discuss Abhav                              MK                  discussion/        Viva       F&S   III
+                                    Recall                  how
+                                                                        brainstorming
+         Write real life
+         experiences of
+                                                                        Demonstration/
+         pragabhava,                                                    Practical/ Ask
+                                    Cognitive/
+                                                                        examples or
+CO 3     pradhwamsabhava,           Comprehe        MK      Shows                          Viva       F&S   III
+                                                                        encourage to
+                                    nsion                               identify
+         atyantabhava and
+                                                                        examples.
+         anyonyabhav.
+
+
+Practical - 13 Upman Praman        Time (Practical/ (Practical/ Clinical 1 hour)
+                                                                        Demonstration/
+                                    Cognitive/              Knows                         Viva/
+CO4      Discuss Upaman Praman                      MK                  discussion/                   F&S   III
+                                    Recall                  how                          Practical
+                                                                        brainstorming
+CO4                                                                     Demonstration/
+         Illustrate Upamana in                                          Practical/ Ask
+                                    Cognitive/
+         practical examples and                             Knows       examples or        Viva/
+                                    Comprehe        MK                                                F&S   III
+                                                            how         encourage to     Practicals
+         real life situation.       nsion                               identify
+                                                                        examples.
+CO4      Identify Examples of       Cognitive/              Knows       Demonstration/     Viva/
+                                                    MK                                                F&S   III
+         upamana from Ashtang       Comprehe                how         discussion/      Practicals
+
+
+         54   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        Hridaya and Charak           nsion                            brainstorming.
+        Samhita
+        Identify examples in                                          Demonstration/
+                                                                      discussion/
+        Physics, chemistry           Cognitive/                       brainstorming/
+                                     Comprehen               Knows    Ask examples or     Viva/
+CO4     biology where Upaman                         MK                                               F&S   III
+                                     sion                    how      encourage to      Practicals
+        is used                                                       identify
+                                                                      examples.
+
+Practical -14 Yukti Praman Time (Practical/ Clinical 1 hour
+                                                                      Demonstration/
+                                     Cognitive/
+CO4     Discuss Yukti Praman                         MK      Knows    discussion/         Viva        F&S   III
+                                     Recall
+                                                                      brainstorming
+CO4
+        Illustrate examples of                                        Demonstration/
+                                                                      Practical/ Ask
+        Yukti in practical life or Cognitive/                Knows    exapmles or
+                                                                                          Viva/
+                                   Comprehe          MK                                 Practicals    F&S   III
+        with your prior                                      how      encourage to
+                                   nsion                                                  Quiz
+                                                                      identify
+        learning.                                                     examples.
+
+
+CO4     Identify Role of Yukti
+                                     Cognitive/                                           Viva/
+        in Nidan, Chikitsa and                               Knows    ECE/
+                                     Comprehe        MK                                 Practicals/   F&S   III
+                                                             how      Demonstration/
+        Anusandhan (research).       nsion                                                 PBL
+
+Practical -15 Various Vadas      Time (Practical/ Clinical 3 hour )
+CO5                                                                   Demonstration/
+                                     Cognitive/              Knows
+CO2     Discuss Satkaryavad                          MK               discussion/         Viva        F&S   III
+                                     Recall                  how
+                                                                      brainstorming
+CO5     Justify Satkaryavad          Cognitive/                       Demonstration/      Viva/
+                                                             Knows
+CO2                                  comprehens      MK               Practical/ /Ask   Practicals/   F&S   III
+        through real life                                    how
+                                     ion                              examples or          PBL
+
+
+        55   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+        examples/ examples                                            encourage to
+                                                                      identify
+        from prior learning                                           examples.
+        Justify Parinamvad                                            Practical/Demon
+                                                                      stration/ /Ask
+        through real life           Cognitive/
+CO5                                                                   examples or
+                                    comprehens            Knows                           Viva/
+CO2                                                MK                 encourage to                   F&S   III
+        examples/ examples          ion                   how                           Practicals
+                                                                      identify
+        from prior learning                                           examples.
+
+                                                                      Practical/Demon
+        Justify Pakajotpatti                                          stration/ /Ask
+                                    Cognitive/
+CO5                                                                   examples or
+        through real life           comprehens            Knows                           Viva/
+CO2                                                MK                 encourage to                   F&S   III
+        examples/ examples          ion                   how                           Practicals
+                                                                      identify
+        from prior learning                                           examples.
+
+                                                                      Demonstration/
+        Justify                                                       discussion/
+        Swabhavoparamvad            Cognitive/
+CO5                                                                   brainstorming/
+                                    comprehens            Knows                           Viva/
+CO2     through real life                          MK                 /Ask examples                  F&S   III
+                                    ion                   how                           Practicals
+        examples/ examples                                            or encourage to
+        from prior learning                                           identify
+                                                                      examples.
+                                                                      Demonstration/
+        Justify Arambhvad                                             Practical//Ask
+CO5                                 Cognitive/
+        through real life                                 Knows       examples or         Viva/
+CO2                                 comprehens     MK                                                F&S   III
+        examples/ examples                                how         encourage to      Practicals
+                                    ion
+        from prior learning                                           identify
+                                                                      examples.
+Practical -16 Cause and Effect theory Time (Practical/ Clinical 2 hours)
+CO5,                                Cognitive/                        Demonstration/
+        Discuss Cause and effect
+CO2                                 comprehen      MK     Knows       discussion/       Viva/ Quiz   F&S   III
+        theory
+                                    d                                 brainstorming
+CO5     Identify Samavayi,          Cognitive/            Knows       Demonstration/      Viva/
+CO2                                                MK                                                F&S   III
+        Asamavayi and Nimitta       Comprehe              How         Practical/Ask     Practicals
+
+
+         56   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+      karan of a Karya in real   nsion                        examples or
+      life examples/ examples                                 encourage to
+      withprior learning                                      identify
+                                                              examples.
+CO5   Find out use of cause
+                                 Cognitive/                   Practical/Demon     Viva/
+      effect theory in other                       Knows
+                                 comprehens   MK              stration          Practicals/   F&S   III
+      sciences.                                    how
+                                 ion                                             Debate
+CO5                              Cognitive/
+      Represent cause and                                     Practical/Demon
+                                 comprehens        Knows                          Viva/
+      effect schematically in                 MK              stration                        F&S   III
+                                 ion               how                          Practicals
+      any examples
+CO5   Assess the 10 factors of
+      Charakokta
+                                                   Knows
+      Karyakarana bhava          Cognitive/                   Practical/Demon
+                                                   how                            Viva/
+      regarding any task         analysis     MK              stration                        F&S   III
+                                                                                Practicals
+      consider the task as
+      karya
+
+CO5   Write theories of          Cognitive/        Knows
+                                                              Practical/Demon
+      evolution you learned      comprehens        how                            Viva/
+                                              MK              stration                        F&S   III
+      within and other than      ion                                            Practicals
+      syllabus.
+
+
+
+
+      57   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Table 5: Non Lecture Activities Course AyUG-PV
+
+
+Table 5- Course AyUG-PV Non Lecture Activities- 140
+          List non lecture Teaching-Learning methods *                                      No of Activities
+ 1       GROUP   DISCUSSION                                                                        20
+ 2       PRACTICALS AND DEMONSTRATIONS                                                             45
+ 3       ACTIVITY BASED LEARNING                                                                   10
+ 4       PROBLEM BASED LEARNING                                                                    10
+ 5       ENQUIRY BASED LEARNING                                                                     8
+ 6       CASE BASED LEARNING                                                                        6
+ 7       GAME BASED LEARNING                                                                        8
+ 8       FLIPPED CLASSROOMS                                                                         6
+ 9       DEBATE                                                                                     8
+ 10      SEMINARS                                                                                   6
+ 11      TUTORIALS                                                                                  5
+ 12      ROLE PLAY                                                                                  5
+ 13      SELF DIRECTED LEARNING                                                                     3
+                                                                                                   140
+
+
+Table 6: Assessment Summary AyUG-PV
+
+6 A - Number of Papers and Marks Distribution
+                                                            Practical/Clinical Assessment
+                                                                                                     Grand
+  S.No.         Subject Code    Papers   Theory    Practical/                                 Sub
+                                                                Viva    Electives    IA               Total
+                                                   Clinical                                  Total
+    1.     AyUG-PV                2        200        100        60    10 (Set-FB)   30       200      400
+
+6 B - Scheme of Assessment (formative and Summative)
+                                                  DURATION OF PROFESSIONAL COURSE
+                   PROFESSIONAL
+  SR.NO.                                    First Term             Second Term                 Third Term
+                      COURSE
+                                           (1-6 Months)            (7-12 Months)             (13-18 Months)
+
+     1          First                    3 PA & First TT         3 PA & Second TT              3 PA & UE
+
+ PA: Periodical Assessment; TT: Term Test; UE: University Examinations
+
+
+
+
+           58    Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+6 C - Calculation Method for Internal assessment Marks (30 Marks)
+                                                                                     TERM               TERM
+                                  PERIODICAL ASSESSMENT*
+                                                                                    TEST**           ASSESSMENT
+                        A          B          C             D           E               F           G         H
+  TERM                                                             Converted to     Term Test      Sub
+                                                                                                            Term
+                     1 (15      2 (15      3 (15      Average           30           (Marks       Total
+                                                                                                          Assessment
+                     Marks)     Marks)     Marks)     (A+B+C/3)       Marks         converted     _/60
+                                                                                                           (…./30)
+                                                                    (D/15)*30)        to 30)      Marks
+ FIRST                                                                                            E+F      (E+F)/2
+ SECOND                                                                                           E+F      (E+F)/2
+ THIRD                                                                                 NIL                    E
+ Final IA                         Average of Three Term Assessment Marks as Shown in ‘H’ Column.
+                     Maximum Marks in Parentheses
+                     *Select an Evaluation Method which is appropriate for the objectives of Topics from the Table 6 D for
+                     Periodic assessment. Conduct 15 marks assessment and enter marks in A, B, and C.
+                     ** Conduct Theory (100 Marks)(MCQ(20*1 Marks), SAQ(8*5), LAQ(4*10)) and Practical (100
+                     Marks)
+                     Then convert to 30 marks.
+
+6 D -Evaluation Methods for Periodical Assessment
+
+     S. No.                                                    Evaluation Methods
+           1.            Activities Indicated in Table 3 - Column G3 as per Indicated I, II or III term in column I3.
+     2.                  Practical / Clinical Performance
+     3.                  Viva Voce, MCQs, MEQ (Modified Essay Questions/Structured Questions)
+     4.                  Open Book Test (Problem Based)
+     5.                  Summary Writing (Research Papers/ Samhitas)
+     6.                  Class Presentations; Work Book Maintenance
+     7.                  Problem Based Assignment
+     8.                  Objective Structured Clinical Examination (OSCE),
+                         Objective Structured Practical Examination (OPSE),
+                         Mini Clinical Evaluation Exercise (Mini-CEX),
+                         Direct Observation of Procedures (DOP),
+                         Case Based Discussion (CBD)
+     9.                  Extra-curricular Activities, (Social Work, Public Awareness, Surveillance Activities, Sports or
+                         Other Activities which may be decided by the department).
+     10.                 Small Project
+     11.                 AyUG-PV Specific
+                         Test on Topics in list of practicals.
+
+
+
+
+                59     Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+6 E- Paper Layout
+                          I PROFESSIONAL BAMS EXAMINATIONS
+                                            AyUG-PV
+Paper-I
+Time: 3 Hours    Maximum Marks: 100
+INSTRUCTIONS: All questions compulsory
+TOTAL MARKS 100
+
+                                                  Number of          Marks per       Total Marks
+                                                   Questions         question
+ Q1     Multiple Choice Questions (MCQ)           20                 1               20
+ Q2     Short answer questions (SAQ)              8                  5               40
+
+ Q3     Long answer questions (LAQ)               4                  10              40
+
+                                                                                     100
+
+                          I PROFESSIONAL BAMS EXAMINATIONS
+                                            AyUG PV
+Paper-II
+Time: 3 Hours    Maximum Marks: 100
+INSTRUCTIONS: All questions compulsory
+TOTAL MARKS 100
+
+                                              Number of         Marks per question         Total Marks
+                                               Questions
+ Q1    Multiple Choice Questions (MCQ)        20                1                          20
+
+ Q2    Short answer questions (SAQ)           8                 5                          40
+
+ Q3    Long answer questions (LAQ)            4                 10                         40
+
+                                                                                           100
+
+
+
+
+        60   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+6 F- Disribution of Theory Exam
+      Paper I                                                                       D
+                                                                             Type of Questions
+                                                                           “Yes” can be asked.
+                                                                       “No” should not be asked.
+      A                                          B         C       MCQ            SAQ            LAQ
+      List of topics                           Term     Marks     (1 mark)      (5 marks)         (10
+                                                                                                 marks)
+ 1    Ayurveda nirupana                          I        25        Yes            Yes            Yes
+ 2    Padartha and darshana nirupana             I                  Yes            Yes            Yes
+ 3.   Dravya vijnaneeyam                        II        48        Yes            Yes            Yes
+ 4.   Guna vijnaneeyam                          II                  Yes            Yes            Yes
+ 5.   Karma vijnaneeyam                         II                  Yes            Yes            Yes
+ 6.   Samanya vijnaneeyam                       III       27        Yes            Yes            Yes
+ 7.   Vishesha vijnaneeyam                      III                 Yes            Yes            Yes
+ 8.   Samavaya vijnaneeyam                      III                 Yes            Yes            No
+ 9    Abhava vijnaneeyam                        III                 Yes            Yes            No
+
+
+      Paper II                                                                     D
+                                                                           Type of Questions
+                                                                          “Yes” can be asked.
+                                                                       “No” should not be asked.
+                          A                      B         C         MCQ            SAQ        LAQ
+                   List of Topics              Term      Marks     (1 Mark)          (5        (10
+                                                                                  Marks)      Marks)
+ 1    Pariksha                                   I                   YES            YES          YES
+                                                          26
+ 2    Aptopdesha Pariksha/Pramana                I                   YES            YES          YES
+ 3.   Pratyaksha Pariksha/Pramana               II                   YES            YES          YES
+                                                          42
+ 4.   Anumanapariksha/Pramana                   II                   YES            YES          YES
+ 5.   Yuktipariksha/Pramana                     III                  YES            YES          NO
+ 6.   UpamanaPramana                            III                  YES            YES          NO
+                                                          32
+ 7.   Karya- Karana Siddhanta                   III                  YES            YES          YES
+
+
+
+
+          61   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+6 G- Question paper blue print
+Paper I –
+ A                  B                                 C
+ Question Sr. No    Type of Question                  Question Paper Format
+ .Q1                Multiple choice Questions                    1. Topic number 1
+                    (MCQ)                                        2. Topic number 2
+                                                                 3. Topic number 3
+                    20 Questions
+                                                                 4. Topic number 4
+                    1 mark each                                  5. Topic number 5
+                                                                 6. Topic number 6
+                    All compulsory                               7. Topic number 7
+                                                                 8. Topic number 8
+                                                                 9. Topic number 9
+                                                                 10. Topic number 2
+                    (Must Know 15 MCQ
+                                                                 11. Topic number 3
+                    Desirable to know 3 MCQ
+                                                                 12. Topic number 4
+                    Nice to know 2 MCQ)
+                                                                 13. Topic number 5
+                                                                 14. Topic number 6
+                                                                 15. Topic number 7
+                                                                 16. Topic number 9
+                                                                 17. Topic number 1
+                                                                 18. Topic number 2
+                                                                 19. Topic number 3
+                                                                 20. Topic number 4
+ Q2                 Short answer Questions                       1. Topic no.1
+                    (SAQ)                                        2. Topic no.2
+                    Eight Questions                              3. Topic no.3
+                    5 Marks Each
+                                                                 4. Topic no.4
+                    All compulsory
+                                                                 5. Topic no.5
+                    (Must know 7 .                               6. Topic no.6/ Topic no.7
+                    Desirable to know 1                          7. Topic no.8/ Topic no.9
+                    No Questions on Nice to know.)               8. Topic no.3/ Topic no.4
+ Q3                 Long answer Questions                        1. Topic no.1/ Topic no.2
+                    (LAQ)
+                                                                 2. Topic no.3
+                    Four Questions
+                    10 marks each                                3. Topic no.4/Topic no.5
+                    All compulsory
+                                                                 4. Topic no.6/ Topic no.7
+                    (All questions on Must to know. No
+                    Questions on
+                    Nice to know and Desirable to know.)
+
+         62   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+Paper II
+ A                   B                                     C
+ Question Sr. No     Type of Question                      Question Paper Format
+ Q1                  Multiple choice Questions                1. Topic number 1
+                     (MCQ)                                    2. Topic number 2
+                                                              3. Topic number 3
+                     20 Questions
+                                                              4. Topic number 4
+                     1 mark each                              5. Topic number 5
+                                                              6. Topic number 6
+                     All compulsory                           7. Topic number 7
+                                                              8. Topic number 1
+                                                              9. Topic number 2
+                                                              10. Topic number 3
+                                                              11. Topic number 4
+                     (Must know 15 MCQ
+                                                              12. Topic number 5
+                     Desirable to know 3 MCQ
+                                                              13. Topic number 6
+                     Nice to know 2 MCQ)
+                                                              14. Topic number 7
+                                                              15. Topic number 1
+                                                              16. Topic number 2
+                                                              17. Topic number 3
+                                                              18. Topic number 4
+                                                              19. Topic number 7
+                                                              20. Topic number 4
+ Q2                  Short answer Questions                   1. Topic no.1
+                     (SAQ)
+                                                              2. Topic no.2
+                     Eight Questions
+                     5 Marks Each                             3. Topic no.3
+                     All compulsory
+                                                              4. Topic no.4
+                                                              5. Topic no.5
+                     (Must know 7 .
+                                                              6. Topic no.6
+                     Desirable to know 1
+                     No Questions on Nice to know.)           7. Topic no.7
+                                                              8. Topic no.3/ Topic no.4
+ Q3                  Long answer Questions                    1. Topic no.1/ Topic no.2
+                     (LAQ)
+                                                              2. Topic no.3
+                     Four Questions
+                     10 marks each                            3. Topic no.4
+                     All compulsory
+                                                              4.   Topic no.7
+                     (All questions on must know
+                     No Questions on Nice to know and
+                     Desirable to know)
+
+
+
+
+           63   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+6 H Distribution of Practical Exam
+Practical – (Practical 100 +Viva 60+Elective 10+ IA 30) =(Total 200 Marks)
+
+
+   SN                                              Heads                                       Marks
+    1     Practical (Total Marks 100)                                                           100
+
+    a.    Spotting ( 4 Spots) Problem based on Principles in PV.                                20
+          Topics
+              1.   Pratyaksha praman/Pratyaksha Badhakar Bhav
+              2.   Vada (Any one)
+              3.   Abhav/Samavay
+              4.   Upaman/Yukti
+
+    b.    Journal of Activity book/ Projects.                                                   20
+          (Viva on journal and communication skill)
+
+    c.    Practical I (10 Marks Each)                                                           30
+              1. Identify panchamahabhoot dominance in the given dravya
+              2. Identify Samanya- Vishesh in the given dravyas
+              3. Identify the Gunas in the given dravyas
+
+              (Use different dravys for different students.)
+    d.    Practical II (Problem based questiones/ Situations)(10 Marks Each)(Any three)         30
+              1. Identify and explain the Karya Karan with types in given problem
+              2. Frame and Write Panchavayav vakya for the given anuman.
+              3. Identify Vyapti, Paksh, Sadhya, Hetu, Pakshadharmata, Sapaksha, Vipaksha in
+                 the give example.
+              4. Identify and explain Hetvabhas in given example.
+              5. Identify the vada applicable in given example.(any one vada.)
+              6. Identify Upama, Sajna- sajni sambhandha in given example.
+
+    2     Viva Voce                                                                             60
+          Recitation of Shloka: 10 marks (sutras in Tarka sangraha, Samhitas, other)
+          Questions on Darshan 10 marks
+          Question on Dravya/ Guna/ Karma. 10 marks
+          Question on Samany/vishesh/samavaya/ Abhav 10 Marks
+          Question on one Praman 10 Marks
+
+
+
+         64   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+          Question on Karya karan bhav 10 Marks.
+    3     Internal Assessment                                                           30
+    4     Electives                                                                     10
+                                                                                       200
+
+7. References /Resourses
+
+                                          Reference Books
+PadarthaVignana books                                        Authorus
+1.    Padarthavigyan                                  Acharya Ramraksha Pathak
+2.    AyurvediyaPadarthaVigyana                       Vaidya Ranjit Rai Desai
+3.    Ayurved Darshana                                Acharya Rajkumar Jain
+4.    PadarthaVigyana                                 Kashikar
+5.    PadarthaVigyana                                 Balwant Shastri
+6.    SankhyatantwaKaumadi                            GajananShastri
+7.    Psycho Pathology in Indian Medicine             Dr. S.P. Gupta
+8.    CharakEvumSushrutkeDarshanik Vishay             Prof.Jyotirmitra Acharya
+9.    AyurvediyaPadarthaVigyana                       Dr. Ayodhya Prasad Achal
+10.   PadarthaVigyana                                 Dr. Vidyadhar Shukla
+11.   Post graduate text book of Samhitha&Sidhanta    Dr P.P.Kirathamoorthy and Dr Anoop AK
+12    Padartha Vigyana                                Dr. Ravidutta Tripathi
+13.   AyurvediyaPadarthaVigyana                       Vaidya Ramkrishna Sharma Dhand
+14.   AyurvediyaPadartha Vigyan Parichaya             Vaidya Banwarilal Gaur
+15.   AyurvediyaPadartha Darshan                      Pandit Shivhare
+16.   Scientific Exposition of Ayurveda               Dr. Sudhir Kumar
+17    Padarthavignana and Ayurveda itihasa            Dr C R Agnives
+18    Essentials of padarthavignana                   Dr Vinodkumar MV
+19    Padarthavignanevam Ayurveda Itihas              Dr RamnihorTapsi Jaiswal
+20.   AyurvediyaPadarthavignana                       Dr C R Agnives
+21    AyurvediyaMoulikaSiddhanta                      Dr V J Thakkar
+
+
+
+
+         65   Padartha Vijnanam, I BAMS(Ayurvedacharya), NCISM
+

@@ -32,6 +32,13 @@ def run_command(cmd):
 
 def git_sync():
     print("🐙 [Git] Synchronizing Vault state...")
+    print("  ⬇️  Pulling latest changes from GitHub...")
+    p_out, p_code = run_command("git pull origin main")
+    if p_code == 0:
+        print("  ✅ Pull Complete.")
+    else:
+        print(f"  ⚠️  Pull failed or nothing to pull: {p_out}")
+
     run_command("git add .")
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     msg = f"Auto-sync: {timestamp}"

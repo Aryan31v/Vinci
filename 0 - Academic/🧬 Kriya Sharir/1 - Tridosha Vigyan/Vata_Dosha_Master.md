@@ -135,3 +135,11 @@
 - **Primary Therapy:** **Basti** (Enema) is the best treatment for Vata.
 - **Diet & Herbs:** Nourishing diet, milk, ghee, and herbs like **Shatavari Kalpa** and **Balarishta** are useful.
 - **Topical:** **Tila Taila** (Sesame oil) is the preferred oil for Vata disorders; *Abhyanga* (oil massage) is recommended.
+
+---
+
+## 🔗 System Connections
+- **Syllabus:** [[0 - Academic/🧬 Kriya Sharir/📊 KS Syllabus Tracker|📊 KS Syllabus Tracker]]
+- **Concept Root:** [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals|Tridosha Fundamentals]]
+- **Visual Map:** [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas|🎨 Vata Dosha Canvas]]
+

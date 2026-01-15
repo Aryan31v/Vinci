@@ -61,17 +61,13 @@ dv.table(
 ```
 
 ## 📅 Daily Focus (Today)
-- [ ]
-- [ ] **Physics Deep Dive:** Apply Spacetime Budget concepts to daily energy management.
-- [ ] **Samhita:** Complete Journal Entry.
-- [ ] **Sanskrit:** Make Slides.
-- [ ] **Samhita:** Complete Journal Entry. (Migrated).
-- [ ] **Sanskrit:** Make Slides. (Migrated).
+- [ ] **[05:30 PM] Shiva Sadhana:** Day 7/11 (108x). **MANDATORY.**
+- [ ] **Journaling:** Complete all pending journal entries for today. #priority
 - [ ] **Physics Deep Dive:** Apply Spacetime Budget concepts to daily energy management.
 
 ## 📂 Vault Map
-- **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]]
-- **The Brain:** [[1 - 🧠 The Construct/🤖 AI Core/⚙️ System Specifications|⚙️ System Specifications]] | [[1 - 🧠 The Construct/🤖 AI Core/📊 Analytics Dashboard|📊 Analytics Dashboard]] | [[1 - 🧠 The Construct/🤖 AI Core/📊 System Analytics & Logs|📊 System Analytics & Logs]] | [[1 - 🧠 The Construct/🤖 AI Core/🤖 Prime Directive|🤖 Prime Directive]] | [[1 - 🧠 The Construct/🤖 AI Core/🧬 Identity Matrix|🧬 Identity Matrix]]
+- **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]] | [[1 - 🧠 The Construct/📜 The Saga/💤 Dream Journal|💤 Dream Journal]] | [[1 - 🧠 The Construct/📊 Social Media Tracker|📊 Social Media Tracker]]
+- **The Brain:** [[1 - 🧠 The Construct/🤖 AI Core/⚙️ System Specifications|⚙️ System Specifications]] | [[1 - 🧠 The Construct/🤖 AI Core/📊 Analytics Dashboard|📊 Analytics Dashboard]] | [[1 - 🧠 The Construct/🤖 AI Core/📊 System Analytics & Logs|📊 System Analytics & Logs]] | [[1 - 🧠 The Construct/🤖 AI Core/🤖 Prime Directive|🤖 Prime Directive]] | [[1 - 🧠 The Construct/🤖 AI Core/🧬 Identity Matrix|🧬 Identity Matrix]] | [[1 - 🧠 The Construct/🎭 Hall of Mirrors/Guide|🎭 Hall of Mirrors]]
 - **Contexts:** [[1 - 🧠 The Construct/🧠 Contexts/⚙️ Context Automation Engineer|⚙️ Context Automation Engineer]] | [[1 - 🧠 The Construct/🧠 Contexts/🎓 Context Academic Tutor|🎓 Context Academic Tutor]] | [[1 - 🧠 The Construct/🧠 Contexts/🎨 Context Muse|🎨 Context Muse]] | [[1 - 🧠 The Construct/🧠 Contexts/🎭 Context Simulator|🎭 Context Simulator]] | [[1 - 🧠 The Construct/🧠 Contexts/🏗️ Context Architect|🏗️ Context Architect]] | [[1 - 🧠 The Construct/🧠 Contexts/📚 Context Librarian|📚 Context Librarian]] | [[1 - 🧠 The Construct/🧠 Contexts/🔬 Context Scholar|🔬 Context Scholar]] | [[1 - 🧠 The Construct/🧠 Contexts/🧘 Context Sage|🧘 Context Sage]]
 - **Blueprints:** [[The Blueprints/🎓 Master Study Template|🎓 Master Study Template]] | [[The Blueprints/🏷️ Tagging Standard|🏷️ Tagging Standard]] | [[The Blueprints/📚 Scholar Note Standard|📚 Scholar Note Standard]] | [[The Blueprints/🔥 Protocol True Learning|🔥 Protocol True Learning]] | [[The Blueprints/🧠 Deep Dive Project Template|🧠 Deep Dive Project Template]]
 - **The Academy:** [[0 - Academic/🎓 BAMS Master Dashboard|🎓 BAMS Master Dashboard]]

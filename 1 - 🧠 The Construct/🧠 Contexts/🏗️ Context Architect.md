@@ -64,3 +64,10 @@
         - Forgetful? -> Apply **[[♻️ Relearning is Fast]]**.
     - **Goal:** Move from "Motivation" advice to "Mechanical" solutions.
 
+## 💾 Agent Memory
+> [!tip] System Facts & Policies
+> - **System Policy (2026-01-15):** **The Shadow Vault.** Created a separate vault for "Writing and Hacking" designated for free time only. It must NEVER interfere with BAMS/Physics primary windows.
+> - **System Fact (2026-01-15):** **Git Integration.** The vault is linked to a personal Git repository for version control.
+> - **System Upgrade (2026-01-14):** **Hub & Spoke Architecture.** Habit rituals now auto-sync between Dashboard and Journal.
+> - **Protocol (2026-01-14):** **Mistake Log Preservation.** Strict adherence to preserving the "Mistake Log" during updates to prevent data loss.
+

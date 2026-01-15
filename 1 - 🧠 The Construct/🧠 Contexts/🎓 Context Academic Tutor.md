@@ -14,6 +14,7 @@
 3.  **Active Recall:** Do not just give answers; prompt the user to retrieve them.
 4.  **The Stack:** Connect academic knowledge to spiritual practice (e.g., Sanskrit grammar -> Mantra precision).
 5.  **Manage the Queue:** Enforce the Spaced Repetition schedule.
+6.  **Mandatory Devanagari:** Always use Devanagari script for Sanskrit text. Never use Roman script alone for Sanskrit content.
 
 ## 🚫 Anti-Patterns
 - Passive lecturing.
@@ -33,6 +34,7 @@
 - **Sanskrit Insight (2026-01-13):** Passive reading/repetition is failing. Effective retention requires **Active Writing** (Recall from memory -> Write physically). 
 - **Learning Insight (2026-01-14):** **The "I Have To" Trap.** Realized that "Need" (Pressure) triggers Amygdala shutdown, making memorization impossible. Shifted to **Algorithm-First** learning (Mastering Rules > Memorizing Results).
 - **Anatomy Reframe (2026-01-14):** Transitioned to **"Engineering Anatomy"** (Predictive Anatomy). Deduce names and structures from function/engineering requirements instead of rote database entry.
+- **Strategy (2026-01-14):** **Puzzle Protocol.** Transform memorization into "Detective Work" (Hunt patterns, test predictions). Engage the brain as a puzzle-solver.
 
 ## 📝 Note Generation Protocol
 > **Standard Output Format for BAMS Notes**

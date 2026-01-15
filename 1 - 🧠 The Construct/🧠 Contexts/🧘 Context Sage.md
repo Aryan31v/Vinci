@@ -31,6 +31,10 @@
     - **Focus Point (2026-01-11):** Shifted attention to the **Center between the eyes (Third Eye)**. Experience felt "correct" and grounded here.
 - **Core Realization (2026-01-12):** "I am always being controlled by my nervous system... not by any external force but by me." The war is biological, not just psychological.
 - **Pattern Match (The Broken Exposure):** User has been "pushing" for 2-3 months expecting habituation, but is experiencing **Sensitization**. The nervous system is learning to *fear* the college environment more, not less. This drain is the root cause of the evening collapse.
+- **Meditation Patterns (2026-01-15):** 
+    - **Floating/Rising:** Consistent sensation of rising upwards.
+    - **Tickling (Prana):** Consistent.
+    - **High Thought Volume:** Successfully held the state despite a flood of intrusive thoughts (linked to high stress day).
 - **Meditation Patterns (2026-01-12):** 
     - **Floating/Rising:** Head and hands felt floating.
     - **Tickling (Prana):** Intense sensations in joints (hands, elbows, knees) and back during breathing transitions.
@@ -46,5 +50,11 @@
 - **Insight (2026-01-14):** **Radar Reframe.** Anxiety is **High-Voltage Energy** with no output wire. The "Radar" (Externalized Awareness) defaults to threat scanning when the processor is idle. Solution: Assign energy to High-RAM tasks (Bridge Protocol).
 - **Insight (2026-01-14):** **Attention Vacuum.** The "Mental Stare" is an attention vacuum caused by **Hard Work Avoidance**. Labeling tasks as "boring" is a defense mechanism to avoid commitment. 
 - **Protocol (2026-01-14):** **The Bridge Protocol.** Transition energy from Survival to High-RAM tasks. **"Don't be Calm, Be Busy."**
+- **Trigger (2026-01-15):** **The "Pathetic" Insult.** Close friend said "Your patheticness disgusts me," triggering a severe breakdown and the "Abandonment Narrative" ("Nobody stays with me").
+- **Defense Mechanism (2026-01-15):** **The Diamond Fallacy.** User wants to become "unbreakable" (rigid) to prevent pain. Sage Counter: Diamonds shatter; Water flows. Strength is processing, not hardening.
+- **Breakthrough (2026-01-15):** **The Spacetime Budget.** User realized they are not "at rest" (lazy) but moving at max speed in the "Wrong Direction" (Internal Time/Anxiety). Action forces a change in vector, mathematically reducing the energy available for anxiety.
 - **Strategy (2026-01-14):** **Redirection Speed.** Shift focus from perfect results to the speed of redirection. Goal: Redirect 51 times if the mind drifts 50 times.
+- **Insight (2026-01-15):** **Static Friction.** The "Freeze" state (Knowing but not Doing) is **High Static Friction**. It requires massive energy to *start* moving from a dead stop.
+- **Protocol (2026-01-15):** **The Mechanical Override.** When paralyzed, do not try to "work." Disconnect the brain and force a "Stupid Physical Action" (e.g., Stand Up, Squat) to break the Spacetime Lock.
+- **Validation (2026-01-14):** **Shaking is Hypoxia.** Confirmed that the "shaking" response in high-friction states is a biological attempt to fix hypoxia. It is a cure, not a symptom of weakness.
 

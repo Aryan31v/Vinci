@@ -35,3 +35,10 @@ Once you understand the **Bio-Machine**, we will graduate to **Hardware**.
 
 **Scholar's Note:** This IS Physics. It is **Applied Physics**.
 Biology is just Physics that learned to replicate.
+
+---
+
+## 🔗 System Connections
+- **Parent Node:** [[1 - 🧠 The Construct/🔬 The Scholar's Study/0 - Physics/0 - Core Concepts/🌌 The Physics Map|🌌 The Physics Map]]
+- **Academic Application (Physiology):** [[0 - Academic/🧬 Kriya Sharir/📊 KS Syllabus Tracker|🧬 Kriya Sharir Tracker]]
+- **Academic Application (Anatomy):** [[0 - Academic/🦴 Rachana Sharir/📊 RS Syllabus Tracker|🦴 Rachana Sharir Tracker]]

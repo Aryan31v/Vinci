@@ -9,22 +9,42 @@
 
 ### 🧠 Mind Stream
 > [!energy] Status Check
-> **Energy:** [?/10] | **Mood:** [?/10]
+> **Energy:** [4/10] | **Mood:** [5/10]
 
 > [!abstract] Random Thoughts
 > - `[08:00 AM]` **Morning Protocol:** System initialized via Morning Cron. Shiva Sadhana Day 7/11 verified.
+> - `[11:10 AM]` **System Update:** 
+>     - **The Late Start:** Woke up and started the day at 9:00 AM. Feeling "lazy" and slightly ill, but committed to the work.
+>     - **Version Control:** Successfully linked the vault with a personal Git repository for universal access. #system/upgrade
+>     - **The Shadow Vault:** Created a separate vault for "Writing and Hacking" outside the main system. This is designated for free time only to prevent interference with BAMS/Physics.
+>     - **Trajectory Check:** Despite the late start, maintaining the "correct way" by continuing the append-first protocol.
+>     - **Status:** Today is the final free day before college resumes tomorrow. #status
+> - `[11:25 AM]` **Task Execution:** Completed the Sanskrit Project Final Slides and updated the Samhita Journal. #win #academic
+- `[04:38 PM]` **The Temple & The Emotional Crash:**
+    - **Context:** Visited a temple yesterday; felt good. Returned late (9 PM), did Sadhana/Meditation, but then slipped into "organizing procrastination" until 2 AM.
+    - **Current State:** Feeling "really not okay." A close friend said, *"Your patheticness disgusts me."* This led to a breakdown and crying on a Gemini call to release pressure.
+    - **Narrative Shift:** "I need to conquer the mental health of a diamond which can never be broken." Feeling isolated ("nobody stays with me for long") but determined to improve.
+    - **System Drift:** Created two new vaults (Hacking & Writing) during Git setup—acknowledged as more "organizing" instead of "doing."
+    - **Academic Pressure:** 15th Jan today. **Only 45 days remaining for exams.** "I need to go hard on myself otherwise I will fail."
+    - `[05:23 PM]` **Meditation Log (23 Mins):**
+    - **Experience:** High thought volume ("thoughts were too much") but maintained the state.
+    - **Sensations:** Experienced both **Floating** and **Tickling** (Prana).
+    - **Verdict:** Depth maintained despite mental noise. Successfully finished.
 
 ### 📋 Action Plan
 > [!todo] To-Do List
-- [ ] **[05:30 PM] Shiva Sadhana:** Day 7/11 (108x). **MANDATORY.**
+- [x] **[05:00 PM] Meditation:** Mental reset. (23 Mins). #win
+- [x] **[05:30 PM] Shiva Sadhana:** Day 7/11 (108x). #win
+- [ ] **Samhita Journal:** Finish entry. #priority
+- [x] **Sanskrit Project:** Finish the project. #win
+- [ ] **Journaling:** Complete all pending journal entries for today. #priority
 - [ ] **Physics Deep Dive:** Apply Spacetime Budget concepts to daily energy management.
-- [ ] **Samhita:** Complete Journal Entry.
-- [ ] **Sanskrit:** Make Slides.
+- [x] **Sanskrit:** Make Slides. #win
 
 ---
 
 
-## 📅 Wednesday, 14 (Today)
+## 📅 Wednesday, 14
 > [!quote] Daily Focus
 > *Trial of You vs You: Day 6. | Shiva Sadhana: Day 6/11.*
 
@@ -428,7 +448,7 @@ for (let p of protocols) {
 
 ### 🔄 Spaced Repetition (Memory)
 > [!tip] Review Queue
-> - [x] `[12:28 PM]` **Sanskrit:** Review the 5 Shabd Roop from [[0 - Academic/Sanskrit/Shabdaroopa#2026-01-08|Jan 08]].
+> - [x] `[12:28 PM]` **Sanskrit:** Review the 5 Shabd Roop from [[🗂️ Shabdaroopa]].
 > - [x] `[12:58 PM]` **Sanskrit:** Memorize *Next 5* Shabd Roop.
 
 ### 📋 Action Plan
@@ -452,7 +472,7 @@ for (let p of protocols) {
 
 ### 📋 Action Plan
 > [!todo] To-Do List
-> - [x] `[16:00]` **Sanskrit Shabd Roop (Memory Session)** [[0 - Academic/Sanskrit/Shabdaroopa#2026-01-08|↗️]]
+> - [x] `[16:00]` **Sanskrit Shabd Roop (Memory Session)** [[🗂️ Shabdaroopa]]
 >     - **Time:** 15:45 - 16:00 (15 mins active).
 >     - **Performance:**
 >         - *Pre-break:** Only 1 correct. High error rate.

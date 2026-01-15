@@ -12,16 +12,16 @@
 ## 📅 TERM I
 *Goal: Phonetics, Early Grammar, and Ancient History*
 
-| Topic | Category | MCQ | SAQ | LAQ | Status | Note Link |
-| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
-| **1. Varna Parichaya** | Phonetics | 1 | ❌ | ❌ | ⚪ | |
-| **2.1 Sanjna** (Basic) | Grammar | 1 | ❌ | ❌ | ⚪ | |
-| **5. Karaka (Part A)** | Case Syntax | 1 | 5 | 10 | ⚪ | |
-| **8. Shabdaroopa** | Declensions | ❌ | 5 | 10 | 🟡 In Progress | [[0 - Academic/Sanskrit/Shabdaroopa\|Master Note]] |
-| **9. Dhaturoopa** | Conjugations | ❌ | 5 | 10 | ⚪ | |
-| **Nirukti / Paribhasha (A)**| Medical Terms| ❌ | 5 | 10 | ⚪ | |
-| **Anvaya Writing (A)** | AH Su. 1-3 | ❌ | 5 | 10 | ⚪ | |
-| **Itihas (1-3)** | Ancient History| 1 | ❌ | ❌ | ⚪ | |
+| Topic                        | Category        | MCQ | SAQ | LAQ | Status         | Note Link           |
+| :--------------------------- | :-------------- | :-: | :-: | :-: | :------------- | :------------------ |
+| **1. Varna Parichaya**       | Phonetics       |  1  |  ❌  |  ❌  | ⚪              |                     |
+| **2.1 Sanjna** (Basic)       | Grammar         |  1  |  ❌  |  ❌  | ⚪              |                     |
+| **5. Karaka (Part A)**       | Case Syntax     |  1  |  5  | 10  | ⚪              | [[0 - Academic/🕉️ Sanskrit/📚 Grammar/🗂️ Vibhakti Notes\|🗂️ Vibhakti Notes]] |
+| **8. Shabdaroopa**           | Declensions     |  ❌  |  5  | 10  | 🟡 In Progress | [[0 - Academic/🕉️ Sanskrit/📚 Grammar/🗂️ Shabdaroopa\|🗂️ Shabdaroopa]] |
+| **9. Dhaturoopa**            | Conjugations    |  ❌  |  5  | 10  | ⚪              |                     |
+| **Nirukti / Paribhasha (A)** | Medical Terms   |  ❌  |  5  | 10  | ⚪              |                     |
+| **Anvaya Writing (A)**       | AH Su. 1-3      |  ❌  |  5  | 10  | ⚪              |                     |
+| **Itihas (1-3)**             | Ancient History |  1  |  ❌  |  ❌  | ⚪              |                     |
 
 ---
 
@@ -33,9 +33,9 @@
 | **2.2 Sanjna** (Brief) | Grammar | 1 | ❌ | ❌ | ⚪ | |
 | **3. Upasarga** | Prefixes | ❌ | 5 | ❌ | ⚪ | |
 | **4. Avyaya (Part B)** | Indeclinables | ❌ | 5 | ❌ | ⚪ | |
-| **5. Karaka (Part B)** | Case Syntax | 1 | 5 | 10 | ⚪ | |
+| **5. Karaka (Part B)** | Case Syntax | 1 | 5 | 10 | ⚪ | [[0 - Academic/🕉️ Sanskrit/📚 Grammar/🗂️ Vibhakti Notes\|🗂️ Vibhakti Notes]] |
 | **6. Sandhi** | Conjunctions | ❌ | 5 | 10 | ⚪ | |
-| **7. Samasa** | Compounds | ❌ | 5 | 10 | ⚪ | |
+| **7. Samasa** | Compounds | ❌ | 5 | 10 | ⚪ | [[0 - Academic/🕉️ Sanskrit/📚 Grammar/🧶 Samasa Notes\|🧶 Samasa Notes]] |
 | **10. Pratyaya** | Suffixes | 1 | 5 | 10 | ⚪ | |
 | **11. Visheshana** | Adjectives | 1 | 5 | 10 | ⚪ | |
 | **Nirukti / Paribhasha (B)**| Medical Terms| ❌ | 5 | 10 | ⚪ | |
@@ -68,7 +68,7 @@
 ## 📚 RESOURCES
 - **Syllabus Source:** `0 - Academic/📚 BAMS Resources/Sanskrit_Syllabus_Raw.txt`
 - **Textbooks:** Ashtanga Hridaya Sutrasthana, Vaidyakiya Subhashita Sahityam.
-- **Active Project:** [[0 - Academic/Sanskrit/📽️ Sanskrit Project|📽️ Sanskrit Project]]
+- **Active Project:** [[0 - Academic/🕉️ Sanskrit/📽️ Projects/📽️ Sanskrit Project\|📽️ Sanskrit Project]]
 
 ---
 #learning #sanskrit #history #syllabus

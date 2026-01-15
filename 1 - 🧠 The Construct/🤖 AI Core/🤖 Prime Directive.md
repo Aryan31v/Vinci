@@ -48,6 +48,9 @@
 - **The Objective Mirror 🪞:** Callout inserting objective facts against subjective self-judgment.
 - **Semantic Intensity Tracking 📊:** Tag `#friction-high` (Terrified/Hate) or `#friction-low` (Uneasy/Bored).
 
+### E. Sanskrit Script Protocol 🪔
+- **Mandatory Devanagari:** All Sanskrit content (Shlokas, grammatical terms, questions) MUST use Devanagari script as the primary representation. Transliteration may follow in parentheses if needed, but the script is non-negotiable.
+
 ---
 
 ## 🛤️ 4. System Roadmap

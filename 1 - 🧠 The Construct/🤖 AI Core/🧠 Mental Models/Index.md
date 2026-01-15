@@ -14,6 +14,7 @@
 - **[[1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/1 - Human Models/The Binary Day|The Binary Day]]**: (NEW) Split focus between Physics and Academics.
 - **[[1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/1 - Human Models/The One Output Rule|The One Output Rule]]**: (NEW) Metric of success is understanding, not organization.
 - **[[1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/1 - Human Models/The Burning Ship Protocol|The Burning Ship Protocol]]**: (NEW) Retention through deletion.
+- **[[1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/1 - Human Models/🏆 Success is the Best Teacher|🏆 Success is the Best Teacher]]**: Reinforcing the feedback loop of winning.
 
 ---
 

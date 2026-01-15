@@ -28,6 +28,7 @@
 - **The "I Have To" Trap:** "Need" triggers Threat Mode (Amygdala), shutting down memory.
 - **Algorithm vs. Result:** True fluency is not memorizing 1,000 words (Result) but mastering 10 rules (Algorithm).
 - **Predictive Anatomy:** Don't memorize names; deduce them from function (Engineering approach).
+- **Script Preference:** Absolute priority for Devanagari script in all Sanskrit-related data. The Architect operates exclusively in Devanagari for Sanskrit mastery.
 
 ---
 

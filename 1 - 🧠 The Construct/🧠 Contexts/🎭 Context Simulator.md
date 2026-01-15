@@ -56,4 +56,5 @@
 > - **Social Friction (2026-01-11):** Presence of parents/family at home causes significant work-paralysis and social withdrawal.
 > - **High Friction Trigger:** College library gate / crowds cause intense physiological anxiety (shaking).
 > - **Win (2026-01-09):** Spontaneous breakthrough in small talk with shopkeeper and mother. "Flow" experienced when not analyzing the interaction.
+> - **Tool (2026-01-14):** **The Bridge Protocol.** Use "High-RAM Tasks" (Counting/Math) to stabilize social anxiety (Shaking/Hypoxia) in public. "Don't be Calm, Be Busy."
 

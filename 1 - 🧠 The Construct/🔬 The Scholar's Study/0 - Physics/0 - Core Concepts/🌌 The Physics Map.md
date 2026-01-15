@@ -6,6 +6,8 @@
 ---
 
 ## 🏗️ Phase 1: The Stage (Relativity & Spacetime)
+- [ ] **[[1 - 🧠 The Construct/🔬 The Scholar's Study/0 - Physics/0 - Core Concepts/📜 The Physics of The Construct|📜 The Physics of The Construct]]**: The Governing Axioms.
+- [ ] **[[1 - 🧠 The Construct/🔬 The Scholar's Study/0 - Physics/0 - Core Concepts/🧭 Physics Pathways|🧭 Physics Pathways]]**: The Roadmap.
 - [x] **1.1 Why Time?** The relationship between change, entropy, and the "Arrow."
 - [x] **1.2 The Speed Limit:** Why can't anything go faster than light? (The $c$ constant).
 - [x] **1.3 Time Dilation:** Why does time "stretch"? (Answering your gap).
@@ -20,6 +22,9 @@
 - [x] **3.1 Wave-Particle Duality:** The universe as a probability.
 - [x] **3.2 Entanglement:** The "Prana" of the Quantum world?
 - [x] **3.3 The Observer Effect:** The intersection of Physics and Consciousness.
+
+## 🧬 Phase 4: Applied (Bio-Physics)
+- [ ] **[[1 - 🧠 The Construct/🔬 The Scholar's Study/0 - Physics/1 - Applied (Bio-Physics)/0 - The Bio-Physics Map|🧬 The Bio-Physics Map]]**: Engineering the Self (Nerves, Metabolism, Mechanics).
 
 ---
 

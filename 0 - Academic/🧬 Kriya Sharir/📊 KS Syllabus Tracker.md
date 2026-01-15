@@ -15,7 +15,7 @@
 | Paper | Topic | Marks | MCQ | SAQ | LAQ | Status | Note Link |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | **I** | **1. Sharir & 2. Basic Principles** | 08 | 1 | 5 | ❌ | ⚪ | |
-| **I** | **3. Tridosha / 4. Vata / 5. Pitta** | 26 | 1 | 5 | 10 | 🟡 | [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals.canvas\|🎨 Canvas]] |
+| **I** | **3. Tridosha / 4. Vata / 5. Pitta** | 26 | 1 | 5 | 10 | 🟡 | [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas\|🎨 Vata Canvas]] <br> [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master|📝 Vata Master]] <br> [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals|🌐 Fundamentals]] |
 | **I-B** | **1. Physiology Homeostasis** | -- | 1 | 5 | 10 | ⚪ | |
 | **II** | **1. Dhatu / 2. Rasa / 3. Rakta** | 18 | 1 | 5 | 10 | ⚪ | |
 | **II** | **4. Mamsa / 5. Meda** | -- | 1 | 5 | 10 | ⚪ | |

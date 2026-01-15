@@ -6,7 +6,7 @@
 ## 🏗️ Academic Core
 | Subject | Tracker | Status |
 | :--- | :--- | :--- |
-| **Sanskrit & Itihas** | [[0 - Academic/Sanskrit/📊 Sanskrit Syllabus Tracker\|📊 Tracker]] | 🟢 Active |
+| **Sanskrit & Itihas** | [[0 - Academic/🕉️ Sanskrit/📊 Sanskrit Syllabus Tracker\|📊 Tracker]] | 🟢 Active |
 | **Padartha Vigyan** | [[0 - Academic/⚛️ Padartha Vigyan/📊 PV Syllabus Tracker\|📊 Tracker]] | 🟢 Active |
 | **Kriya Sharir** | [[0 - Academic/🧬 Kriya Sharir/📊 KS Syllabus Tracker\|📊 Tracker]] | 🟢 Active |
 | **Rachana Sharir** | [[0 - Academic/🦴 Rachana Sharir/📊 RS Syllabus Tracker\|📊 Tracker]] | 🟢 Active |

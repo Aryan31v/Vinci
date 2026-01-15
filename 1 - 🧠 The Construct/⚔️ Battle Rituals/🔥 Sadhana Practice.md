@@ -42,7 +42,7 @@ dv.paragraph(`**Status:** ${percent >= 100 ? "✅ COMPLETE" : "🔥 ACTIVE"}`);
 ### 🧘‍♂️ Method
 1.  **Posture:** Sit in your fixed spot, spine straight.
 2.  **Chant:** Silently in your mind (Manasik Japa). 108 Repetitions.
-3.  **Visualization:** Use the detailed [[🧘 Mantra Visualization Guide|Mental Chanting Guide]] for the "Third Eye Tap" technique.
+3.  **Visualization:** Use the detailed [[🧘 Meditation|Mental Chanting Guide]] for the "Third Eye Tap" technique.
 4.  **Closing:** Sit in silence for 2-5 minutes to absorb energy. Bow in gratitude.
 
 ### 🛠️ Technique & Protocols
@@ -130,4 +130,6 @@ dv.paragraph(`**Status:** ${percent >= 100 ? "✅ COMPLETE" : "🔥 ACTIVE"}`);
 | Sat  | ✅           | ⬜             | ⬜         | Session 2: Lost count, did extra. Discipline > Focus.   |
 | Sun  | ✅           | ⬜             | ⬜         | Session 3: Found Rhythm & Third Eye anchor.             |
 | Mon  | ✅           | ⬜             | ⬜         | Session 4: Broca's Shutdown & Tickling (Prana Sanchar). |
-| Tue  | ⬜           | ⬜             | ⬜         | Session 5:                                              |
+| Tue  | ✅           | ⬜             | ⬜         | Session 5: Ajna Pulse & Intense Pressure.               |
+| Wed  | ✅           | ⬜             | ⬜         | Session 6: Late Night Session (Temple Return).         |
+| Thu  | ✅           | ⬜             | ⬜         | Session 7: Done with Meditation. Floating sensation.    |

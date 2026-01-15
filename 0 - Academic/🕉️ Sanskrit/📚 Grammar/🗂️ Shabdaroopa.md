@@ -120,9 +120,9 @@ status: 🟡 In Progress
 ---
 
 ## 🔗 SYSTEM WIRING
-- **Subject Tracker:** [[0 - Academic/Sanskrit/📊 Sanskrit Syllabus Tracker|Sanskrit Tracker]]
+- **Subject Tracker:** [[📊 Sanskrit Syllabus Tracker]]
 - **Lexicon:** [[1 - 🧠 The Construct/🔮 Arcane Knowledge/🌐 The Global Lexicon|🌐 The Global Lexicon]]
-- **Anki Deck:** [[0 - Academic/🗂️ Anki Decks/Shabdaroopa.apkg|Shabdaroopa Anki Deck]]
+- **Anki Deck:** [[🗂️ Shabdaroopa|Shabdaroop Anki Deck]]
 - **Last Generated:** 2026-01-11
 
 ---

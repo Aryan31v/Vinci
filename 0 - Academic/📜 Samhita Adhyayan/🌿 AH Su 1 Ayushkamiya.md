@@ -58,7 +58,6 @@ status: 🟡 In Progress
 ## 🔗 SYSTEM WIRING
 - **Subject Tracker:** [[0 - Academic/📜 Samhita Adhyayan/📊 SA Syllabus Tracker]]
 - **Lexicon:** [[1 - 🧠 The Construct/🔮 Arcane Knowledge/🌐 The Global Lexicon]]
-- **Anki Deck:** [[0 - Academic/🗂️ Anki Decks/AH_Su_1_Ayushkamiya.apkg]]
 
 ---
 #academic #bams #study-note #insight #samhita

@@ -1,5 +1,5 @@
 # 🕉️ Sanskrit Shloka Project
-> [!info] **Context:** This project covers Shlokas 13 to 18, detailing the effects of exercise, the benefits of massage, and the protocols for bathing.
+> [!info] **Context:** This project covers Shlokas 13 to 18 of **Ashtanga Hridaya Sutrasthana Chapter 2 ([[0 - Academic/📜 Samhita Adhyayan/🌿 AH Su 2 Dinacharya Journal|Dinacharya]])**, detailing the effects of exercise, the benefits of massage, and the protocols for bathing.
 
 ---
 
@@ -163,6 +163,8 @@
 ---
 
 ## 📚 Resources & Tables
-- [[Shabdaroopa]] (Declension Tables)
+- [[0 - Academic/🕉️ Sanskrit/📚 Grammar/🗂️ Shabdaroopa|🗂️ Shabdaroopa]] (Declension Tables)
+- [[0 - Academic/🕉️ Sanskrit/📽️ Projects/📽️ Sanskrit Project Final Slides|📽️ Final Slides]]
+- **Concept Link:** [[0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals|Tridosha Fundamentals]] (Relevant to Shloka 15 "Kaphaharam")
 
 

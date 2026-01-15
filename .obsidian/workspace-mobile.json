@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34b019a23eddd9a9",
+        "id": "73c37e4200ef909d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a56e6041b058f7b",
+            "id": "545f95ad02b4aca2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
-                "viewState": {
-                  "x": 14.232292511894798,
-                  "y": -196.18476619442606,
-                  "zoom": -1.904676740000564
-                }
+                "file": "0 - 🌌 Central Command.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Vata_Dosha_Master"
+              "icon": "lucide-file",
+              "title": "0 - 🌌 Central Command"
             }
           }
         ]
@@ -147,7 +144,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,7 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "google-drive-sync:Push to Google Drive": false,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -180,58 +175,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3a56e6041b058f7b",
+  "active": "545f95ad02b4aca2",
   "lastOpenFiles": [
-    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.md",
-    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals.md",
-    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals.canvas",
-    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
-    "1 - 🌀 Chaos Stream.md",
-    "1 - 🧠 The Construct/📊 Social Media Tracker.md",
-    "1 - 🧠 The Construct/🤖 AI Core/⚙️ System Specifications.md",
-    "1 - 🧠 The Construct/🤖 AI Core/📊 System Analytics & Logs.md",
-    "1 - 🧠 The Construct/🤖 AI Core/🤖 Agent_Audit_Log.md",
-    "1 - 🧠 The Construct/⚔️ Battle Rituals/⚔️ The Bridge Protocol.md",
-    "1 - 🧠 The Construct/📜 The Saga/2026-01-January.md",
-    "1 - 🧠 The Construct/🧠 Contexts/🔬 Context Scholar.md",
-    "The Blueprints/🔥 Protocol True Learning.md",
-    "0 - 🌌 Central Command.md",
     "2 - 🧩 Input Stream.md",
-    "1 - 🧠 The Construct/🔮 Arcane Knowledge/🌐 The Global Lexicon.md",
-    "1 - 🧠 The Construct/⚔️ Battle Rituals/🎓 Tolerance Training.md",
-    "1 - 🧠 The Construct/⚔️ Battle Rituals/🏷️ The Labeling Protocol.md",
+    "1 - 🌀 Chaos Stream.md",
+    "0 - 🌌 Central Command.md",
+    "1 - 🧠 The Construct/🔬 The Scholar's Study/Index.md",
+    "1 - 🧠 The Construct/🎭 Hall of Mirrors/Light/Index_Light.md",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/Index.md",
     "1 - 🧠 The Construct/⚔️ Battle Rituals/🔥 Sadhana Practice.md",
-    "1 - 🧠 The Construct/⚔️ Battle Rituals/🧘 Meditation.md",
-    "The Blueprints/🔥 Protocol Deep Dive.md",
-    "1 - 🧠 The Construct/🔬 The Scholar's Study/🧠 The Psychology of Letting Go.md",
-    "1 - 🧠 The Construct/🔬 The Scholar's Study/🤖 AI Use Cases for Professionals.md",
-    "1 - 🧠 The Construct/🧠 Contexts/🏗️ Context Architect.md",
-    "1 - 🧠 The Construct/2 - 🧩 Input Stream/YT_Scopaesthesia_challenges_the_limits_of_consciousness__Rupert_Sheldrake__IAI.md",
-    "1 - 🧠 The Construct/2 - 🧩 Input Stream",
-    "temp_trans.en.vtt",
-    "temp_trans.en.vtt.part",
-    "0 - Academic/Index.md",
-    "0 - Academic/🎓 BAMS Master Dashboard.md",
-    "0 - Academic/📚 BAMS Resources/Sanskrit_Syllabus_Raw.txt",
-    "0 - Academic/📚 BAMS Resources/SA_Syllabus_Raw.txt",
-    "0 - Academic/📚 BAMS Resources/RS_Syllabus_Raw.txt",
-    "0 - Academic/📚 BAMS Resources/PV_Syllabus_Raw.txt",
-    "0 - Academic/📚 BAMS Resources/KS_Syllabus_Raw.txt",
-    "0 - Academic/📚 BAMS Resources",
-    "Archive/PDFs/NCiSM_I BAMS_Ay UG-SA1.pdf",
+    "1 - 🧠 The Construct/📜 The Saga/2026-01-January.md",
+    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Tridosha Fundamentals.canvas",
+    "1 - 🧠 The Construct/🔬 The Scholar's Study/0 - Physics/1 - Applied (Bio-Physics)/0 - The Bio-Physics Map.md",
+    "0 - Academic/🕉️ Sanskrit/📚 Grammar/🗂️ Shabdaroopa.md",
+    "0 - Academic/🕉️ Sanskrit/🗂️ Shabdaroopa.md",
+    "0 - Academic/🕉️ Sanskrit/📽️ Sanskrit Project Final Slides.md",
+    "0 - Academic/🕉️ Sanskrit/📽️ Sanskrit Project.md",
+    "0 - Academic/🕉️ Sanskrit/🧶 Samasa Notes.md",
+    "0 - Academic/🕉️ Sanskrit/🗂️ Vibhakti Notes.md",
+    "0 - Academic/🕉️ Sanskrit/📊 Sanskrit Syllabus Tracker.md",
+    "1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/1 - Human Models/📈 Knowledge Grows Exponentially.md",
+    "0 - Academic/🕉️ Sanskrit",
+    "1 - 🧠 The Construct/⚔️ Battle Rituals/🎓 Tolerance Training.md",
+    "1 - 🧠 The Construct/🤖 AI Core/🤖 Agent_Audit_Log.md",
+    "0 - Academic/Sanskrit/📊 Sanskrit Syllabus Tracker.md",
+    "0 - Academic/Sanskrit/🗂️ Shabdaroopa.md",
+    "0 - Academic/📜 Samhita Adhyayan/🌿 AH Su 1 Ayushkamiya.md",
+    "0 - Academic/Sanskrit/📽️ Sanskrit Project.md",
+    "0 - Academic/🗂️ Anki Decks/Sanskrit_Vibhakti.apkg",
+    "0 - Academic/🗂️ Anki Decks/Sanskrit_Shabdaroopa.apkg",
+    "0 - Academic/🗂️ Anki Decks/Sanskrit_Samasa.apkg",
+    "0 - Academic/Anki Decks/Sanskrit_Samasa.apkg",
+    "0 - Academic/Anki Decks/Sanskrit_Shabdaroopa.apkg",
+    "0 - Academic/Anki Decks/Sanskrit_Vibhakti.apkg",
+    "0 - Academic/Anki Decks",
+    "scripts/generate_sanskrit_deck.py",
+    "0 - Academic/Sanskrit/🗂️ Vibhakti Notes.md",
+    "0 - Academic/Sanskrit/🧶 Samasa Notes.md",
+    "0 - Academic/Sanskrit/📽️ Sanskrit Project Final Slides.md",
+    "Recording 20260115164524.m4a",
+    "0 - Academic/🧬 Kriya Sharir/1 - Tridosha Vigyan/Vata_Dosha_Master.canvas",
+    "IMG-20251121-WA0005 1.jpg",
+    "IMG-20251121-WA0006.jpg",
+    "IMG-20251121-WA0002.jpg",
+    "IMG-20251121-WA0000.jpg",
+    "IMG-20251121-WA0007.jpg",
+    "IMG-20251121-WA0005.jpg",
     "ks_p54_75-075.png",
     "ks_p54_75-074.png",
     "ks_p54_75-073.png",
     "ks_p54_75-072.png",
-    "ks_p54_75-071.png",
-    "ks_p54_75-070.png",
-    "ks_p54_75-069.png",
-    "ks_p54_75-068.png",
-    "ks_p54_75-067.png",
-    "ks_p54_75-066.png",
     "0 - Academic/🦴 Rachana Sharir/1 - Osteology/Clavicle.canvas",
     "0 - Academic/🦴 Rachana Sharir/1 - Osteology/Clavicle_v2.canvas"
   ]

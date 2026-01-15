@@ -18,7 +18,7 @@
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
 | **Intro** | **Introduction to Samhita** | -- | ❌ | ❌ | ❌ | ⚪ | |
 | **AH Su.1** | **Ayushkamiya** | 50 (set) | 1 | 5 | 10 | 🟡 | [[0 - Academic/📜 Samhita Adhyayan/🌿 AH Su 1 Ayushkamiya\|🌿 Notes]] |
-| **AH Su.2** | **Dinacharya** | -- | 1 | 5 | 10 | ⚪ | |
+| **AH Su.2** | **Dinacharya** | -- | 1 | 5 | 10 | 🟡 | [[0 - Academic/📜 Samhita Adhyayan/🌿 AH Su 2 Dinacharya Journal\|🌿 Notes]] |
 | **AH Su.3** | **Ritucharya** | -- | 1 | 5 | 10 | ⚪ | |
 | **AH Su.4** | **Roganutpadaniya** | -- | 1 | 5 | 10 | ⚪ | |
 | **AH Su.5** | **Dravadravya Vijnaniya** | -- | ❌ | 5 | ❌ | ⚪ | |

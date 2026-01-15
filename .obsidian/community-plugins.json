@@ -2,5 +2,6 @@
   "templater-obsidian",
   "calendar",
   "omnisearch",
-  "dataview"
+  "dataview",
+  "text-extractor"
 ]

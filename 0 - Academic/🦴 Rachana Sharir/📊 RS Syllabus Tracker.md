@@ -46,7 +46,7 @@
 
 | Paper | Topic | Marks | MCQ | SAQ | LAQ | Status | Note Link |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| **I** | **13. Nervous System** | 14 | 1 | 5 | 10 | ⚪ | |
+| **I** | **13. Nervous System** | 14 | 1 | 5 | 10 | 🟡 | [[0 - Academic/🦴 Rachana Sharir/2 - Nervous System/Index\|📂 Index]] |
 | **I** | **14. Endocrinology** | 08 | 1 | 5 | 10 | ⚪ | |
 | **I** | **15. Lymphatic system** | 04 | 1 | ❌ | 10 | ⚪ | |
 | **II** | **6. Kala / 7. Indriya / 8. Twacha** | 10 | 1 | 5 | 10 | ⚪ | |

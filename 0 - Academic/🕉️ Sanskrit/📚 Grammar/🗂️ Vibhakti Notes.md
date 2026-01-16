@@ -1,5 +1,11 @@
 # 🗂️ विभक्ति (Vibhakti) Deep Dive - संस्कृत व्याकरणम्
-> [!info] **परिभाषा (Definition):** 
+> [!tip] 🎓 Exam Strategy: The Pattern Shift
+> **Insight (Jan 16):** Do not waste RAM memorizing the *Sutras* (e.g., "Karturipsita..."). The exam format is **Application-Based**.
+> **The Task:** You will be given an example (e.g., "Ramah Vanam Gacchati").
+> **The Goal:** Identify the Vibhakti (Dvitiya) and the Karaka (Karma).
+> **Action:** Focus on the **Signs (Chihna)** and the **Logic Questions (Who? Whom? By What?)**.
+
+> [!info] **परिभाषा (Definition):**  
 > **विभक्तिः** (Vibhakti) is the suffix added to a Noun (सुबन्तः) to define its **कारकम्** (Kāraka - Role) in a sentence. It tells you "Who is doing What to Whom, How, and Where."
 
 ---

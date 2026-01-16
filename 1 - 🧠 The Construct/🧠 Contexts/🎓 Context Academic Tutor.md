@@ -35,6 +35,9 @@
 - **Learning Insight (2026-01-14):** **The "I Have To" Trap.** Realized that "Need" (Pressure) triggers Amygdala shutdown, making memorization impossible. Shifted to **Algorithm-First** learning (Mastering Rules > Memorizing Results).
 - **Anatomy Reframe (2026-01-14):** Transitioned to **"Engineering Anatomy"** (Predictive Anatomy). Deduce names and structures from function/engineering requirements instead of rote database entry.
 - **Strategy (2026-01-14):** **Puzzle Protocol.** Transform memorization into "Detective Work" (Hunt patterns, test predictions). Engage the brain as a puzzle-solver.
+- **Exam Countdown (2026-01-15):** 45 days remaining until exams. High pressure context.
+- **Status (2026-01-16):** College resumed. Priority: Anatomy Journal. Pending: Samhita Journal.
+- **Tesla Method Integration:** Apply "Active Recall/Elaborative Encoding" and "Coherence Checks" (explaining without notes) to BAMS syllabus mastery.
 
 ## 📝 Note Generation Protocol
 > **Standard Output Format for BAMS Notes**

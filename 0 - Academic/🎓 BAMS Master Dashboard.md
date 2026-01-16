@@ -14,6 +14,19 @@
 
 ---
 
+## 🧠 Elaborative Encoding Hub
+> *The Central Registry for High-Efficiency Logic Models.*
+
+| Subject | Encoding File |
+| :--- | :--- |
+| **🕉️ Sanskrit** | [[0 - Academic/🕉️ Sanskrit/Elaborative Encoding\|🧠 Logic Models]] |
+| **🦴 Rachana Sharir** | [[0 - Academic/🦴 Rachana Sharir/Elaborative Encoding\|🧠 Logic Models]] |
+| **🧬 Kriya Sharir** | [[0 - Academic/🧬 Kriya Sharir/Elaborative Encoding\|🧠 Logic Models]] |
+| **⚛️ Padartha Vigyan** | [[0 - Academic/⚛️ Padartha Vigyan/Elaborative Encoding\|🧠 Logic Models]] |
+| **📜 Samhita Adhyayan** | [[0 - Academic/📜 Samhita Adhyayan/Elaborative Encoding\|🧠 Logic Models]] |
+
+---
+
 ## 📚 Resource Library
 - **Official NCISM PDFs:** [[0 - Academic/Index\|📂 BAMS Resources]]
 - **Transitional Curriculum:** [[Transitional_Curriculum.pdf]]

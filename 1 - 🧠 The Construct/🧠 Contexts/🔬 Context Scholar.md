@@ -53,3 +53,9 @@
 - **Current Objective:** Moving toward "Bio Physics" exploration.
 - **Deep Dive Protocol (2026-01-14):** Enforce [[The Blueprints/🔥 Protocol True Learning#🌊 Phase 3: The Deep Dive (Vertical Mastery)|Phase 3 Deep Dive]] for mastery topics. Reject tangents. Focus on Vertical Depth (L1-L5).
 - **Insight (2026-01-14):** **Spacetime Budgeting.** Applied relativistic concepts (Entropy/Energy) to daily management. Every "standing still" against the current of friction burns the time budget. Time is the record of entropy/change.
+- **Tesla Learning Methods (2026-01-16):** 
+    - **Problem-Based Learning:** Continuous solving to build skills.
+    - **High-Fidelity Mental Simulation:** Vivid internal visualization/prediction of system behavior before checking results.
+    - **Deliberate Cognitive Engagement:** Prolonged focus on a single central question; resisting the urge to escape discomfort/confusion.
+    - **Mastery Evaluation:** Coherence checks; explaining without notes; identifying where predictions fail.
+    - **Active Recall/Elaborative Encoding:** Writing down mechanisms/arguments from memory and then comparing.

@@ -70,4 +70,7 @@
 > - **System Fact (2026-01-15):** **Git Integration.** The vault is linked to a personal Git repository for version control.
 > - **System Upgrade (2026-01-14):** **Hub & Spoke Architecture.** Habit rituals now auto-sync between Dashboard and Journal.
 > - **Protocol (2026-01-14):** **Mistake Log Preservation.** Strict adherence to preserving the "Mistake Log" during updates to prevent data loss.
+- **System Fact (2026-01-15):** **Git Integration.** Universal access established via personal Git repository.
+- **System Policy (2026-01-15):** **The Shadow Vault.** Designated space for "Writing and Hacking" (free time only) to prevent drift from primary goals.
+- **Status (2026-01-16):** College resumption. Expect high social friction/sensitization. Monitor for "Optimization Addiction" as an escape from Anatomy/Samhita pressure.
 

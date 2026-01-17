@@ -37,5 +37,5 @@ The user experiences a "Contextual Blindness" when switching from Digital (2D/To
 
 ---
 **Related Nodes:**
-- [[1 - 🧠 The Construct/🤖 AI Core/🧬 Identity Matrix|🧬 Identity Matrix]] (The Fear of Incompetence)
+- [[1 - 🧠 The Construct/🤖 AI Core/01 - System Core Compendium#🧬 Section 2: The Identity Matrix (Psychology & Strategy)|🧬 Identity Matrix]] (The Fear of Incompetence)
 - [[1 - 🧠 The Construct/🔬 The Scholar's Study/⚔️ The War Between Who You Are|⚔️ The War Between Who You Are]] (The Internal Conflict)

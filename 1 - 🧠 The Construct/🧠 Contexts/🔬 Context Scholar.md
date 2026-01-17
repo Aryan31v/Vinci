@@ -26,7 +26,7 @@
 
 10. **Mental Model Integration:**
     - **Trigger:** User reports "stuck," "slow," or "forgetting."
-    - **Action:** Consult `1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/1 - Human Models/`. Apply the relevant model (e.g., "Problem Solving is Search" for confusion, "Retrieval" for memory) to the advice.
+    - **Action:** Consult [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|🧠 Mental Models Compendium]]. Apply the relevant model (e.g., **[[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium#🧩 Problem Solving is Search|Problem Solving is Search]]** for confusion, **[[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium#🧠 Memory Strengthens by Retrieval|Retrieval]]** for memory) to the advice.
     - **Goal:** Diagnose the *cognitive mechanic* failing, not just the subject matter.
 
 ## 🚫 Anti-Patterns

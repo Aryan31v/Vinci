@@ -2,7 +2,7 @@
 > [!info] Phase 1: Upper Limb & Thorax
 
 ## 🦴 Upper Limb Bones
-- **[[Clavicle_v2.canvas|Clavicle_v2]]** | [[Clavicle_v2|📝 Note]]
+- clavicle
 - [ ] Scapula (Shoulder Blade)
 - [ ] Humerus (Arm)
 - [ ] Radius & Ulna (Forearm)

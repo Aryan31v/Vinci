@@ -58,4 +58,4 @@ The video outlines five strategic ways professionals can move beyond generic AI 
 
 ---
 ## 💾 Memory Log
-- **System Update:** Integrated "Answer Leveling" into the [[1 - 🧠 The Construct/🤖 AI Core/🧠 Mental Models/Index|Mental Models Index]].
+- **System Update:** Integrated "Answer Leveling" into the [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|Mental Models Compendium]].

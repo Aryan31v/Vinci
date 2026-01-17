@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Sanskrit Shloka Project</title>
+
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css">
+
+		<!-- Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Noto+Serif+Devanagari:wght@400;700&display=swap" rel="stylesheet">
+
+        <style>
+            /* --- Global Aesthetics --- */
+            :root {
+                --gold: #ffb74d;
+                --gold-bright: #ffd54f;
+                --text-main: #e0e0e0;
+                --bg-gradient: radial-gradient(circle at center, #2b102f 0%, #000000 100%);
+                --glass-bg: rgba(255, 255, 255, 0.05);
+                --glass-border: rgba(255, 255, 255, 0.1);
+            }
+
+            body, html {
+                height: 100%;
+                background: #111;
+            }
+
+            .reveal {
+                background: var(--bg-gradient);
+                font-family: 'Lato', sans-serif;
+                color: var(--text-main);
+            }
+
+            /* --- Typography --- */
+            .reveal h1, .reveal h2 {
+                font-family: 'Cinzel', serif;
+                text-transform: uppercase;
+                color: var(--gold);
+                margin: 0 0 20px 0;
+            }
+
+            .reveal h2 {
+                font-size: 1.5em; /* Smaller for mobile */
+                border-bottom: 1px solid var(--gold);
+                padding-bottom: 10px;
+            }
+
+            /* --- Content Boxes --- */
+            .shloka-container {
+                background: var(--glass-bg);
+                border: 1px solid var(--glass-border);
+                border-radius: 12px;
+                padding: 15px;
+                margin-bottom: 20px;
+            }
+
+            .shloka-text {
+                font-family: 'Noto Serif Devanagari', serif;
+                font-size: 1.2em;
+                color: var(--gold-bright);
+                line-height: 1.5;
+                text-align: center;
+                white-space: normal; /* Ensure wrapping */
+            }
+
+            /* --- Lists --- */
+            .reveal ul {
+                display: block;
+                font-size: 0.9em;
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+
+            .reveal ul li {
+                margin-bottom: 15px;
+                padding: 10px;
+                background: rgba(255, 255, 255, 0.03);
+                border-left: 3px solid var(--gold);
+                border-radius: 4px;
+                line-height: 1.4;
+            }
+
+            .reveal strong {
+                color: #81d4fa;
+                display: block;
+                margin-bottom: 4px;
+                font-size: 0.85em;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+            }
+
+            /* --- MOBILE FIXES --- */
+            /* Force slide content to scroll if it overflows vertically */
+            .reveal .slides > section {
+                height: 100vh !important;
+                overflow-y: auto !important; /* Enable scrolling */
+                top: 0 !important;
+                padding: 20px 10px 150px 10px !important; /* Huge bottom padding for mobile bars */
+                box-sizing: border-box;
+                -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+            }
+            
+            /* Reset centering to allow scrolling from top */
+            .reveal.center {
+                min-height: 100vh !important;
+            }
+        </style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+                <!-- Intro Slide -->
+                <section>
+                    <div style="margin-top: 5vh;">
+                        <!-- College Name -->
+                        <h2 style="font-size: 1.3em; letter-spacing: 1px; border-bottom: 1px solid var(--glass-border); padding-bottom: 20px; color: var(--gold-bright); text-transform: uppercase;">B. G. Garaiya Ayurveda College</h2>
+                        
+                        <!-- Subject -->
+                        <h1 style="margin-top: 30px; margin-bottom: 30px; font-size: 3em;">Sanskrit</h1>
+                        
+                        <!-- Students -->
+                        <div class="shloka-container" style="margin-top: 30px; padding: 30px;">
+                            <div style="margin-bottom: 25px;">
+                                <p style="font-family: 'Cinzel', serif; font-size: 1.6em; color: var(--gold); margin: 0; font-weight: bold;">Vadhel Aryan</p>
+                                <p style="font-size: 1.1em; color: #aaa; margin: 5px 0 0 0;">Roll No. 93</p>
+                            </div>
+                            
+                            <hr style="border: 0; border-top: 1px dashed var(--glass-border); margin: 20px 0; opacity: 0.5;">
+                            
+                            <div>
+                                <p style="font-family: 'Cinzel', serif; font-size: 1.6em; color: var(--gold); margin: 0; font-weight: bold;">Vishal Chavda</p>
+                                <p style="font-size: 1.1em; color: #aaa; margin: 5px 0 0 0;">Roll No. 13</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Title Slide -->
+                <section>
+                    <div style="margin-top: 20vh;"> <!-- Visual centering for title only -->
+                        <h1>Sanskrit Shloka Project</h1>
+                        <div class="shloka-container">
+                            <h3>Ashtanga Hridaya</h3>
+                            <p style="color: #aaa;">Dinacharya Adhyaya (13-18)</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Slide 1 -->
+                <section>
+                    <h2>13. Ativyāyāma</h2>
+                    <div class="shloka-container">
+                        <div class="shloka-text">१३. तृष्णा क्षयः प्रतमकः रक्तपित्तं श्रमः क्लमः।<br>अतिव्यायामतः कासो ज्वरश्छर्दिश्च जायते ॥</div>
+                    </div>
+                    <ul>
+                        <li><strong>English Meaning</strong> Excessive exercise causes thirst, wasting, dyspnoea, bleeding disorders, exhaustion, fatigue, cough, fever, and vomiting.</li>
+                        <li><strong>पदच्छेदः</strong> तृष्णा, क्षयः, प्रतमकः, रक्त-पित्तम्, श्रमः, क्लमः, अति-व्यायामतः, कासः, ज्वरः, छर्दिः, च, जायते।</li>
+                        <li><strong>समासः</strong> रक्तपित्तम् = रक्त + पित्तम् (Karmadharaya)</li>
+                        <li><strong>सन्धिः</strong> कासो ज्वरः (विसर्ग), छर्दिश्च (विसर्ग)</li>
+                    </ul>
+                </section>
+
+                <!-- Slide 2 -->
+                <section>
+                    <h2>14. The Analogy</h2>
+                    <div class="shloka-container">
+                        <div class="shloka-text">१४. व्यायामजागराध्वस्त्रीहास्यभाष्यादि साहसम्।<br>गजं सिंहं इवाकर्षन् भजन्नति विनश्यति ॥</div>
+                    </div>
+                    <ul>
+                        <li><strong>English Meaning</strong> A person who indulges excessively in exercise, staying awake at night, walking, sex, laughing, and talking perishes like a lion trying to drag an elephant.</li>
+                        <li><strong>पदच्छेदः</strong> व्यायाम-जागर-अध्व-स्त्री-हास्य-भाष्य-आदि, साहसम्, गजम्, सिंहम्, इव, आकर्षन्, भजन्, अति, विनश्यति।</li>
+                        <li><strong>सन्धिः</strong> जागराध्व (सवर्णा), भाष्यादि (सवर्णा), भजन्नति (व्यञ्जन)</li>
+                    </ul>
+                </section>
+
+                <!-- Slide 3 -->
+                <section>
+                    <h2>15. Udvartana</h2>
+                    <div class="shloka-container">
+                        <div class="shloka-text">१५. उद्वर्तनं कफहरं मेदसः प्रविलायनम्।<br>स्थिरीकरणमङ्गानां त्वकप्रसादकरं परम् ॥</div>
+                    </div>
+                    <ul>
+                        <li><strong>English Meaning</strong> Powder massage mitigates Kapha, liquefies fat, provides stability to the body parts, and is excellent for improving skin complexion.</li>
+                        <li><strong>अन्वयः</strong> उद्वर्तनं कफहरं, मेदसः प्रविलायनम्, अङ्गानां स्थिरीकरणं तथा परं त्वक्प्रसादकरं भवति।</li>
+                        <li><strong>समासः</strong> कफहरम् (Compound), त्वकप्रसाद (Compound)</li>
+                        <li><strong>सन्धिः</strong> स्थिरीकरणमङ्गानाम् (व्यञ्जन)</li>
+                    </ul>
+                </section>
+
+                <!-- Slide 4 -->
+                <section>
+                    <h2>16. Snāna Benefits</h2>
+                    <div class="shloka-container">
+                        <div class="shloka-text">१६. दीपनं वृष्यमायुष्यं स्नानमूर्जाबलप्रदम्।<br>कण्डूमलश्रमस्वेदतन्द्रातृड्दाहपाप्मजित् ॥</div>
+                    </div>
+                    <ul>
+                        <li><strong>English Meaning</strong> Bathing improves digestion, virility, and longevity; it increases energy and strength. It destroys itching, dirt, exhaustion, sweat, stupor, thirst, burning sensation, and impurity.</li>
+                        <li><strong>अन्वयः</strong> स्नानं दीपनं, वृष्यम्, आयुष्यम्, ऊर्जाबलप्रदं तथा कण्डू-मल-श्रम-स्वेद-तन्द्रा-तृड्-दाह-पाप्म-जित् अस्ति।</li>
+                        <li><strong>सन्धिः</strong> वृष्यमायुष्यम् (व्यञ्जन), स्नानमूर्जा (व्यञ्जन), तृड्दाह (जश्त्व)</li>
+                    </ul>
+                </section>
+
+                <!-- Slide 5 -->
+                <section>
+                    <h2>17. Snāna Vidhi</h2>
+                    <div class="shloka-container">
+                        <div class="shloka-text">१७. उष्णाम्बुनाऽधःकायस्य परिषेको बलावहः।<br>तेनैव तूत्तमाङ्गस्य बलहृत्केशचक्षुषाम् ॥</div>
+                    </div>
+                    <ul>
+                        <li><strong>English Meaning</strong> Pouring warm water below the neck bestows strength; pouring it over the head reduces strength of hair and eyes.</li>
+                        <li><strong>पदच्छेदः</strong> उष्ण-अम्बुना, अधः-कायस्य, परिषेकः, बल-आवहः, तेन, एव, तु, उत्तम-अङ्गस्य, बल-हृत्, केश-चक्षुषाम्।</li>
+                        <li><strong>सन्धिः</strong> उष्णाम्बुना (सवर्णा), तेनैव (वृद्धि), तूत्तमाङ्गस्य (सवर्णा)</li>
+                    </ul>
+                </section>
+
+                <!-- Slide 6 -->
+                <section>
+                    <h2>18. Contraindications</h2>
+                    <div class="shloka-container">
+                        <div class="shloka-text">१८. स्नानमर्दितनेत्रास्यकर्णरोगतिसारिषु।<br>आध्मानपीनसाजीर्णभुक्तवत्सु च गर्हितम् ॥</div>
+                    </div>
+                    <ul>
+                        <li><strong>English Meaning</strong> Bathing is contraindicated in facial paralysis, diseases of eyes/mouth/ears, diarrhoea, flatulence, rhinitis, indigestion, and after eating.</li>
+                        <li><strong>अन्वयः</strong> अर्दित-नेत्र-आस्य-कर्ण-रोग-अतिसारिषु, आध्मान-पीनस-अजीर्ण-भुक्तवत्सु च स्नानं गर्हितम् अस्ति।</li>
+                        <li><strong>सन्धिः</strong> स्नानमर्दित (व्यञ्जन), नेत्रास्य (सवर्णा), पीनसाजीर्ण (सवर्णा)</li>
+                    </ul>
+                </section>
+
+                <!-- Concluding Slide -->
+                <section style="text-align: center;">
+                    <div style="margin-top: 25vh;">
+                        <h1 style="font-size: 2.5em;">धन्यवादः</h1>
+                        <p style="color: var(--gold); font-size: 1.2em; font-family: 'Cinzel', serif;">Dhanyavādaḥ</p>
+                        <div style="font-size: 3em; margin-top: 20px;">🙏</div>
+                    </div>
+                </section>
+
+			</div>
+		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+                center: false, /* Fix for top cut-off */
+                transition: 'slide',
+                controls: true,
+                progress: true,
+                /* Mobile Config: Disable scaling logic and use CSS responsive sizing */
+                width: "100%",
+                height: "100%",
+                margin: 0,
+                minScale: 1,
+                maxScale: 1
+			});
+		</script>
+	</body>
+</html>

@@ -27,10 +27,17 @@
 
 ---
 
-## 📚 Resource Library
-- **Official NCISM PDFs:** [[0 - Academic/Index\|📂 BAMS Resources]]
-- **Transitional Curriculum:** [[Transitional_Curriculum.pdf]]
-- **User Manual:** [[user manual AyuUG I.pdf]]
+## 📜 Official Curriculum (Resources & PDFs)
+> *Official NCISM curriculum documents and raw syllabus data.*
+
+- [[Archive/PDFs/NCiSM_I BAMS_Ay UG-SA1.pdf|📄 Samhita Adhyayan 1]]
+- [[Archive/PDFs/NCISM_I BAMS_AyUG RS.pdf|📄 Rachana Sharir]]
+- [[Archive/PDFs/NCISM_I BAMS_AyUG-KS.pdf|📄 Kriya Sharir]]
+- [[Archive/PDFs/NCISM_I BAMS_AyUG-PV.pdf|📄 Padartha Vigyan]]
+- [[Archive/PDFs/NCISM_I BAMS_AyUG-SN AI.pdf|📄 Sanskrit & Itihas]]
+- [[Archive/PDFs/Transitional_Curriculum.pdf|📄 Transitional Curriculum]]
+- [[Archive/PDFs/user manual AyuUG I.pdf|📄 User Manual AyuUG I]]
+- [[Archive/PDFs/Course Curriculum Letter.pdf|📄 Course Curriculum Letter]]
 
 ---
 

@@ -2,8 +2,7 @@
 > [!info] Archetypal Profile
 > **Archetype:** The Visionary Engineer / The Self-Taught Polymath
 > **Core Principle:** "Resolution > Coverage"
-> **Source:** [[YT_How_to_Educate_Yourself_Like_Nikola_Tesla_without_school|YouTube: How to Educate Yourself Like Nikola Tesla]]
-
+> **Source:**
 ---
 
 ## 🌪️ The 5 Pillars of Tesla’s Workflow

@@ -1,9 +1,9 @@
 # 🧠 Consciousness & Siddhis
 
 > [!info] Related Nodes
-> - [[1 - 🧠 The Construct/🔮 Arcane Knowledge/💤 Lucid Dreaming|💤 Lucid Dreaming]]
+> - [[1 - 🧠 The Construct/📜 The Saga/💤 Dream Journal|💤 Dream Journal]]
 > - [[1 - 🧠 The Construct/🔮 Arcane Knowledge/🔥 Divya Drishti and Kundalini|👁️ Divya Drishti & Kundalini]]
-> - [[1 - 🧠 The Construct/⚔️ Battle Rituals/🔥 Sadhana Practice|🧘 🔥 Sadhana Practice]]
+> - [[1 - 🧠 The Construct/⚔️ Battle Rituals/🧘 Protocol Spiritual Stack#🔥 Section 1: Shiva Sadhana Protocol (The Active Ritual)|🧘 🔥 Sadhana Practice]]
 
 > [!abstract] Context
 > This file acts as the central research hub for understanding **Siddhis** (Psychic Faculties), **ESP**, and the **Quantifiable Training Metrics** required to achieve them. It bridges ancient texts (Patanjali) with modern parapsychology (Radin/Swann).

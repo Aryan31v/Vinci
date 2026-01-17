@@ -2,8 +2,5 @@
 > "The Dojo of the Self."
 
 ## 📜 Protocols
-- [[1 - 🧠 The Construct/⚔️ Battle Rituals/⚔️ The Bridge Protocol|⚔️ The Bridge Protocol]]
-- [[1 - 🧠 The Construct/⚔️ Battle Rituals/🎓 Tolerance Training|🎓 Tolerance Training]]
-- [[1 - 🧠 The Construct/⚔️ Battle Rituals/🏷️ The Labeling Protocol|🏷️ The Labeling Protocol]]
-- [[1 - 🧠 The Construct/⚔️ Battle Rituals/🔥 Sadhana Practice|🔥 Sadhana Practice]]
-- [[1 - 🧠 The Construct/⚔️ Battle Rituals/🧘 Meditation|🧘 Meditation]]
+- [[1 - 🧠 The Construct/⚔️ Battle Rituals/⚔️ Protocol Learning Mastery|⚔️ Protocol Learning Mastery]]
+- [[1 - 🧠 The Construct/⚔️ Battle Rituals/🧘 Protocol Spiritual Stack|🧘 Protocol Spiritual Stack]]

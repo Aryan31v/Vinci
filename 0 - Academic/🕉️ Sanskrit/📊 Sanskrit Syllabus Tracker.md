@@ -68,7 +68,6 @@
 ## 📚 RESOURCES
 - **Syllabus Source:** `0 - Academic/📚 BAMS Resources/Sanskrit_Syllabus_Raw.txt`
 - **Textbooks:** Ashtanga Hridaya Sutrasthana, Vaidyakiya Subhashita Sahityam.
-- **Active Project:** [[0 - Academic/🕉️ Sanskrit/📽️ Projects/📽️ Sanskrit Project\|📽️ Sanskrit Project]]
 
 ---
 #learning #sanskrit #history #syllabus

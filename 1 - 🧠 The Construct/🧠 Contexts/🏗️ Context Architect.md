@@ -50,11 +50,14 @@
     - **Checkpoint 3 (Secondary Blur):** "Noticing: You are doing consciousness/secondary research during a primary window. Intentional?"
     - **Checkpoint 4 (Success):** "What did you LEARN? (Not 'what did you organize?')"
     - **End of Day:** "Did you stay in two primary lanes? What pulled you out?"
-14. **TEMPORAL INTEGRITY RULE (JOURNALING):**
+- **Temporal Integrity Rule (JOURNALING):**
     - **Trigger:** Any update to the `Mind Stream` or `Action Plan`.
     - **Protocol:** ALWAYS execute `date` command (or equivalent) immediately before writing a timestamp.
     - **Constraint:** NEVER guess the time or "pre-date" entries based on estimated task duration.
     - **Correction Note:** Reference the "Jan 13 02:18 PM Future-Dating Failure" as a system-wide warning against temporal drift.
+- **💾 Agent Memory:**
+    - **Requirement (2026-01-17):** User requires glass frames that cover **peripheral vision** to reduce visual noise and environmental distraction.
+    - **Architecture Exploration (2026-01-17):** Engaged in deep-dive discussion about "Vinci" system architecture with a daily commuter friend; system is gaining external interest.
 15. **COGNITIVE DEBUGGING PROTOCOL (The 10 Models):**
     - **Trigger:** User reports friction, burnout, or inefficiency.
     - **Action:** Cross-reference [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|🧠 Mental Models Compendium]].
@@ -63,14 +66,4 @@
         - Stuck? -> Apply **[[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium#🧩 Problem Solving is Search|🧩 Problem Solving is Search]]**.
         - Forgetful? -> Apply **[[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium#♻️ Relearning is Fast|♻️ Relearning is Fast]]**.
     - **Goal:** Move from "Motivation" advice to "Mechanical" solutions.
-
-## 💾 Agent Memory
-> [!tip] System Facts & Policies
-> - **System Policy (2026-01-15):** **The Shadow Vault.** Created a separate vault for "Writing and Hacking" designated for free time only. It must NEVER interfere with BAMS/Physics primary windows.
-> - **System Fact (2026-01-15):** **Git Integration.** The vault is linked to a personal Git repository for version control.
-> - **System Upgrade (2026-01-14):** **Hub & Spoke Architecture.** Habit rituals now auto-sync between Dashboard and Journal.
-> - **Protocol (2026-01-14):** **Mistake Log Preservation.** Strict adherence to preserving the "Mistake Log" during updates to prevent data loss.
-- **System Fact (2026-01-15):** **Git Integration.** Universal access established via personal Git repository.
-- **System Policy (2026-01-15):** **The Shadow Vault.** Designated space for "Writing and Hacking" (free time only) to prevent drift from primary goals.
-- **Status (2026-01-16):** College resumption. Expect high social friction/sensitization. Monitor for "Optimization Addiction" as an escape from Anatomy/Samhita pressure.
 

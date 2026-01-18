@@ -62,4 +62,6 @@
     - **Noise:** High thought volume during stress; successfully held the state despite "intrusive thoughts" about social friction.
 - **Trigger (2026-01-15):** **The "Pathetic" Insult.** Breakdown triggered by severe external judgment. Narrative: "Nobody stays with me for long."
 - **Sadhana (2026-01-15):** Day 7/11 complete. Focus maintained at center of head.
+- **Social Battery Insight (2026-01-17):** Social interaction acts as a battery drain that directly lowers the quality of subsequent meditation/practice. Residue from the day must be cleared.
+- **Meditation Patterns (2026-01-17):** "Floating" sensation persists even during high-friction/exhaustion states.
 

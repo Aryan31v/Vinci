@@ -38,6 +38,7 @@
 - **Exam Countdown (2026-01-15):** 45 days remaining until exams. High pressure context.
 - **Status (2026-01-16):** College resumed. Priority: Anatomy Journal. Pending: Samhita Journal.
 - **Tesla Method Integration:** Apply "Active Recall/Elaborative Encoding" and "Coherence Checks" (explaining without notes) to BAMS syllabus mastery.
+- **Active Recall Insight (2026-01-17):** Active Recall feels "slow" because it's building neural circuits, not just passing data. 52 mins of Active Recall (Dura Mater) is worth 4 hours of passive skimming. Speed comes from skipping the fluff (80/20), not rushing the recall.
 
 ## 📝 Note Generation Protocol
 > **Standard Output Format for BAMS Notes**

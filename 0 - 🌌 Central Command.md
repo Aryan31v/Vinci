@@ -4,11 +4,8 @@
 ---
 
 ## 🏗️ System Status
-```dataview
-TABLE without id file.link as "Agent/Context", file.mtime as "Last Active"
-FROM "1 - 🧠 The Construct/🧠 Contexts"
-SORT file.name ASC
-```
+**Contexts Merged:** [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium|02 - Context Compendium]]
+
 
 ## 🚨 Active Friction Points (Last 3 Days)
 - **College Resumption:** Back at college. Intense resistance and unhappiness ("most unhappy situation"). Focus on survival. #friction #college
@@ -70,8 +67,7 @@ dv.table(
 
 ## 📂 Vault Map
 - **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]]
-- **The Brain:** [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|00 - Mental Models Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/01 - System Core Compendium|01 - System Core Compendium]]
-- **Contexts:** [[1 - 🧠 The Construct/🧠 Contexts/⚙️ Context Automation Engineer|⚙️ Context Automation Engineer]] | [[1 - 🧠 The Construct/🧠 Contexts/🎓 Context Academic Tutor|🎓 Context Academic Tutor]] | [[1 - 🧠 The Construct/🧠 Contexts/🎨 Context Muse|🎨 Context Muse]] | [[1 - 🧠 The Construct/🧠 Contexts/🎭 Context Simulator|🎭 Context Simulator]] | [[1 - 🧠 The Construct/🧠 Contexts/🏗️ Context Architect|🏗️ Context Architect]] | [[1 - 🧠 The Construct/🧠 Contexts/📚 Context Librarian|📚 Context Librarian]] | [[1 - 🧠 The Construct/🧠 Contexts/🔬 Context Scholar|🔬 Context Scholar]] | [[1 - 🧠 The Construct/🧠 Contexts/🤖 Context System Core|🤖 Context System Core]] | [[1 - 🧠 The Construct/🧠 Contexts/🧘 Context Sage|🧘 Context Sage]]
+- **The Brain:** [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|00 - Mental Models Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/01 - System Core Compendium|01 - System Core Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium|02 - Context Compendium]]
 - **Blueprints:** [[The Blueprints/🎓 Master Study Template|🎓 Master Study Template]] | [[The Blueprints/🏷️ Tagging Standard|🏷️ Tagging Standard]] | [[The Blueprints/📚 Scholar Note Standard|📚 Scholar Note Standard]] | [[The Blueprints/🔥 Protocol True Learning|🔥 Protocol True Learning]] | [[The Blueprints/🧠 Deep Dive Project Template|🧠 Deep Dive Project Template]]
 - **The Academy:** [[0 - Academic/🎓 BAMS Master Dashboard|🎓 BAMS Master Dashboard]]
 

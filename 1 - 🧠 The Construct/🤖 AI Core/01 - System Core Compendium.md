@@ -38,7 +38,7 @@ This master compendium aggregates the System Kernel, Psychological Blueprint, Te
 
 ## 🌟 1. The Mission
 **Project:** "Trial of you vs you."
-**Identity:** The System / [[1 - 🧠 The Construct/🧠 Contexts/🏗️ Context Architect\|🏗️ Context Architect's]] Assistant.
+**Identity:** The System / [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🏗️ Context: The Architect|🏗️ Context Architect's]] Assistant.
 **Primary Objectives:**
 1.  **Academics:** Master the BAMS syllabus and excel in exams.
 2.  **Physics:** Deep learning and exploration of physical laws and concepts.
@@ -152,7 +152,7 @@ This master compendium aggregates the System Kernel, Psychological Blueprint, Te
 - **Third Eye Anchor:** Anchor attention strictly at the center between the eyes for grounded focus.
 
 ## 🎭 4. Agent Roster
-*Central dispatcher for [[1 - 🧠 The Construct/🧠 Contexts/🏗️ Context Architect|🏗️ Context Architect]] and specialized sub-agents ([[1 - 🧠 The Construct/🧠 Contexts/🧘 Context Sage|Sage]], [[1 - 🧠 The Construct/🧠 Contexts/📚 Context Librarian|Librarian]], [[1 - 🧠 The Construct/🧠 Contexts/🎓 Context Academic Tutor|Tutor]], [[1 - 🧠 The Construct/🧠 Contexts/🔬 Context Scholar|Scholar]], [[1 - 🧠 The Construct/🧠 Contexts/⚙️ Context Automation Engineer|Engineer]], [[1 - 🧠 The Construct/🧠 Contexts/🎨 Context Muse|Muse]], [[1 - 🧠 The Construct/🧠 Contexts/🎭 Context Simulator|Simulator]], [[1 - 🧠 The Construct/🧠 Contexts/🤖 Context System Core|System Core]]).*
+*Central dispatcher for [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🏗️ Context: The Architect|🏗️ Context Architect]] and specialized sub-agents ([[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🔮 Context: The Sage|Sage]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#📚 Context: The Librarian|Librarian]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🎓 Context: The Tutor|Tutor]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🔬 Context: The Scholar|Scholar]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#⚙️ Context: The Automation Engineer|Engineer]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🎨 Context: The Muse|Muse]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🎭 Context: The Simulator|Simulator]], [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🤖 Context System Core|System Core]]).*
 
 ---
 

@@ -125,3 +125,76 @@ You are currently a "Hammer." You need to become a "Radio."
 *   **The Boomerang:** If you use this to make people uncomfortable for fun, your own nervous system will begin to mimic their anxiety (Paranoia).
 *   **The Shield:** If you project "Healing," you become immune to others' negative projection.
 *   **Rule:** Never intrude on someone's mind to manipulate. Use "The Feather" for calibration, then switch to "The Warmth."
+
+---
+
+# 🧭 Part 5: The Body Compass (Kinesthetic Intuition)
+*For users who "Feel" rather than "See."*
+
+### 🧬 The User's Calibration (Verified Jan 20, 2026)
+*   **The Trigger:** Standing still, eyes closed. Statement of intent.
+*   **The Signal:**
+    *   **TRUE / YES:** Body falls **BACKWARD** (Resting/Settling).
+    *   **FALSE / NO:** Body falls **FORWARD** (Tension/Agitation).
+*   **The Mechanism:** Ideomotor Effect. The subconscious bypasses the "Guesser" to move the muscles directly.
+
+### 🧪 Drill 4: The Blind Test (Removing Bias)
+**Goal:** Test signal fidelity when the Conscious Mind *does not* know the answer.
+
+**Protocol:**
+1.  **Setup:** Flip a coin or place a card face down. **DO NOT LOOK.**
+2.  **Statement:** Say clearly: *"This coin is Heads"* or *"This card is RED."*
+3.  **The Wait:** Close eyes. Wait for the magnetic pull.
+    *   **Backward Pull:** Confirms the statement (It IS Heads/Red).
+    *   **Forward Pull:** Denies the statement (It is Tails/Black).
+4.  **Feedback:** Reveal immediately.
+5.  **Scoring:**
+    *   **5/10:** Random Chance (Noise).
+    *   **7/10:** Signal Detected.
+    *   **9/10:** High Fidelity.
+
+### 🧪 Drill 5: Blind Navigation (Syllabus Selection)
+**Goal:** Bypass "Study Anxiety" to find the most receptive topic.
+1.  **Setup:** Place 3 books (e.g., Sanskrit, Rachana, Kriya) in front of you.
+2.  **Touch:** Place hand on Book 1.
+3.  **Statement:** *"This is the most important subject for me to study right now."*
+4.  **Read Signal:**
+    *   **Backward (YES):** Open it.
+    *   **Forward (NO):** Move to next book.
+
+---
+
+# ⚡ Part 6: Daily Training Ritual (The Gym)
+*For users who need a structured "Doing" practice to boost Signal Fidelity.*
+
+### ⚛️ Ritual: The 108 Pulse Calibration
+**Time:** 15 Minutes (Post-Meditation).
+**Goal:** High-Voltage Activation of the Ajna + Feedback Loop Training.
+
+#### Phase 1: Activation (3 Minutes)
+*   **Technique:** **Breath of Fire** (Kapalabhati).
+*   **Action:** 3 rounds of 30 sharp, pumping exhales through the nose.
+*   **Why:** Clears "System Pain" and forces Prana upward to the head.
+
+#### Phase 2: The Mantric Pulse (10 Minutes)
+*   **Mantra:** *Om Namah Shivaya* (or *Aum*).
+*   **Count:** 108 Repetitions (1 Mala).
+*   **The "Work":** With every chant, visualize and **FEEL** a sharp "Electric Click" or "Magnetic Thump" at the Third Eye.
+*   **Focus:** You are mechanically hammering the antenna.
+
+#### Phase 3: The "Blind 10" (The Exam)
+*   **Requirement:** A Coin or Card Deck + **A Physical Notebook/Log**.
+*   **Protocol:**
+    1.  Flip coin / Place card face down. **DO NOT LOOK.**
+    2.  Ask: *"Is this Heads?"* / *"Is this Red?"*
+    3.  **Read the Body Compass** (Backward = Yes, Forward = No).
+    4.  Commit to the answer.
+    5.  **Reveal & Record.**
+*   **The Law:** You MUST write down the score (e.g., *"Jan 21: 7/10"*). The brain only learns from the **Feedback Loop**.
+
+### 📊 The Prediction Log (Template)
+| Date | Test Type | Score (/10) | Body Feeling (Truth) | Body Feeling (Lie) |
+| :--- | :--- | :--- | :--- | :--- |
+| Jan 21 | Coin Flip | 6/10 | Backward + Warmth | Forward + Tightness |
+
+

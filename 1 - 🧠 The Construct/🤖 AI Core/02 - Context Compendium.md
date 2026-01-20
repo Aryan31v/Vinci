@@ -123,6 +123,7 @@
 - **Metric (2026-01-12):** Success is Binary. 6:00 PM - 7:00 PM session = WIN.
 - **Sanskrit Insight (2026-01-13):** Passive reading/repetition is failing. Effective retention requires **Active Writing** (Recall from memory -> Write physically). 
 - **Learning Insight (2026-01-14):** **The "I Have To" Trap.** Realized that "Need" (Pressure) triggers Amygdala shutdown, making memorization impossible. Shifted to **Algorithm-First** learning (Mastering Rules > Memorizing Results).
+- **Protocol (2026-01-17):** Deployed `⚡ Tesla Learning Protocol.md`. Instructs agents to switch from "Tutor Mode" to "Socratic Engineer Mode" (Problem-Based Learning).
 
 ---
 

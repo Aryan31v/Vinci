@@ -6,9 +6,8 @@
 ## 🏗️ System Status
 **Contexts Merged:** [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium|02 - Context Compendium]]
 
-
 ## 🚨 Active Friction Points (Last 3 Days)
-- **College Resumption:** Back at college. Intense resistance and unhappiness ("most unhappy situation"). Focus on survival. #friction #college
+> ✅ No active friction points.
 
 ---
 
@@ -58,12 +57,14 @@ dv.table(
 ```
 
 ## 📅 Daily Focus (Today)
+- [ ] Revert and simplify CLI architecture to focus only on initial core commands (.chaos, .run, .task) and remove recent extra additions #migrated
+- [ ] Design and implement a Termux UI/TUI dashboard for direct system control and interface customization #migrated
 - [ ] **🔥 COMPLETE SAMHITA JOURNAL:** (Urgent). #critical
 - [ ] **🔥 COMPLETE ANATOMY JOURNAL:** (Urgent). #critical
 - [ ] **Sanskrit:** Vibhakti & Samasa Study. #priority
-- [ ] **Errand:** Visit Optical Store (Request "Peripheral Vision" Frames). #task
 - [ ] **Meditation:** 20 Minutes (Find Bliss).
-- [ ] **Shiva Sadhana:** Day 11/11 (108x). #priority
+- [ ] **Errand:** Visit Optical Store (Request "Peripheral Vision" Frames). #task
+- [ ] **Task:** Find photos for printing and send to father. #urgent
 
 ## 📂 Vault Map
 - **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]]

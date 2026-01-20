@@ -41,6 +41,11 @@
 
 ---
 
+## 🔬 Research & Interdisciplinary Studies
+- [[1 - 🧠 The Construct/🔬 The Scholar's Study/📽️ How Advanced Was Ancient India|📽️ How Advanced Was Ancient India]] (Scientific Validation of Ancient Tech)
+
+---
+
 ## 🎯 Global Academic Goals
 - [ ] Complete **Sanskrit Paper I** (Grammar) - *Priority 1*
 - [ ] Integrate **Padartha Vigyan** Basics with Sanskrit grammar.

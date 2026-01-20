@@ -58,6 +58,7 @@
 - **💾 Agent Memory:**
     - **Requirement (2026-01-17):** User requires glass frames that cover **peripheral vision** to reduce visual noise and environmental distraction.
     - **Architecture Exploration (2026-01-17):** Engaged in deep-dive discussion about "Vinci" system architecture with a daily commuter friend; system is gaining external interest.
+    - **Hacking (2026-01-18):** Confirmed Reflected XSS and SQLi on testphp.vulnweb.com. Learned to use encodeURIComponent() for cookie exfiltration.
 15. **COGNITIVE DEBUGGING PROTOCOL (The 10 Models):**
     - **Trigger:** User reports friction, burnout, or inefficiency.
     - **Action:** Cross-reference [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|🧠 Mental Models Compendium]].

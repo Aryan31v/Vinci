@@ -16,7 +16,6 @@
 		<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400;700&family=Noto+Serif+Devanagari:wght@400;700&display=swap" rel="stylesheet">
 
         <style>
-            /* --- Global Aesthetics --- */
             :root {
                 --gold: #ffb74d;
                 --gold-bright: #ffd54f;
@@ -33,11 +32,10 @@
 
             .reveal {
                 background: var(--bg-gradient);
-                font-family: 'Lato', sans-serif;
+                font-family: 'Lato', 'Noto Serif Devanagari', sans-serif;
                 color: var(--text-main);
             }
 
-            /* --- Typography --- */
             .reveal h1, .reveal h2 {
                 font-family: 'Cinzel', serif;
                 text-transform: uppercase;
@@ -46,12 +44,11 @@
             }
 
             .reveal h2 {
-                font-size: 1.5em; /* Smaller for mobile */
+                font-size: 1.5em; 
                 border-bottom: 1px solid var(--gold);
                 padding-bottom: 10px;
             }
 
-            /* --- Content Boxes --- */
             .shloka-container {
                 background: var(--glass-bg);
                 border: 1px solid var(--glass-border);
@@ -66,10 +63,9 @@
                 color: var(--gold-bright);
                 line-height: 1.5;
                 text-align: center;
-                white-space: normal; /* Ensure wrapping */
+                white-space: normal;
             }
 
-            /* --- Lists --- */
             .reveal ul {
                 display: block;
                 font-size: 0.9em;
@@ -78,7 +74,7 @@
                 list-style: none;
             }
 
-            .reveal ul li {
+            .reveal ul > li {
                 margin-bottom: 15px;
                 padding: 10px;
                 background: rgba(255, 255, 255, 0.03);
@@ -87,27 +83,73 @@
                 line-height: 1.4;
             }
 
-            .reveal strong {
-                color: #81d4fa;
-                display: block;
-                margin-bottom: 4px;
-                font-size: 0.85em;
-                text-transform: uppercase;
-                letter-spacing: 1px;
+            .grammar-section {
+                margin-top: 10px;
+                padding-left: 10px;
             }
 
-            /* --- MOBILE FIXES --- */
-            /* Force slide content to scroll if it overflows vertically */
+            .grammar-title {
+                color: #81d4fa;
+                font-size: 0.9em;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                margin-bottom: 5px;
+                display: block;
+                font-weight: bold;
+                border-bottom: 1px dashed rgba(129, 212, 250, 0.3);
+                width: fit-content;
+            }
+
+            .reveal ol {
+                margin: 5px 0 15px 0;
+                counter-reset: item;
+                list-style-type: none;
+                padding-left: 20px;
+                column-count: 2;
+                column-gap: 40px;
+            }
+
+            @media (max-width: 600px) {
+                .reveal ol {
+                    column-count: 1;
+                }
+            }
+
+            .reveal ol li {
+                display: block;
+                margin-bottom: 8px;
+                font-size: 0.8em; 
+                color: #e0e0e0;
+                break-inside: avoid;
+            }
+
+            .reveal ol li:before {
+                content: counter(item) ". ";
+                counter-increment: item;
+                color: var(--gold);
+                font-weight: bold;
+                margin-right: 8px;
+            }
+
+            .type-label {
+                color: #ffd54f; 
+                font-style: normal;
+                font-size: 0.85em;
+                margin-left: 8px;
+                opacity: 0.8;
+                display: block; 
+                margin-top: 2px;
+            }
+
             .reveal .slides > section {
                 height: 100vh !important;
-                overflow-y: auto !important; /* Enable scrolling */
+                overflow-y: auto !important; 
                 top: 0 !important;
-                padding: 20px 10px 150px 10px !important; /* Huge bottom padding for mobile bars */
+                padding: 20px 10px 150px 10px !important; 
                 box-sizing: border-box;
-                -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+                -webkit-overflow-scrolling: touch; 
             }
             
-            /* Reset centering to allow scrolling from top */
             .reveal.center {
                 min-height: 100vh !important;
             }
@@ -120,21 +162,14 @@
                 <!-- Intro Slide -->
                 <section>
                     <div style="margin-top: 5vh;">
-                        <!-- College Name -->
                         <h2 style="font-size: 1.3em; letter-spacing: 1px; border-bottom: 1px solid var(--glass-border); padding-bottom: 20px; color: var(--gold-bright); text-transform: uppercase;">B. G. Garaiya Ayurveda College</h2>
-                        
-                        <!-- Subject -->
                         <h1 style="margin-top: 30px; margin-bottom: 30px; font-size: 3em;">Sanskrit</h1>
-                        
-                        <!-- Students -->
                         <div class="shloka-container" style="margin-top: 30px; padding: 30px;">
                             <div style="margin-bottom: 25px;">
                                 <p style="font-family: 'Cinzel', serif; font-size: 1.6em; color: var(--gold); margin: 0; font-weight: bold;">Vadhel Aryan</p>
                                 <p style="font-size: 1.1em; color: #aaa; margin: 5px 0 0 0;">Roll No. 93</p>
                             </div>
-                            
                             <hr style="border: 0; border-top: 1px dashed var(--glass-border); margin: 20px 0; opacity: 0.5;">
-                            
                             <div>
                                 <p style="font-family: 'Cinzel', serif; font-size: 1.6em; color: var(--gold); margin: 0; font-weight: bold;">Vishal Chavda</p>
                                 <p style="font-size: 1.1em; color: #aaa; margin: 5px 0 0 0;">Roll No. 13</p>
@@ -145,7 +180,7 @@
 
                 <!-- Title Slide -->
                 <section>
-                    <div style="margin-top: 20vh;"> <!-- Visual centering for title only -->
+                    <div style="margin-top: 20vh;">
                         <h1>Sanskrit Shloka Project</h1>
                         <div class="shloka-container">
                             <h3>Ashtanga Hridaya</h3>
@@ -158,13 +193,30 @@
                 <section>
                     <h2>13. Ativyāyāma</h2>
                     <div class="shloka-container">
-                        <div class="shloka-text">१३. तृष्णा क्षयः प्रतमकः रक्तपित्तं श्रमः क्लमः।<br>अतिव्यायामतः कासो ज्वरश्छर्दिश्च जायते ॥</div>
+                        <div class="shloka-text">१३. तृष्णा क्षयः प्रतमको रक्तपित्तं श्रमः क्लमः।<br>अतिव्यायामतः कासो ज्वरश्छर्दिश्च जायते ॥</div>
                     </div>
                     <ul>
                         <li><strong>English Meaning</strong> Excessive exercise causes thirst, wasting, dyspnoea, bleeding disorders, exhaustion, fatigue, cough, fever, and vomiting.</li>
-                        <li><strong>पदच्छेदः</strong> तृष्णा, क्षयः, प्रतमकः, रक्त-पित्तम्, श्रमः, क्लमः, अति-व्यायामतः, कासः, ज्वरः, छर्दिः, च, जायते।</li>
-                        <li><strong>समासः</strong> रक्तपित्तम् = रक्त + पित्तम् (Karmadharaya)</li>
-                        <li><strong>सन्धिः</strong> कासो ज्वरः (विसर्ग), छर्दिश्च (विसर्ग)</li>
+                        <li><strong>पदच्छेदः</strong> तृष्णा | क्षयः | प्रतमकः | रक्तपित्तम् | श्रमः | क्लमः | अति-व्यायामतः | कासः | ज्वरः | छर्दिः | च | जायते</li>
+                        <li><strong>अन्वयः</strong> अतिव्यायामतः, तृष्णा, क्षयः, प्रतमकः, रक्त:, पित्तम्, श्रमः, क्लमः, कासः, ज्वरश्छर्दिः, च, जायते ॥</li>
+                        <li>
+                            <div class="grammar-section">
+                                <span class="grammar-title">समासः (Samasa)</span>
+                                <ol>
+                                    <li>रक्त + पित्तम् = रक्तपित्तम् <span class="type-label">रक्तं च तत् पित्तं च - कर्मधारयः</span></li>
+                                    <li>अति + व्यायामतः = अतिव्यायामतः <span class="type-label">व्यायामस्य अत्ययः - अव्ययीभावः</span></li>
+                                    <li>प्र + तमकः = प्रतमकः <span class="type-label">प्रकृष्टः तमकः - कर्मधारयः</span></li>
+                                </ol>
+                                <span class="grammar-title">सन्धिः (Sandhi)</span>
+                                <ol>
+                                    <li>रक्तपित्तम् + श्रमः = रक्तपित्तं श्रमः <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>ज्वरः + छर्दिः = ज्वरश्छर्दिः <span class="type-label">श्चुत्व सन्धिः (स्तोः श्चुना श्चुः)</span></li>
+                                    <li>प्रतमकः + रक्तपित्तम् = प्रतमको रक्तपित्तम् <span class="type-label">उत्व सन्धिः (हशि च)</span></li>
+                                    <li>कासः + ज्वरः = कासो ज्वरः <span class="type-label">उत्व सन्धिः (हशि च)</span></li>
+                                    <li>छर्दिः + च = छर्दिश्च <span class="type-label">श्चुत्व सन्धिः (स्तोः श्चुना श्चुः)</span></li>
+                                </ol>
+                            </div>
+                        </li>
                     </ul>
                 </section>
 
@@ -172,12 +224,29 @@
                 <section>
                     <h2>14. The Analogy</h2>
                     <div class="shloka-container">
-                        <div class="shloka-text">१४. व्यायामजागराध्वस्त्रीहास्यभाष्यादि साहसम्।<br>गजं सिंहं इवाकर्षन् भजन्नति विनश्यति ॥</div>
+                        <div class="shloka-text">१४. व्यायामजागराध्वस्त्रीहास्यभाष्यादि साहसम्।<br>गजं सिंह इवाकर्षन् भजन्नति विनश्यति ॥</div>
                     </div>
                     <ul>
-                        <li><strong>English Meaning</strong> A person who indulges excessively in exercise, staying awake at night, walking, sex, laughing, and talking perishes like a lion trying to drag an elephant.</li>
-                        <li><strong>पदच्छेदः</strong> व्यायाम-जागर-अध्व-स्त्री-हास्य-भाष्य-आदि, साहसम्, गजम्, सिंहम्, इव, आकर्षन्, भजन्, अति, विनश्यति।</li>
-                        <li><strong>सन्धिः</strong> जागराध्व (सवर्णा), भाष्यादि (सवर्णा), भजन्नति (व्यञ्जन)</li>
+                        <li><strong>English Meaning</strong> A person who indulges excessively perishes like a lion trying to drag an elephant.</li>
+                        <li><strong>पदच्छेदः</strong> व्यायाम-जागर-अध्व-स्त्री-हास्य-भाष्य-आदि | साहसम् | गजम् | सिंहम् | इव | आकर्षन् | भजन् | अति | विनश्यति</li>
+                        <li><strong>अन्वयः</strong> गजम्, सिंह, इव, साहसम्, व्यायामजागराध्वस्त्रीहास्यभाष्यादि, अति, भजन्, आकर्षन्, विनश्यति ॥</li>
+                        <li>
+                            <div class="grammar-section">
+                                <span class="grammar-title">समासः (Samasa)</span>
+                                <ol>
+                                    <li>व्यायाम + जागर... = व्यायामजागर... <span class="type-label">व्यायामश्च जागरश्च अध्वा च... - इतरेतरद्वन्द्वः</span></li>
+                                    <li>अध्व + स्त्री = अध्वस्त्री <span class="type-label">अध्वा च स्त्री च - इतरेतरद्वन्द्वः</span></li>
+                                </ol>
+                                <span class="grammar-title">सन्धिः (Sandhi)</span>
+                                <ol>
+                                    <li>वि + आयाम = व्यायाम <span class="type-label">यण् सन्धिः (इको यणचि)</span></li>
+                                    <li>भाष्य + आदि = भाष्यादि <span class="type-label">सवर्णदीर्घ सन्धिः (अकः सवर्णे दीर्घः)</span></li>
+                                    <li>साहसम् + गजम् = साहसं गजम् <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>गजम् + सिंहम् = गजं सिंहम् <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>इव + आकर्षन् = इवाकर्षन् <span class="type-label">सवर्णदीर्घ सन्धिः (अकः सवर्णे दीर्घः)</span></li>
+                                </ol>
+                            </div>
+                        </li>
                     </ul>
                 </section>
 
@@ -185,13 +254,31 @@
                 <section>
                     <h2>15. Udvartana</h2>
                     <div class="shloka-container">
-                        <div class="shloka-text">१५. उद्वर्तनं कफहरं मेदसः प्रविलायनम्।<br>स्थिरीकरणमङ्गानां त्वकप्रसादकरं परम् ॥</div>
+                        <div class="shloka-text">१५. उद्वर्तनं कफहरं मेदसः प्रविलायनम्।<br>स्थिरीकरणमङ्गानां त्वक्प्रसादकरं परम् ॥</div>
                     </div>
                     <ul>
-                        <li><strong>English Meaning</strong> Powder massage mitigates Kapha, liquefies fat, provides stability to the body parts, and is excellent for improving skin complexion.</li>
-                        <li><strong>अन्वयः</strong> उद्वर्तनं कफहरं, मेदसः प्रविलायनम्, अङ्गानां स्थिरीकरणं तथा परं त्वक्प्रसादकरं भवति।</li>
-                        <li><strong>समासः</strong> कफहरम् (Compound), त्वकप्रसाद (Compound)</li>
-                        <li><strong>सन्धिः</strong> स्थिरीकरणमङ्गानाम् (व्यञ्जन)</li>
+                        <li><strong>English Meaning</strong> Powder massage mitigates Kapha, liquefies fat, and improves skin complexion.</li>
+                        <li><strong>पदच्छेदः</strong> उद्वर्तनम् | कफ-हरम् | मेदसः | प्रविलायनम् | स्थिरी-करणम् | अङ्गानाम् | त्वक्-प्रसाद-करम् | परम्</li>
+                        <li><strong>अन्वयः</strong> उद्वर्तनम्, कफहरम्, मेदसः, प्रविलायनम्, अङ्गानाम्, स्थिरीकरणम्, परम्, त्वक्प्रसादकरम् ॥</li>
+                        <li>
+                            <div class="grammar-section">
+                                <span class="grammar-title">समासः (Samasa)</span>
+                                <ol>
+                                    <li>कफ + हरम् = कफहरम् <span class="type-label">कफं हरति इति - उपपदतत्पुरुषः</span></li>
+                                    <li>त्वक् + प्रसाद = त्वक्प्रसाद <span class="type-label">त्वचः प्रसादः - षष्ठीतत्पुरुषः</span></li>
+                                    <li>प्रसाद + करम् = प्रसादकरम् <span class="type-label">प्रसादं करोति इति - उपपदतत्पुरुषः</span></li>
+                                    <li>स्थिरी + करणम् = स्थिरीकरणम् <span class="type-label">अस्थिरं स्थिरं क्रियते - च्वि-समासः (तत्पुरुषः)</span></li>
+                                </ol>
+                                <span class="grammar-title">सन्धिः (Sandhi)</span>
+                                <ol>
+                                    <li>उत् + वर्तनम् = उद्वर्तनम् <span class="type-label">जश्त्व सन्धिः (झलां जशोऽन्ते)</span></li>
+                                    <li>उद्वर्तनम् + कफहरम् = उद्वर्तनं कफहरम् <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>त्वच् + प्रसाद = त्वक्प्रसाद <span class="type-label">चर्त्व सन्धिः (खरि च)</span></li>
+                                    <li>अङ्गानाम् + त्वक् = अङ्गानां त्वक् <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>कफहरम् + मेदसः = कफहरम्मेदसः <span class="type-label">परसवर्ण सन्धिः (वा पदान्तस्य)</span></li>
+                                </ol>
+                            </div>
+                        </li>
                     </ul>
                 </section>
 
@@ -202,9 +289,28 @@
                         <div class="shloka-text">१६. दीपनं वृष्यमायुष्यं स्नानमूर्जाबलप्रदम्।<br>कण्डूमलश्रमस्वेदतन्द्रातृड्दाहपाप्मजित् ॥</div>
                     </div>
                     <ul>
-                        <li><strong>English Meaning</strong> Bathing improves digestion, virility, and longevity; it increases energy and strength. It destroys itching, dirt, exhaustion, sweat, stupor, thirst, burning sensation, and impurity.</li>
-                        <li><strong>अन्वयः</strong> स्नानं दीपनं, वृष्यम्, आयुष्यम्, ऊर्जाबलप्रदं तथा कण्डू-मल-श्रम-स्वेद-तन्द्रा-तृड्-दाह-पाप्म-जित् अस्ति।</li>
-                        <li><strong>सन्धिः</strong> वृष्यमायुष्यम् (व्यञ्जन), स्नानमूर्जा (व्यञ्जन), तृड्दाह (जश्त्व)</li>
+                        <li><strong>English Meaning</strong> Bathing improves digestion and strength. It destroys itching, sweat, and impurity.</li>
+                        <li><strong>पदच्छेदः</strong> दीपनम् | वृष्यम् | आयुष्यम् | स्नानम् | ऊर्जा-बल-प्रदम् | कण्डू-मल-श्रम-स्वेद-तन्द्रा-तृट्-दाह-पाप्म-जित्</li>
+                        <li><strong>अन्वयः</strong> स्नानम्, दीपनम्, वृष्यम्, आयुष्यम्, ऊर्जाबलप्रदम्, कण्डूमलश्रमस्वेदतन्द्रातृड्दाहपाप्मजित् ॥</li>
+                        <li>
+                            <div class="grammar-section">
+                                <span class="grammar-title">समासः (Samasa)</span>
+                                <ol>
+                                    <li>ऊर्जा + बल = ऊर्जाबल <span class="type-label">ऊर्जा च बलं च - इतरेतरद्वन्द्वः</span></li>
+                                    <li>बल + प्रदम् = बलप्रदम् <span class="type-label">बलं प्रददाति इति - उपपदतत्पुरुषः</span></li>
+                                    <li>कण्डू + मल... = कण्डूमल... <span class="type-label">कण्डूश्च मलश्च श्रमश्च... - इतरेतरद्वन्द्वः</span></li>
+                                    <li>पाप्म + जित् = पाप्मजित् <span class="type-label">पाप्मानं जयति इति - उपपदतत्पुरुषः</span></li>
+                                </ol>
+                                <span class="grammar-title">सन्धिः (Sandhi)</span>
+                                <ol>
+                                    <li>दीपनम् + वृष्यम् = दीपनं वृष्यम् <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>आयुष्यम् + स्नानम् = आयुष्यं स्नानम् <span class="type-label">अनुस्वार सन्धिः (मोऽनुस्वारः)</span></li>
+                                    <li>पाप्मन् + जित् = पाप्मजित् <span class="type-label">लोपः (नलोपः)</span></li>
+                                    <li>तृष् + क्विप् = तृट् <span class="type-label">जश्त्व सन्धिः (झलां जशोऽन्ते)</span></li>
+                                    <li>तृट् + दाह = तृड्दाह <span class="type-label">जश्त्व सन्धिः (झलां जशोऽन्ते)</span></li>
+                                </ol>
+                            </div>
+                        </li>
                     </ul>
                 </section>
 
@@ -215,9 +321,28 @@
                         <div class="shloka-text">१७. उष्णाम्बुनाऽधःकायस्य परिषेको बलावहः।<br>तेनैव तूत्तमाङ्गस्य बलहृत्केशचक्षुषाम् ॥</div>
                     </div>
                     <ul>
-                        <li><strong>English Meaning</strong> Pouring warm water below the neck bestows strength; pouring it over the head reduces strength of hair and eyes.</li>
-                        <li><strong>पदच्छेदः</strong> उष्ण-अम्बुना, अधः-कायस्य, परिषेकः, बल-आवहः, तेन, एव, तु, उत्तम-अङ्गस्य, बल-हृत्, केश-चक्षुषाम्।</li>
-                        <li><strong>सन्धिः</strong> उष्णाम्बुना (सवर्णा), तेनैव (वृद्धि), तूत्तमाङ्गस्य (सवर्णा)</li>
+                        <li><strong>English Meaning</strong> Pouring warm water below the neck bestows strength; over the head, it reduces strength.</li>
+                        <li><strong>पदच्छेदः</strong> उष्ण-अम्बुना | अधः-कायस्य | परिषेकः | बल-आवहः | तेन | एव | तु | उत्तम-अङ्गस्य | बल-हृत् | केश-चक्षुषाम्</li>
+                        <li><strong>अन्वयः</strong> उष्णाम्बुना, अधः, कायस्य, परिषेकः, बलावहः, ते, नैव, तु, उत्तमाङ्गस्य, केशचक्षुषाम्, बलहृत् ॥</li>
+                        <li>
+                            <div class="grammar-section">
+                                <span class="grammar-title">समासः (Samasa)</span>
+                                <ol>
+                                    <li>अधः + कायस्य = अधःकायस्य <span class="type-label">अधः च असौ कायश्च - कर्मधारयः</span></li>
+                                    <li>बल + आवहः = बलावहः <span class="type-label">बलम् आवहति इति - उपपदतत्पुरुषः</span></li>
+                                    <li>बल + हृत् = बलहृत् <span class="type-label">बलं हरति इति - उपपदतत्पुरुषः</span></li>
+                                    <li>केश + चक्षुषाम् = केशचक्षुषाम् <span class="type-label">केशाश्च चक्षूंषि च तेषाम् - इतरेतरद्वन्द्वः</span></li>
+                                </ol>
+                                <span class="grammar-title">सन्धिः (Sandhi)</span>
+                                <ol>
+                                    <li>उष्ण + अम्बुना = उष्णाम्बुना <span class="type-label">सवर्णदीर्घ सन्धिः (अकः सवर्णे दीर्घः)</span></li>
+                                    <li>परिषेकः + बलावहः = परिषेको बलावहः <span class="type-label">उत्व सन्धिः (हशि च)</span></li>
+                                    <li>अधः + कायस्य = अधःकायस्य <span class="type-label">विसर्ग सन्धिः (विसर्जनीयस्य सः)</span></li>
+                                    <li>तु + उत्तमाङ्गस्य = तूत्तमाङ्गस्य <span class="type-label">सवर्णदीर्घ सन्धिः (अकः सवर्णे दीर्घः)</span></li>
+                                    <li>तेन + एव = तेनैव <span class="type-label">वृद्धि सन्धिः (वृद्धिरेचि)</span></li>
+                                </ol>
+                            </div>
+                        </li>
                     </ul>
                 </section>
 
@@ -228,9 +353,27 @@
                         <div class="shloka-text">१८. स्नानमर्दितनेत्रास्यकर्णरोगतिसारिषु।<br>आध्मानपीनसाजीर्णभुक्तवत्सु च गर्हितम् ॥</div>
                     </div>
                     <ul>
-                        <li><strong>English Meaning</strong> Bathing is contraindicated in facial paralysis, diseases of eyes/mouth/ears, diarrhoea, flatulence, rhinitis, indigestion, and after eating.</li>
-                        <li><strong>अन्वयः</strong> अर्दित-नेत्र-आस्य-कर्ण-रोग-अतिसारिषु, आध्मान-पीनस-अजीर्ण-भुक्तवत्सु च स्नानं गर्हितम् अस्ति।</li>
-                        <li><strong>सन्धिः</strong> स्नानमर्दित (व्यञ्जन), नेत्रास्य (सवर्णा), पीनसाजीर्ण (सवर्णा)</li>
+                        <li><strong>English Meaning</strong> Bathing is contraindicated in facial paralysis, diarrhoea, and after eating.</li>
+                        <li><strong>पदच्छेदः</strong> स्नानम् | अर्दित-नेत्र-आस्य-कर्ण-रोग-अतिसारिषु | आध्मान-पीनस-अजीर्ण-भुक्तवत्सु | च | गर्हितम्</li>
+                        <li><strong>अन्वयः</strong> स्नानम्, अर्दितनेत्रास्य, कर्णरोगात्, अतिसारेषु, आध्मानपीनसाजीर्णभुक्तवत्सु, च, गर्हितम् ॥</li>
+                        <li>
+                            <div class="grammar-section">
+                                <span class="grammar-title">समासः (Samasa)</span>
+                                <ol>
+                                    <li>अर्दित + नेत्र... = अर्दितनेत्र... <span class="type-label">अर्दितश्च नेत्रश्च आस्यश्च... - इतरेतरद्वन्द्वः</span></li>
+                                    <li>कर्ण + रोग = कर्णरोग <span class="type-label">कर्णस्य रोगः - षष्ठीतत्पुरुषः</span></li>
+                                    <li>आध्मान + पीनस... = आध्मानपीनस... <span class="type-label">आध्मानश्च पीनसश्च अजीर्णश्च - इतरेतरद्वन्द्वः</span></li>
+                                </ol>
+                                <span class="grammar-title">सन्धिः (Sandhi)</span>
+                                <ol>
+                                    <li>भुज् + क्त = भुक्त <span class="type-label">चर्त्व सन्धिः (खरि च)</span></li>
+                                    <li>नेत्र + आस्य = नेत्रास्य <span class="type-label">सवर्णदीर्घ सन्धिः (अकः सवर्णे दीर्घः)</span></li>
+                                    <li>रोग + अतिसारिषु = रोगातिसारिषु <span class="type-label">सवर्णदीर्घ सन्धिः (अकः सवर्णे दीर्घः)</span></li>
+                                    <li>अतिसारिषु + आध्मान = अतिसारिष्वाध्मान <span class="type-label">यण् सन्धिः (इको यणचि)</span></li>
+                                    <li>अतिसार + सु = अतिसारिषु <span class="type-label">षत्व सन्धिः (आदेशप्रत्यययोः)</span></li>
+                                </ol>
+                            </div>
+                        </li>
                     </ul>
                 </section>
 
@@ -250,11 +393,10 @@
 		<script>
 			Reveal.initialize({
 				hash: true,
-                center: false, /* Fix for top cut-off */
+                center: false,
                 transition: 'slide',
                 controls: true,
                 progress: true,
-                /* Mobile Config: Disable scaling logic and use CSS responsive sizing */
                 width: "100%",
                 height: "100%",
                 margin: 0,

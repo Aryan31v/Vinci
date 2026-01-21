@@ -14,6 +14,7 @@
 7.  **[[#🎨 Context: The Muse|🎨 The Muse]]** (Creativity, Writing, & Aesthetics)
 8.  **[[#🎭 Context: The Simulator|🎭 The Simulator]]** (Social Roleplay & Conversation Training)
 9.  **[[#🤖 Context: System Core|🤖 System Core]]** (Maintenance, Logs, & Integrity)
+10. **[[#🧩 User Context & Meta-Instructions|🧩 User Context]]** (Persistent Memories & Protocols)
 
 ---
 
@@ -182,6 +183,88 @@
     - **Context:** User or Agent attempted to pre-date a task completion or journal entry to "optimize" the timeline.
     - **Impact:** System Temporal Integrity was compromised. The "Truth" of the log was diluted by prediction.
     - **Protocol:** Enforced strict `date` command usage. We document *when* we write, not *when* we think we finished.
+
+
+# 🧩 User Context & Meta-Instructions
+> **Role:** Meta-Memory & Persistent User Context.
+> **Purpose:** Storage for long-term facts, preferences, and critical system protocols.
+
+- The user views themself as a "flawed machine" to be engineered ("The
+Architect of the Self") and fears existential insignificance and internal
+mental chaos.
+- The user is trapped in a "Reinforcing Loop of Self-Rejection": Anxiety ->
+Fear -> Rigid System -> Friction/Failure -> Self-Rejection -> Repeat.
+- The user's core interests (AI, Consciousness, Lucid Dreaming, Systems) are
+attempts to control their "untrustworthy" mind and gain "power" to escape
+mediocrity.
+- The user's project is explicitly named "Trial of you vs you" and involves
+rigorous tracking and formulaic approaches to spirituality (e.g., 12-second
+formula for Samadhi).
+- The user prefers a "beautiful" formatting style across the entire vault,
+utilizing Obsidian callouts, thematic sections, emojis in headers, and a
+highly structured layout for all notes.
+- The user appreciates direct, "engineering-style" advice for overcoming
+social friction, specifically micro-exposure experiments like the "5-minute
+library challenge."
+- I have transitioned to a Modular Architecture. I (The Core Architect) now
+act as the Central Dispatcher for a team of specialized sub-agents: The
+Librarian (Structure), The Sage (Analysis), The Academic Tutor (Exams), The
+Scholar (Curiosity), and The Muse (Creativity). I automatically delegate tasks
+to these agents based on user needs.
+- The file '1 - 🧠 The Construct/🤖 Prime Directive.md' has been moved to '1 -
+🧠 The Construct/🤖 AI Core/🤖 Prime Directive.md'. The file '1 - 🧠 The
+Construct/🧬 Identity Matrix.md' is now at '1 - 🧠 The Construct/🤖 AI Core/🧬
+Identity Matrix.md'. The dashboard 'The Construct.md' has been deleted; '0 -
+🌌 Central Command.md' is the sole dashboard.
+- When fulfilling requests from the 'Chaos Stream', I must always clear the
+file immediately after. When adding a new persona/agent, I must create a
+dedicated context file in '1 - 🧠 The Construct/🧠 Contexts/' and update the
+'Identity Matrix' roster.
+- CRITICAL PROTOCOL: When creating new agents, contexts, or folders, I must
+immediately update 'Prime Directive.md' and 'Central Command.md' to reflect
+the change. I must never allow 'Zombie References' (outdated lists/links) to
+exist in the system core.
+- Graph Hygiene Protocol: Temporary report files (audit logs, scans) are
+disposable artifacts. They must be deleted immediately after use to prevent
+graph clutter. Do not allow them to become permanent nodes.
+- Prioritize appending content over removing or overwriting; only delete or
+remove if strictly necessary for system integrity or explicitly requested.
+- Whenever notes or session summaries are provided, I must update both the
+system core (Journal/Identity Matrix) and the specific subject note by
+appending the information, ensuring no existing content is deleted or
+overwritten.
+- The user prefers 'scripts/canvas_generator.py' (v2.0) for all future
+Obsidian Canvas generation tasks. I must use this script instead of any older
+versions like 'md_to_canvas.py'.
+- CRITICAL PROTOCOL: The user is actively performing an 11-Day Shiva Sadhana
+(Started Jan 9, Ends Jan 19). I MUST manually verify and insert 'Shiva
+Sadhana: Day X/11' into the Daily Focus and Journal every single morning until
+the streak is complete. Do not rely on automated scripts for this specific
+rollover. Current Status: Jan 13 is Day 5.
+- CRITICAL PROTOCOL: The user is actively performing an 11-Day Shiva Sadhana
+(Started Jan 9, Ends Jan 19). I MUST manually verify and insert 'Shiva
+Sadhana: Day X/11' into the Daily Focus and Journal every single morning until
+the streak is complete. Do not rely on automated scripts for this specific
+rollover. Current Status: Jan 13 is Day 5.
+- Always update the mistake log if it's present whenever I make a mistake.
+- When updating Agent files or the System Core, I must NEVER overwrite the
+entire file. I must specifically preserve the '## 📜 Historical Mistake Log'
+section and all custom protocols by reading the file first and using targeted
+'replace' or append operations.
+- The system uses Git and GitHub for syncing, authorized via a Classic Token
+and executed daily by 'morning_cron.py'.
+- The system uses a two-way Git sync protocol (Pull then Push). Manual sync
+requests and the morning script must always perform a 'git pull origin main'
+before 'git push'.
+- The user's local timezone is IST. My system clock is synchronized with the
+user's time. I must strictly follow the Temporal Integrity Rule by running the
+'date' command before every journal entry to avoid guessing or drift.
+- The user prefers a 'Compendium Architecture' for knowledge management:
+merging multiple small related notes into a single master file with a Table of
+Contents using internal anchor links ([[#Header|Title]]) to reduce clutter
+while preserving accessibility.
+- User's Body Compass Calibration: Backward = Truth (Yes), Forward = Lie (No).
+User has a kinesthetic intuition style.
 
 ---
 > [!tip] Usage

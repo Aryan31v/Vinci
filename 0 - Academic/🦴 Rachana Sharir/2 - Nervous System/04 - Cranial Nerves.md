@@ -110,6 +110,15 @@ graph LR
 
     - **Parasympathetic:** Constricts Pupil (Sphincter pupillae) & Accommodation (Ciliary muscle).
 
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Midbrain] --> B(Cavernous Sinus)
+    B --> C(Sup. Orbital Fissure)
+    C --> D[Orbit]
+```
+
 - **Clinical:** *Ptosis* (Drooping eyelid), *Squint*, Dilated pupil.
 
 
@@ -123,6 +132,15 @@ graph LR
 - **Function:** Supplies **Superior Oblique** muscle.
 
 - **Action:** Depresses and intorts the eye ("Cheater's Muscle" - looking down and in).
+
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Midbrain (Dorsal)] --> B(Cavernous Sinus)
+    B --> C(Sup. Orbital Fissure)
+    C --> D[Sup. Oblique Muscle]
+```
 
 - **Clinical:** Diplopia (Double vision) when looking down (e.g., walking downstairs).
 
@@ -142,6 +160,16 @@ graph LR
 
     3.  **V3 Mandibular (Mixed):** Chin, lower teeth, tongue (sensation), **Muscles of Mastication**. (Exit: F. Ovale).
 
+
+- **Pathway:**
+```mermaid
+graph TD
+    A[Pons] --> B{Trigeminal Ganglion}
+    B -->|V1| C(Sup. Orbital Fissure)
+    B -->|V2| D(Foramen Rotundum)
+    B -->|V3| E(Foramen Ovale)
+```
+
 - **Clinical:** *Trigeminal Neuralgia* (Severe facial pain).
 
 
@@ -155,6 +183,16 @@ graph LR
 - **Function:** Supplies **Lateral Rectus** muscle.
 
 - **Action:** Abducts the eye (moves it laterally).
+
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Pons] --> B(Dorello's Canal)
+    B --> C(Cavernous Sinus)
+    C --> D(Sup. Orbital Fissure)
+    D --> E[Lat. Rectus Muscle]
+```
 
 - **Clinical:** Medial Squint (Eye turns inward) due to unopposed Medial Rectus.
 
@@ -200,6 +238,14 @@ graph LR
 
     2.  **Vestibular Part:** Balance (Equilibrium).
 
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Pons] --> B(Int. Acoustic Meatus)
+    B --> C[Inner Ear]
+```
+
 - **Clinical:** Vertigo, Nystagmus, Tinnitus (Ringing), Sensorineural Deafness.
 
 
@@ -217,6 +263,14 @@ graph LR
     - **Motor:** Stylopharyngeus muscle (Swallowing).
 
     - **Parasympathetic:** **Parotid Gland** (Saliva).
+
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Medulla] --> B(Jugular Foramen)
+    B --> C[Pharynx / Tongue]
+```
 
 - **Clinical:** Loss of gag reflex, difficulty swallowing (Dysphagia).
 
@@ -236,6 +290,15 @@ graph LR
 
     - **Parasympathetic:** Heart (Slows HR), Lungs (Bronchoconstriction), GI Tract (Peristalsis).
 
+
+- **Pathway:**
+```mermaid
+graph TD
+    A[Medulla] --> B(Jugular Foramen)
+    B --> C[Carotid Sheath]
+    C --> D[Thorax / Abdomen]
+```
+
 - **Clinical:** Hoarseness of voice (Recurrent Laryngeal N. damage), Dysphagia.
 
 
@@ -248,6 +311,14 @@ graph LR
 
 - **Function:** Supplies **Sternocleidomastoid** (Neck turning) & **Trapezius** (Shoulder shrugging).
 
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Medulla / Spine] --> B(Jugular Foramen)
+    B --> C[SCM / Trapezius]
+```
+
 - **Clinical:** Inability to shrug shoulder or turn neck against resistance.
 
 
@@ -259,5 +330,13 @@ graph LR
 - **Type:** Pure Motor.
 
 - **Function:** Muscles of the **Tongue** (Movement).
+
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Medulla] --> B(Hypoglossal Canal)
+    B --> C[Tongue Muscles]
+```
 
 - **Clinical:** Tongue deviates to the *affected* side upon protrusion. Difficulty in speech (Dysarthria).

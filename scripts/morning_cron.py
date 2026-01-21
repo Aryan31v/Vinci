@@ -101,6 +101,9 @@ def generate_daily_entry(today_date, zombie_tasks=None):
 > [!quote] Daily Focus
 > *Pending User Command.*
 
+> [!danger] CRITICAL PROTOCOL
+> **Consult [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🧩 User Context & Meta-Instructions|🧩 User Context & Meta-Instructions]] before starting.**
+
 ### 🧠 Mind Stream
 > [!energy] Status Check
 > **Energy:** [?/10] | **Mood:** [?/10]
@@ -268,6 +271,7 @@ def main():
                 print("\n⚠️  Chaos Stream contains unprocessed data.")
     
     print("\n✅ Morning Protocol Complete.")
+    print("\n🚨 REMINDER: Consult 'User Context & Meta-Instructions' before performing ANY task.")
 
 if __name__ == "__main__":
     main()

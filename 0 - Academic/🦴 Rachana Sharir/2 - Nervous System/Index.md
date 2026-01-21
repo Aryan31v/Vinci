@@ -51,7 +51,7 @@
 - **Neuroglia & Nerve Fibers**
 
 ## 🛡️ VII. Protective Coverings
-- **Meninges:** [[0 - Academic/🦴 Rachana Sharir/2 - Nervous System/🧠 Meninges|🧠 Meninges]] (Dura, Arachnoid, Pia)
+- **Meninges:** [[0 - Academic/🦴 Rachana Sharir/2 - Nervous System/07 - Meninges|07 - Meninges]] (Dura, Arachnoid, Pia)
 
 ## 🌊 VIII. Ventricular System & CSF
 - Ventricles of Brain

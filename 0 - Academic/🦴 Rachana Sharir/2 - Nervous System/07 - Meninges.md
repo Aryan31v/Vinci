@@ -1,4 +1,8 @@
 # 🧠 Meninges (Mastishka Avarana) & Dural Venous Sinuses
+> [!info] Meta
+> **Parent:** [[0 - Academic/🦴 Rachana Sharir/2 - Nervous System/Index|🧠 Nervous System Index]]
+> **Tags:** #anatomy #meninges #clinical
+
 > [!info] Quick Summary
 > The **Meninges** are three membranous envelopes protecting the brain/spinal cord. The **Dura Mater** is the most complex, forming venous sinuses and rigid folds to partition the brain.
 > *Ayurvedic Correlation:* **Mastulunga Avarana** (Brain Coverings) & **Tarpaka Kapha** (CSF).

@@ -61,7 +61,15 @@
 
 - **Function:** Sense of Smell (Olfaction).
 
-- **Pathway:** Olfactory receptors (Nasal mucosa) → Cribriform Plate (Ethmoid bone) → Olfactory Bulb → Olfactory Tract → Temporal Lobe.
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Nasal Mucosa] -->|Receptors| B(Cribriform Plate)
+    B --> C[Olfactory Bulb]
+    C --> D[Olfactory Tract]
+    D --> E[Temporal Lobe]
+```
 
 - **Clinical:** *Anosmia* (Loss of smell) in fracture of cribriform plate.
 
@@ -75,7 +83,16 @@
 
 - **Function:** Vision.
 
-- **Pathway:** Retina (Ganglion cells) → Optic Canal → Optic Chiasm (Decussation) → Optic Tract → Lateral Geniculate Body → Visual Cortex (Occipital Lobe).
+
+- **Pathway:**
+```mermaid
+graph LR
+    A[Retina] -->|Optic N.| B(Optic Canal)
+    B --> C{Optic Chiasm}
+    C -->|Decussation| D[Optic Tract]
+    D --> E[Lat. Geniculate Body]
+    E --> F[Visual Cortex]
+```
 
 - **Clinical:** *Anopsia* (Blindness). Pituitary tumors can compress the Chiasm causing Bitemporal Hemianopia (Tunnel vision).
 
@@ -157,7 +174,15 @@
 
     - **Parasympathetic:** Lacrimal (Tears), Submandibular & Sublingual Salivary glands.
 
-- **Course:** Enters Internal Acoustic Meatus → Facial Canal → Exits Stylomastoid Foramen.
+
+- **Course:**
+```mermaid
+graph LR
+    A[Brainstem] --> B(Int. Acoustic Meatus)
+    B --> C[Facial Canal]
+    C --> D(Stylomastoid Foramen)
+    D --> E[Face]
+```
 
 - **Clinical:** *Bell's Palsy* (LMN lesion) - facial asymmetry, loss of taste, dry eye.
 

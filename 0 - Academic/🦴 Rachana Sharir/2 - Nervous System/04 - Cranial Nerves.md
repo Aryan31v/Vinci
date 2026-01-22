@@ -100,23 +100,41 @@ graph LR
 
 ## 👁️ III. Oculomotor Nerve
 
+
+
 - **Origin:** Midbrain (Ventral aspect).
 
 - **Type:** Motor.
 
 - **Function:**
 
+
     - **Somatic:** Moves 4/6 extraocular muscles (Superior, Inferior, Medial Recti & Inferior Oblique) + Levator Palpebrae Superioris (Lifts eyelid).
 
     - **Parasympathetic:** Constricts Pupil (Sphincter pupillae) & Accommodation (Ciliary muscle).
 
-
 - **Pathway:**
+
 ```mermaid
+
+
+
 graph LR
-    A[Midbrain] --> B(Cavernous Sinus)
+
+
+
+    A[Midbrain (Ventral)] --> B(Lat. Wall of Cavernous Sinus)
+
+
+
     B --> C(Sup. Orbital Fissure)
+
+
+
     C --> D[Orbit]
+
+
+
 ```
 
 - **Clinical:** *Ptosis* (Drooping eyelid), *Squint*, Dilated pupil.
@@ -137,7 +155,7 @@ graph LR
 - **Pathway:**
 ```mermaid
 graph LR
-    A[Midbrain (Dorsal)] --> B(Cavernous Sinus)
+    A[Midbrain (Dorsal)] -->|Decussation| B(Lat. Wall of Cavernous Sinus)
     B --> C(Sup. Orbital Fissure)
     C --> D[Sup. Oblique Muscle]
 ```
@@ -189,7 +207,7 @@ graph TD
 ```mermaid
 graph LR
     A[Pons] --> B(Dorello's Canal)
-    B --> C(Cavernous Sinus)
+    B --> C(Inside Cavernous Sinus)
     C --> D(Sup. Orbital Fissure)
     D --> E[Lat. Rectus Muscle]
 ```

@@ -8,10 +8,10 @@
 
 ## ⚡ Module 1: The Circuit (Nervous System)
 *Physics Concept: Electricity & Resistance (Ohm's Law).*
-- [ ] **1.1 The Battery:** How "Resting Potential" stores energy in your nerves.
+- [x] **[[1.1 - The Battery|1.1 The Battery]]:** How "Resting Potential" stores energy in your nerves.
 - [ ] **1.2 The Signal:** Action Potentials as binary code (0s and 1s).
-- [ ] **1.3 Resistance:** Why "Anxiety" is just electrical noise/friction.
-- [ ] **1.4 Rewiring:** Neuroplasticity as circuit redesign.
+- [x] **[[1.3 - Resistance|1.3 Resistance]]:** Why "Anxiety" is just electrical noise/friction.
+- [x] **[[1.4 - Rewiring|1.4 Rewiring]]:** Neuroplasticity as circuit redesign.
 
 ## 🌡️ Module 2: The Engine (Metabolism)
 *Physics Concept: Thermodynamics & Energy ($E=mc^2$ applied).*

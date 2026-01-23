@@ -187,7 +187,7 @@ The compound itself is an adjective describing a third entity. The Vigraha usual
 2.  **Raktapittam:** *Raktam cha Pittam cha* (Dvandva? No. See note below) OR *Raktam cha tat Pittam cha* (Karmadhāraya - Red Pitta) OR *Raktam iva Pittam* (Comparison). *Note: In Ayurveda, often treated as a specific disease entity.*
 3.  **Tridoṣa:** *Trayāṇām doṣāṇām samāhāraḥ* (Dvigu).
 4.  **Aṣṭāṅgam:** *Aṣṭau aṅgāni yasya tat* (Bahuvrīhi - That which has 8 limbs = Ayurveda) OR *Aṣṭānām aṅgānām samāhāraḥ* (Dvigu - Collection of 8 limbs). Context matters!
-5.  **Rogamukta:** *Rogāt muktaḥ* (5th Tatpuruṣa).
+5.  **Rogamukta:** *Rogāt muktaḥ* (5th Tatpuruṣa). 
 
 ---
 #academic #sanskrit #grammar #bams #samasa #notes

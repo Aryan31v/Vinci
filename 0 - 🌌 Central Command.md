@@ -58,6 +58,13 @@ dv.table(
 
 ## 📅 Daily Focus (Today)
 - [ ]
+- [ ] **🔥 SUBMIT SAMHITA JOURNAL:** #critical
+- [ ] **🔥 SUBMIT ANATOMY JOURNAL:** #critical
+- [ ] **🔥 SUBMIT PADARTHA JOURNAL:** #critical
+- [ ] **Sanskrit:** Finalize Slides for Project. #priority
+- [ ] **Task:** Send photos for printing to father. #urgent
+- [ ] **Meditation:** 20 Minutes (Maintaining the Channel). #daily
+- [ ] **Study:** Review Sanskrit Vibhakti & Samasa. #academic
 
 ## 📂 Vault Map
 - **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]]

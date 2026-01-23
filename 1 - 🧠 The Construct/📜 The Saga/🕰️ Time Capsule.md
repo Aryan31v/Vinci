@@ -2,7 +2,7 @@
 
 > **Purpose:** This file contains experiments, behaviors, and events that occurred in the user's past, providing deep context for "The Architect" without cluttering the daily journal.
 
----## 📅 Sunday, 11
+## 📅 Sunday, 11
 > [!quote] Daily Focus
 > **Analysis & Integration.**
 

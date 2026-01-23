@@ -57,17 +57,11 @@ dv.table(
 ```
 
 ## 📅 Daily Focus (Today)
-- [ ] **🔥 SUBMIT SAMHITA JOURNAL:** #critical
-- [ ] **🔥 SUBMIT ANATOMY JOURNAL:** #critical
-- [ ] **🔥 SUBMIT PADARTHA JOURNAL:** #critical
-- [ ] **Sanskrit:** Finalize Slides for Project. #priority
-- [ ] **Task:** Send photos for printing to father. #urgent
-- [ ] **Meditation:** 20 Minutes (Maintaining the Channel). #daily
-- [ ] **Study:** Review Sanskrit Vibhakti & Samasa. #academic
+- [ ]
 
 ## 📂 Vault Map
 - **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]]
-- **The Brain:** [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|00 - Mental Models Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/01 - System Core Compendium|01 - System Core Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium|02 - Context Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/03 - Architect Chat|03 - Architect Chat]]
+- **The Brain:** [[1 - 🧠 The Construct/🤖 AI Core/00 - Mental Models Compendium|00 - Mental Models Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/01 - System Core Compendium|01 - System Core Compendium]] | [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium|02 - Context Compendium]]
 - **Blueprints:** [[The Blueprints/🎓 Master Study Template|🎓 Master Study Template]] | [[The Blueprints/🏷️ Tagging Standard|🏷️ Tagging Standard]] | [[The Blueprints/📚 Scholar Note Standard|📚 Scholar Note Standard]] | [[The Blueprints/🔥 Protocol True Learning|🔥 Protocol True Learning]] | [[The Blueprints/🧠 Deep Dive Project Template|🧠 Deep Dive Project Template]]
 - **The Academy:** [[0 - Academic/🎓 BAMS Master Dashboard|🎓 BAMS Master Dashboard]]
 

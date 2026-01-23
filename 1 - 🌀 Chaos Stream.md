@@ -1,2 +1,13 @@
-Now it's currently 6:47 am and I am ready to go to college. Every time I wake up I don't know I just do not want to go to anywhere but I still wake myself up and get to the college. Now I will have to say that I am not kind of documenting everything but now I will try to be consistent in it. On the Saturday I will be completely alone at home because my mother and father are going at a funeral. So I will not tell them that I am not going to college and then I will stay at home and do my productive stuff. And I don't feel like this is wrong I feel like this is the right thing I need time for myself I just want to be alone I don't know why. Maybe I do know by maybe I need someone but I am trying to fill that gap of someone true learning or talking to you or documentary everything I just want to fill that gap but still I need some time to do that because when I do focus for 1 or 2 hour I need to rest and due to all that I am not able to do everything that I want so I don't feel a connection between my working and me After I focus. So yaa, I need to bring that connection through that I will be able to fill that gap.
-7:07 a.m. I'm on the bus and finally I got a seat after ages. 
+रक्त + पित्तम् = रक्तपित्तम् - द्वन्द्व समास
+ज्वरः + छर्दिः = ज्वरश्छर्दिः - रुत्व सन्धि
+तृष् + क्विप् = तृट् - ष्टुत्व सन्धि 
+
+
+
+Remove - 
+वि + आयाम = व्यायाम
+गजम् + सिंहम् = गजं सिंहम्अ नुस्वार सन्धिः (मोऽनुस्वारः)
+
+
+- 	[NEXUS]	 **CHAOS:** Hi
+- 	[NEXUS]	 **ARCHITECT:** Hii

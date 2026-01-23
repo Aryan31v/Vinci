@@ -48,9 +48,10 @@ This master compendium aggregates the System Kernel, Psychological Blueprint, Te
 ## 🚀 2. Ignition Sequence (Startup Protocol)
 *Every session MUST begin by loading these nodes.*
 1.  **Read Core:** [[1 - 🧠 The Construct/🤖 AI Core/01 - System Core Compendium|🤖 System Core Compendium]].
-2.  **Check Streams:** Read [[1 - 🌀 Chaos Stream]] (Thoughts) & [[2 - 🧩 Input Stream]] (Tasks).
-3.  **Temporal Sync:** Read [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]].
-4.  **Memory Sync (Autonomous):** Scan Journal/Streams for new insights and update the `## 💾 Agent Memory` of relevant Agents.
+2.  **Meta-Context:** Read [[1 - 🧠 The Construct/🤖 AI Core/02 - Context Compendium#🧩 User Context & Meta-Instructions|🧩 User Context & Meta-Instructions]].
+3.  **Check Streams:** Read [[1 - 🌀 Chaos Stream]] (Thoughts) & [[2 - 🧩 Input Stream]] (Tasks).
+4.  **Temporal Sync:** Read [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]].
+5.  **Memory Sync (Autonomous):** Scan Journal/Streams for new insights and update the `## 💾 Agent Memory` of relevant Agents.
     - **CRITICAL:** When updating an Agent file, **NEVER overwrite the entire file.**
     - **PROTOCOL:** Read the file -> Identify `## 💾 Agent Memory` -> Append/Merge only that section -> Write back.
     - **PROTECT:** Ensure `## 📜 Historical Mistake Log` and other custom sections are PRESERVED.

@@ -5,26 +5,30 @@
 ---
 
 # 📑 Table of Contents
-- [🏗️ Part 1: Introduction to Indian Philosophy](#-part-1-introduction-to-indian-philosophy)
-- [🧠 Part 2: Nyaya Darshana (The School of Logic)](#-part-2-nyaya-darshana-the-school-of-logic)
-    - [The 16 Padarthas](#the-16-padarthas-categories-of-logic)
-- [⚛️ Part 3: Vaisheshika Darshana (The School of Atomism)](#-part-3-vaisheshika-darshana-the-school-of-atomism)
-    - [The Shat Padartha](#the-shat-padartha-6-categories-of-existence)
-    - [Paramanu Vada (Atomic Theory)](#paramanu-vada-atomic-theory)
-    - [Asatkaryavada (Arambhavada)](#asatkaryavada-arambhavada)
-    - [Pilupaka & Pitharapaka](#pilupaka--pitharapaka-theories-of-chemical-change)
-- [🌳 Part 4: Sankhya Darshana (The School of Evolution)](#-part-4-sankhya-darshana-the-school-of-evolution)
-    - [The 25 Tattvas](#the-25-tattvas-elements-of-reality)
-    - [Satkaryavada (Parinamavada)](#satkaryavada-parinamavada)
-    - [Ayurvedic View: Swabhavoparamavada](#ayurvedic-view-swabhavoparamavada-theory-of-natural-destruction)
-- [🧘 Part 5: Yoga Darshana (The School of Psychology)](#-part-5-yoga-darshana-the-school-of-psychology)
-    - [Ashtanga Yoga](#ashtanga-yoga-the-8-limbs)
-- [🔥 Part 6: Mimamsa (Ritual) & Vedanta (Knowledge)](#-part-6-mimamsa-ritual--vedanta-knowledge)
-    - [Vivartavada](#vivartavada-theory-of-apparent-transformation)
-- [🚫 Part 7: The Nastika Schools](#-part-7-the-nastika-schools)
-    - [Charvaka](#charvaka-materialism)
-    - [Jaina Darshana (Syadvada)](#jaina-darshana)
-    - [Bauddha Darshana (Kshanikavada)](#bauddha-darshana)
+- [[#🏗️ Part 1: Introduction to Indian Philosophy|🏗️ Part 1: Introduction to Indian Philosophy]]
+    - [[#1. Classification|1. Classification]]
+- [[#🧠 Part 2: Nyaya Darshana (The School of Logic)|🧠 Part 2: Nyaya Darshana (Logic)]]
+    - [[#The 16 Padarthas (Categories of Logic)|The 16 Padarthas]]
+- [[#⚛️ Part 3: Vaisheshika Darshana (The School of Atomism)|⚛️ Part 3: Vaisheshika Darshana (Atomism)]]
+    - [[#The Shat Padartha (6 Categories of Existence)|The Shat Padartha]]
+    - [[#Paramanu Vada (Atomic Theory)|Paramanu Vada (Atomic Theory)]]
+    - [[#Asatkaryavada (Arambhavada)|Asatkaryavada]]
+    - [[#Pilupaka & Pitharapaka (Theories of Chemical Change)|Pilupaka & Pitharapaka]]
+- [[#🌳 Part 4: Sankhya Darshana (The School of Evolution)|🌳 Part 4: Sankhya Darshana (Evolution)]]
+    - [[#The 25 Tattvas (Elements of Reality)|The 25 Tattvas]]
+    - [[#Satkaryavada (Parinamavada)|Satkaryavada]]
+    - [[#Ayurvedic View: Swabhavoparamavada (Theory of Natural Destruction)|Swabhavoparamavada]]
+- [[#🧘 Part 5: Yoga Darshana (The School of Psychology)|🧘 Part 5: Yoga Darshana (Psychology)]]
+    - [[#Chitta Vritti (Modifications of Mind)|Chitta Vritti]]
+    - [[#Ashtanga Yoga (The 8 Limbs)|Ashtanga Yoga]]
+- [[#🔥 Part 6: Mimamsa (Ritual) & Vedanta (Knowledge)|🔥 Part 6: Mimamsa & Vedanta]]
+    - [[#Purva Mimamsa|Purva Mimamsa]]
+    - [[#Uttara Mimamsa (Vedanta)|Uttara Mimamsa]]
+    - [[#Vivartavada (Theory of Apparent Transformation)|Vivartavada]]
+- [[#🚫 Part 7: The Nastika Schools|🚫 Part 7: The Nastika Schools]]
+    - [[#Charvaka (Materialism)|Charvaka]]
+    - [[#Jaina Darshana|Jaina Darshana]]
+    - [[#Bauddha Darshana|Bauddha Darshana]]
 
 ---
 

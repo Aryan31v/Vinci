@@ -7,16 +7,19 @@ This master compendium aggregates all Mental Models (Human, AI, and Shared) into
 
 ## 📑 Table of Contents
 
-### ⚔️ Human: Actionable Protocols
+### 📚 Human: Learning Models
 1.  **[[#⚡ The Tesla Work Ethic: High-Voltage Cognitive Engineering|The Tesla Work Ethic]]**
-2.  **[[#👤 Human Model: The Nervous System Override|The Nervous System Override]]**
-3.  **[[#👤 Human Model: The Dead Wood|The Dead Wood]]**
-4.  **[[#👤 Human Model: The Solitude Window|The Solitude Window]]**
-5.  **[[#👤 Human Model: The Binary Day|The Binary Day]]**
-6.  **[[#👤 Human Model: The Shiny Object Detector|The Shiny Object Detector]]**
-7.  **[[#👤 Human Model: The Closed Box Protocol|The Closed Box Protocol]]**
-8.  **[[#👤 Human Model: The Burning Ship Protocol|The Burning Ship Protocol]]**
-9.  **[[#👤 Human Model: The One Output Rule|The One Output Rule]]**
+2.  **[[#⚔️ Protocol Learning Mastery: Tolerance Training|Protocol Learning Mastery]]**
+3.  **[[#👤 Human Model: The Closed Box Protocol|The Closed Box Protocol]]**
+4.  **[[#👤 Human Model: The Burning Ship Protocol|The Burning Ship Protocol]]**
+5.  **[[#👤 Human Model: The One Output Rule|The One Output Rule]]**
+
+### ⚔️ Human: State & Execution Protocols
+1.  **[[#👤 Human Model: The Nervous System Override|The Nervous System Override]]**
+2.  **[[#👤 Human Model: The Dead Wood|The Dead Wood]]**
+3.  **[[#👤 Human Model: The Solitude Window|The Solitude Window]]**
+4.  **[[#👤 Human Model: The Binary Day|The Binary Day]]**
+5.  **[[#👤 Human Model: The Shiny Object Detector|The Shiny Object Detector]]**
 
 ### 🧠 Human: Cognitive Principles
 1.  **[[#📈 Knowledge Grows Exponentially|Knowledge Grows Exponentially]]**
@@ -42,7 +45,7 @@ This master compendium aggregates all Mental Models (Human, AI, and Shared) into
 
 ---
 
-# ⚔️ Human: Actionable Protocols
+# 📚 Human: Learning Models
 
 ## ⚡ The Tesla Work Ethic: High-Voltage Cognitive Engineering
 > [!info] Archetypal Profile
@@ -54,71 +57,18 @@ This master compendium aggregates all Mental Models (Human, AI, and Shared) into
 
 ---
 
-## 👤 Human Model: The Nervous System Override
-> "The war is biological, not just psychological."
+## ⚔️ Protocol Learning Mastery: Tolerance Training
+> "The Unified Engine for Academic Dominance."
+> **Source:** [[1 - 🧠 The Construct/🔬 The Scholar's Study/⚔️ Protocol Learning Mastery|⚔️ Protocol Learning Mastery]]
 
 ### 🧩 Concept
-The feeling of "laziness" or "procrastination" is often a biological "Fight or Flight" response. When faced with a difficult, boring, or threatening task (e.g., Sanskrit), the nervous system perceives it as danger and triggers an **Escape Response** into dopamine-rich activities (Meta-Work, AI, Movies).
+You are not training your mind; you are training your **Nervous System** to tolerate the discomfort of rote memorization without escaping into "Meta-Work."
 
-### ⚔️ Application
-Do not try to "motivate" the mind with logic. Instead, train the body to sit in the fire.
-- **Protocol:** [[1 - 🧠 The Construct/🔬 The Scholar's Study/⚔️ Protocol Learning Mastery|Tolerance Training]].
-- **The Rep:** Finish the timer (25 mins) even if output is zero.
-
----
-
-## 👤 Human Model: The Dead Wood
-> "You must burn off what is not you to find what is."
-
-### 🧩 Concept
-The "Judge" inside the mind compares the **Actual Self** to the **Ideal Self**. The gap between them causes Guilt and Anxiety. These feelings are the *fire* trying to burn away "Dead Wood"—the lies, habits, and pre-emptive excuses (e.g., "I don't want to be a doctor") used to protect the ego from effort.
-
-### ⚔️ Application
-Surrender to the burn. Stop protecting the excuse. Let the false identity die so the competent identity can emerge.
-
----
-
-## 👤 Human Model: The Solitude Window
-> "Solitude is high-value capital."
-
-### 🧩 Concept
-Deep work and self-reconstruction require periods of zero observation. The "Solitude Window" is a rare asset where social friction is eliminated, allowing for maximum cognitive throughput.
-
-### ⚔️ Application
-Wasting a Solitude Window on "Meta-Work" (System tweaking) is a permanent loss of capital. Use these windows exclusively for the **Highest Value Task** (The "All In" work).
-
----
-
-## 👤 Human Model: The Binary Day
-> "Two modes, one mission."
-
-### 🧩 Concept
-To eliminate decision fatigue and optimization addiction, the day is split into exactly two primary modes. There is no middle ground.
-
-### ⚔️ The Lanes
-1. **Physics Mode (Pre-6 PM):** Focused solely on deep physics understanding.
-2. **Academic Mode (6 PM - Onward):** Focused solely on BAMS syllabus and exam prep.
-
-### ⚠️ The Rules
-- **No Blurring:** Do not do Academics during Physics time, and vice versa.
-- **Secondary Work/Fun:** Meditation, Consciousness research, etc., are "off-primary" activities. They can be for relaxation or secondary work/research, but they must not displace the primary lanes.
-- **Awareness:** Constantly ask: "What mode am I in right now?"
-
----
-
-## 👤 Human Model: The Shiny Object Detector
-> "Detecting procrastination with an alibi."
-
-### 🧩 Concept
-When anxiety about a difficult task (Sanskrit) spikes, the brain seeks a "Shiny Object" (AI, Hacking, New App) to feel productive without the pain. 
-
-### ⚔️ The Filter
-Ask:
-1. Is this REQUIRED for a deadline?
-2. Will I finish this session BEFORE my scheduled task?
-3. Am I doing this because I'm anxious about the upcoming task?
-
-**If any answer is NO → You are procrastinating.**
+### ⚔️ The Protocol (6:00 PM - 7:00 PM)
+1. **Raw Memorization:** Focus only on Sanskrit/Anatomy.
+2. **Strict Constraint:** NO organizing files. NO talking to AI. NO "optimizing."
+3. **Action:** Just pure, slow, ugly memorization.
+4. **Binary Success:** You sat in the chair and did the work for 60 minutes.
 
 ---
 
@@ -161,6 +111,11 @@ Optimization and organization are often sophisticated forms of procrastination. 
 3. **The Feynman Check:** If you cannot explain it to a 5-year-old, the session was an optimization loop, not a learning session.
 
 ---
+
+# ⚔️ Human: State & Execution Protocols
+
+## 👤 Human Model: The Nervous System Override
+
 
 # 🧠 Human: Cognitive Principles
 

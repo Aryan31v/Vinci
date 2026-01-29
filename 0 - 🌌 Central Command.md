@@ -57,7 +57,14 @@ dv.table(
 ```
 
 ## 📅 Daily Focus (Today)
-> ✅ All tasks complete or none set.
+- [x] **🔥 COMPLETE SAMHITA JOURNAL:** (Urgent - Submission Tomorrow). #critical
+- [ ] **🔥 COMPLETE ANATOMY JOURNAL:** (Urgent - Submission Tomorrow). #critical
+- [x] **🔥 COMPLETE PADARTHA JOURNAL:** (Urgent - Submission Tomorrow). #critical
+- [ ] **Sanskrit:** Review final slides and prepare for presentation. #priority
+- [x] **Task:** Find photos/diagrams for printing and send to father. #urgent
+- [ ] **Meditation:** 20 Minutes (Maintaining the Channel). #daily
+- [ ] **Study:** Review Sanskrit Vibhakti & Samasa (Active Recall). #academic
+- [ ] **Anki:** Generate decks for Sanskrit terms identified today. #automation
 
 ## 📂 Vault Map
 - **The Saga:** [[1 - 🧠 The Construct/📜 The Saga/2026-01-January|Current Journal]]
